@@ -1,0 +1,263 @@
+FICHIER: Liste de règles_Projet Test de prompts LLM pour l’évaluation_V2.pdf (5 pages)
+================================================================================
+
+--- PAGE 1 ---
+Template type d’un CPT  
+Les paragraphes en rouges sont les plus intéressants à faire rédiger par l’IA. Les premiers à 
+tester selon nous. 
+Paragraphe du CPT 
+Paragraphe de l’ATec 
+1- Généralités   
+- 
+Descripteur 
+- 
+1.Avis du groupe spécialisé  
+o Domaine d’emploi 
+- 
+2.2 Description du système (pour les 
+composants) 
+2- Textes de référence 
+Dans tout le document dès qu’un document 
+de référence est mentionné. 
+3- Matériaux et composants système (en 
+restant vague décrit dans l’AT)  
+ 
+- 
+2.2 Description du système   
+4- Conception de l’ouvrage  
+ 
+- 
+2.3. Disposition de conception  
+Ce paragraphe contient les éléments décrits 
+dans le paragraphe « Disposition de 
+conception » des Avis techniques. 
+- 
+Ajouter également toute règle 
+relevant de la conception (c’est-à-dire 
+adressée à la maitrise d’œuvre, 
+maitrise d’ouvrage ou à un bureau 
+d’étude) dans le reste du document 
+5- Supports visés  
+- 
+Domaine d’emploi (paragraphe 
+supports) 
+- 
+2.4. Disposition de mise en œuvre 
+(travaux préparatoires et exigences 
+relatives aux supports en travaux 
+neufs et en rénovation) 
+6- Mise en œuvre  
+ 
+- 
+2.4. Disposition de mise en œuvre 
+- 
+2.8 Formation et assistance 
+technique 
++ toute règle relevant de la mise en œuvre 
+dans le reste du document. 
+7- Mise en service / Entretien (vague 
+dans AT) 
+ 
+- 
+2.6 Mise en service 
+- 
+2.7 Maintien en service des 
+performances de l’ouvrage 
+8- Surveillance maintenance réparation 
+(vague dans l’AT) 
+2.7 Maintien en service des performances de 
+l’ouvrage 
+ 
+ 
+Liste de règles pour le prompt : 
+1) Paragraphe Généralités : 
+• 
+Décrire l’objet du CPT 
+
+--- PAGE 2 ---
+• 
+Ajouter un paragraphe « domaine d’application » en indiquant les locaux visés et les 
+locaux non visés. Pour ces locaux, chaque fois que possible, exprimer son classement 
+selon la « Notice sur le classement UPEC et classement UPEC des locaux - e-Cahiers du 
+CSTB, Cahier 3509 » et selon le « Classement des locaux en fonction de l'exposition à 
+l'humidité des parois - e-Cahiers du CSTB, Cahier 3567 ». 
+• 
+Ajouter une paragraphe description du système  
+o Qui définit la notion de système 
+o Qui décrit les différents constituants du système (de manière générale sans 
+conserver les références spécifiques d’un avis technique). 
+• 
+Indiquer que pour toutes dispositions particulières hors CPT il faudra se référer aux Avis 
+techniques. 
+ 
+2) Paragraphe conception de l’ouvrage : 
+Une disposition de conception est une exigence ou une règle technique que doit respecter 
+l’ouvrage lors de sa conception, afin de garantir la conformité, la performance et la durabilité du 
+système ou produit évalué. 
+Elle précise les conditions nécessaires en amont de la mise en œuvre, notamment en ce qui 
+concerne : 
+• 
+les caractéristiques du support (nature, état, planéité, humidité, préparation exigée) ; 
+• 
+les dimensions ou pentes minimales ; 
+• 
+la gestion de l’eau, de la ventilation ou des points singuliers ; 
+• 
+les limites d’emploi ; 
+• 
+les interfaces avec d’autres ouvrages ; 
+ 
+Elles fixent donc le cadre technique dans lequel le système doit être conçu avant d’être mis en 
+œuvre sur chantier. 
+ 
+A partir des Avis techniques, faire un résumé des points communs du paragraphe 2.3. 
+Dispositions de conception. Chaque point important fera l’objet d’un paragraphe distinct. 
+ 
+3) Paragraphe Supports  
+• 
+Décrire la liste des supports visés (un paragraphe par nature de support). Cette liste 
+doit reprendre tous les supports rencontrés dans les Avis techniques (car certains 
+avis techniques ne revendiquent pas tous les cas). 
+• 
+Il doit apparaitre les supports en travaux neuf et en rénovation.  
+• 
+Rappeler quels sont les supports non visés.  
+• 
+Pour chaque support, indiquer les travaux préparatoires. 
+ 
+4) Paragraphe Mise en Œuvre : 
+
+--- PAGE 3 ---
+Règles : 
+• 
+Décrire la mise en œuvre du système étape par étape mais en restant généraliste (sans 
+citer des références de produit de mise en œuvre, des outils, des consommations de 
+produits…) 
+Exemple : Le collage du revêtement est réalisé conformément à l’Avis technique. Le 
+traitement des rives est réalisé nécessairement par remontée en plinthe du revêtement. 
+Un marouflage manuel sera exécuté. 
+• 
+Décrire dans des paragraphes dédiés a minima le traitement des points singuliers 
+suivants : 
+o Raccordement du revêtement de sol au siphon 
+o Raccordement du revêtement de sol au local a²&djacent 
+o Raccordement du revêtement mural au plafond 
+o Traitement des angles 
+o Traitement des joints 
+o Traitement de la remontée en plinthe 
+Cette liste n’est pas exhaustive. 
+Exemple :  
+Traitement des joints :  
+Les opérations de traitement des joints du revêtement mural sont les suivantes : 
+- 
+Chanfreinage manuel à l'aide de l'outillage adapté : il est indispensable de réaliser 
+un chanfreinage régulier et complet des bords de lés et d'apporter un soin particulier 
+au nettoyage du joint (il est impératif de supprimer toutes traces de colle dans les 
+joints). 
+- 
+Soudure à chaud obligatoire avec le cordon d'apport et l'outillage spécifique 
+éventuellement requis, par exemple buse rapide murale avec évent (cf. l'Avis 
+Technique du système douche considéré pour la définition du cordon et de 
+l'outillage spécifique). 
+- 
+Arasage : il est réalisé en deux temps : 
+o pré-arasage avec un couteau 1/4 de lune et un guide d'arasage ; 
+o arasage avec une spatule à araser SLIM ou MOZART. 
+• 
+Ajouter un paragraphe Finitions en détaillant pour chaque point singulier, la finition 
+adaptée (huisserie, traversée…) 
+Voici des exemples de rédactions des paragraphes présents dans le CPT : 
+• 
+Exemple 1 : 
+Il appartient au maître d'œuvre, au moment de la conception des locaux de douches de 
+tenir compte de la réglementation en vigueur concernant l'accessibilité aux personnes à 
+mobilité réduite (PMR) ainsi que des règles décrites dans le document intitulé « Guide 
+des salles d'eau accessibles à usage individuel dans les bâtiments d'habitation ». 
+• 
+Exemple 2 : 
+Sur support à base de bois, le siphon est systématiquement posé sur un cadre menuisé 
+ou sur une platine de renfort spécifique, ces derniers étant fixés de façon solidaire et 
+rigide dans l'ossature bois (lambourdes) ou dans un chevêtre. 
+Des schémas de mise en œuvre adaptés devront figurer dans le dossier technique du 
+Système douche plastique considéré ; 
+
+--- PAGE 4 ---
+• 
+Exemple 3 : 
+Cette solution ne s'applique pas dans le cas d'un support en bois ou en panneaux 
+dérivés du bois ainsi que dans le cas de la pose du revêtement de sol sur sous-couche 
+acoustique. Elle ne s'applique pas non plus dans le cas où l'implantation de la cuvette 
+WC à poser au sol est prévue à moins de 120 cm de la zone d'influence de la pomme 
+de douche (distance < 120 cm du point de fixation du flexible ou du siphon) ; dans ce 
+cas, l'emploi d'une cuvette WC suspendue est obligatoire. 
+Dans tous ces cas, la cuvette doit être à évacuation horizontale. 
+Dans le cas de la mise en œuvre d'une cuvette WC à poser au sol en dehors de la zone 
+d'influence de la pomme de douche (distance > 180 cm du point de fixation du flexible 
+ou du siphon) ou si une paroi de protection contre les projections d'eau est prévue, 
+aucune disposition particulière n'est à prévoir en dehors d'une fixation à l'aide de 
+chevilles chimiques compatibles. 
+Dans le cas de la mise en œuvre d'une cuvette WC à poser au sol à une distance 
+comprise entre 120 et 180 cm de la zone d'influence de la pomme de douche et sans 
+paroi de protection contre les projections d'eau, la pose de la cuvette devra être 
+envisagée sur un socle adapté en béton d'une hauteur de 5 cm minimum. L'étanchéité 
+en partie horizontale sera assurée par remontée en plinthe du revêtement, application 
+en partie supérieure d'une résine sans retrait de 3 mm d'épaisseur minimale et fixation 
+de la cuvette à l'aide de chevilles chimiques compatibles. Cette solution implique 
+l'utilisation d'une cuvette surbaissée. 
+En outre, un joint de calfatage sera exécuté en dessous et autour de la jonction entre la 
+cuvette et le revêtement PVC ou la résine, à l'aide d'un mastic approprié. 
+L'Avis Technique décrira les types de chevilles compatibles et les modalités de 
+traitement. 
+• 
+Exemple 4 : 
+Plenum sans revêtement 
+Dans le cas où un plafond suspendu est prévu dans le local, le plenum pourra être traité 
+de deux façons : 
+o remontée du revêtement de quelques centimètres au-dessus du niveau du 
+plafond suspendu. Dans ce cas de figure, le plafond suspendu devra être installé 
+après la mise en oeuvre du système douche ; 
+o revêtement arrêté au niveau de la cornière périphérique du plafond suspendu. 
+Les supports muraux de type S12 et S13 (cf. Annexe 2) sont admis dans la mesure où 
+le revêtement sur l'autre face n'est pas sensible à l'eau. 
+Les supports de type S7 et S10 (cf. Annexe 2) sont admis en local EB+ privatif (cf. e-
+Cahiers du CSTB, Cahier 3567) uniquement. 
+Plenum avec revêtement 
+Le revêtement sera posé sur toute la hauteur du support mural, en se référant au 
+principe du revêtement mural remonté au-dessus du plafond suspendu traité ci-avant. 
+
+--- PAGE 5 ---
+ 
+ 
+Paragraphes propres aux demandeurs (définis dans les ATec et pas 
+dans le CPT) : 
+Règles : Sur l’exemple de ce qui suit, proposer des paragraphes ci-dessous, il faut rédiger un 
+paragraphe indiquant que ces dispositions seront décrites dans les avis techniques du 
+fabricant. 
+Matériaux et composants : 
+Le paragraphe Matériaux et composants du système est un paragraphe général qui décrit les 
+composants du système mais sans citer des références en particulier. 
+Règles : 
+• 
+Pour chaque composant du système on attend une description généraliste du 
+composant (sans citer de références ni caractéristiques précises). On peut aussi 
+retrouver une liste d’exigences communes à tous les Avis techniques et la répertorier 
+Exemple : La stabilité dimensionnelle à la chaleur, vérifiée selon la norme NF EN ISO 
+23999, ne devra pas être supérieure à 0,8 % pour les deux sens de fabrication. 
+• Revêtement de sol : le revêtement de sol est défini de façon générale (type de 
+revêtement visé) mais ses caractéristiques sont propres à chaque procédé et ne doivent 
+pas être défini avec précision dans le CPT (ex : les dimensions, l’épaisseur, masse 
+surfacique, performance…). 
+• Siphon : Les modèles et références de siphon ne doivent pas apparaitre dans le CPT. On 
+attend que soient décrit les types de siphon qu’il est possible d’utiliser. Il est possible de 
+faire une liste des siphons en fonction du support visé par exemple. 
+Mise en service – Entretien : 
+Le paragraphe Mise en service - Entretien est un paragraphe général qui indique qu’un entretien 
+est nécessaire mais les conditions et dispositions d’entretien sont décrites dans les Avis 
+techniques des fabricants   
+Surveillance – Maintenance – et réparation 
+Le paragraphe Surveillance – Maintenance – et réparation est un paragraphe général qui indique 
+l’intérêt et les attendus en termes de surveillance, maintenance et réparation. Si on trouve des 
+points communs sur ces exigences, les indiquer.  
+Il convient de lister quels sont les points singuliers à inspecter pour assurer une maintenance 
+correcte de l’ouvrage.  
+ 

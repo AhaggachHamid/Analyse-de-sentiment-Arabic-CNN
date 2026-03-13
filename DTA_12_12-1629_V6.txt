@@ -1,0 +1,1573 @@
+FICHIER: DTA 12_12-1629_V6.pdf (33 pages)
+================================================================================
+
+--- PAGE 1 ---
+Secrétariat : 
+CSTB, 
+84 
+avenue 
+Jean 
+Jaurès, 
+FR-77447 
+Marne 
+la 
+Vallée 
+Cedex 
+2
+Tél. : 01 64 68 82 82 - email : secretariat.at@cstb.fr
+www.ccfat.fr 
+Les Avis Techniques sont publiés par le Secrétariat des Avis Techniques, assuré par le CSTB ; Les versions authentifiées sont disponibles gratuitement sur le site Internet du CSTB (http://www.cstb.fr)
+12/12-1629_V6
+Valide du 15 mai 2025  
+au 30 septembre 2028
+Sur le procédé
+Système TARADOUCHE
+Famille de produit/Procédé :  Système de revêtement pour sol et mur de douche à base de PVC 
+Titulaire(s) :  Société GERFLOR SAS
+AVANT-PROPOS
+Les avis techniques et les documents techniques d’application, désignés ci-après indifféremment par Avis 
+Techniques, sont destinés à mettre à disposition des acteurs de la construction des éléments d’appréciation sur 
+l’aptitude à l’emploi des produits ou procédés dont la constitution ou l’emploi ne relève pas des savoir-faire et 
+pratiques traditionnels.
+Le présent document qui en résulte doit être pris comme tel et n’est donc pas un document de conformité ou à 
+la réglementation ou à un référentiel d’une « marque de qualité ». Sa validité est décidée indépendamment 
+de celle des pièces justificatives du dossier technique (en particulier les éventuelles attestations réglementaires).
+L’Avis Technique est une démarche volontaire du demandeur, qui ne change en rien la répartition des responsabilités 
+des acteurs de la construction. Indépendamment de l’existence ou non de cet Avis Technique, pour chaque ouvrage, 
+les acteurs doivent fournir ou demander, en fonction de leurs rôles, les justificatifs requis.
+L’Avis Technique s’adressant à des acteurs réputés connaître les règles de l’art, il n’a pas vocation à contenir d’autres 
+informations que celles relevant du caractère non traditionnel de la technique. Ainsi, pour les aspects du procédé 
+conformes à des règles de l’art reconnues de mise en œuvre ou de dimensionnement, un renvoi à ces règles suffit.
+Groupe Spécialisé n° 12 - Revêtements de sol et produits connexes
+
+--- PAGE 2 ---
+ATec n° 12/12-1629_V6
+Page 2 sur 33
+Versions du document
+Version
+Description
+Rapporteur
+Président
+V6
+Il s’agit de la 6ème révision de l’Avis Technique 12/12-
+1629_V5.
+Il intègre les modifications suivantes :
+•
+Modification de l’adresse du titulaire ;
+•
+Changement de l’appellation “Taralay sécurité SD 
+(Compact et design)” en “Taralay sécurité (Compact 
+et design)” ;
+•
+Suppression des revêtements de sol “ELEGANCE 
+SD” et “TARALAY ULTRA + SD” ;
+•
+ Suppression des colles suivantes pour le collage 
+des revêtements de sol et de la sous couche 
+TARAFOAM : POLYMANG SM, TECHNIMANG et 
+PLASTIMANG de la société BOSTIK / MANG ; 
+SADERFIX T3 de la société BOSTIK / SADER ; STIX 
+A200 MULTI VINYL de la société BOSTIK / 
+MIPLACOL ; THOMSIT K 188 E de la société 
+THOMSIT ;
+•
+ Suppression du primaire R 766 de la société 
+THOMSIT ;
+•
+Suppression des colles suivantes pour le collage des 
+revêtements de mur : CEGE 100 TECHNIC de la 
+société 
+SIKA 
+/ 
+CEGECOL ; 
+POLYMANG 
+SM, 
+TECHNIMANG et PLASTIMANG de la société BOSTIK 
+/ MANG ; SADERFIX T3 de la société BOSTIK / 
+SADER ; STIX A200 MULTI VINYL de la société 
+BOSTIK 
+/ 
+MIPLACOL ; 
+THOMSIT K 188 
+E 
+et 
+THOMSIT K 188 de la société THOMSIT ;
+•
+ Suppression de la plaque de répartition “Plaque 
+DECOBOWL” ;
+•
+Mise à jour du schéma de principe de mise en œuvre 
+des WC suspendus.
+FAU Gilbert
+RIVIERE Yann
+Descripteur :
+Système complet douches à partir de revêtements plastiques de sol et de murs, incluant l'emploi de siphons de sol et la 
+réalisation de pentes.
+ 
+Le domaine d’emploi est défini dans le CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) au § 2.3 détaillé dans 
+les tableaux 1 et 2 et rappelé § 1.1.3 du document. Il est précisé comme suit pour les cuvettes WC : seule la pose suspendue 
+est visée pour ces dernières.
+Les supports visés sont définis au § 1.1.4 du document. Cet Avis Technique ne vise pas la pose sur chapes et dalles flottantes, 
+ni la pose sur supports en bois ou panneaux à base de bois.
+
+--- PAGE 3 ---
+ATec n° 12/12-1629_V6
+Page 3 sur 33
+Table des matières
+1.
+Avis du Groupe Spécialisé .............................................................................................................................5
+1.1.
+Domaine d'emploi accepté..........................................................................................................................5
+1.1.1.
+Zone géographique...............................................................................................................................5
+1.1.2.
+Ouvrages visés ....................................................................................................................................5
+1.1.3.
+Locaux................................................................................................................................................5
+1.1.4.
+Supports .............................................................................................................................................5
+1.2.
+Appréciation .............................................................................................................................................5
+1.2.1.
+Aptitude à l'emploi du procédé ...............................................................................................................5
+1.2.2.
+Durabilité ............................................................................................................................................6
+1.2.3.
+Impacts environnementaux ...................................................................................................................6
+1.3.
+Remarques complémentaires du Groupe Spécialisé ........................................................................................7
+2.
+Dossier Technique........................................................................................................................................8
+2.1.
+Mode de commercialisation.........................................................................................................................8
+2.1.1.
+Mise sur le marché ...............................................................................................................................8
+2.1.2.
+Identification .......................................................................................................................................8
+2.2.
+Description du système TARADOUCHE..........................................................................................................8
+2.2.1.
+Système .............................................................................................................................................8
+2.2.2.
+Revêtements de sol ..............................................................................................................................8
+2.2.3.
+Revêtement MURAL CALYPSO ................................................................................................................9
+2.2.4.
+Sous-couche acoustique ........................................................................................................................9
+2.2.5.
+Produits associés..................................................................................................................................9
+2.3.
+Dispositions de conception........................................................................................................................13
+2.3.1.
+Généralités ........................................................................................................................................13
+2.3.2.
+Pentes, réservations et évacuations ......................................................................................................14
+2.3.3.
+Cas d'une chape fluide - Raccordement aux zones de pentes ....................................................................14
+2.3.4.
+Choix des produits de mise en œuvre associés........................................................................................14
+2.3.5.
+Equipements sanitaires suspendus ........................................................................................................14
+2.3.6.
+Dossier de consultation - Documents Particuliers du Marché .....................................................................14
+2.3.7.
+Chauffage des locaux ..........................................................................................................................15
+2.4.
+Dispositions de mise en œuvre ..................................................................................................................15
+2.4.1.
+Consistance des travaux ......................................................................................................................15
+2.4.2.
+Supports en sol : exigences relatives aux supports et préparation des supports ..........................................15
+2.4.3.
+Mise en œuvre du système ..................................................................................................................15
+2.5.
+Principes de fabrication et de contrôle de cette fabrication.............................................................................20
+2.5.1.
+Revêtements de sol ............................................................................................................................20
+2.5.2.
+Revêtement MURAL CALYPSO...............................................................................................................20
+2.5.3.
+Contrôles de fabrication.......................................................................................................................21
+2.6.
+Réception/mise en service ........................................................................................................................21
+2.7.
+Maintien en service des performances de l'ouvrage - Entretien ......................................................................21
+2.7.1.
+Entretien ...........................................................................................................................................21
+2.7.2.
+Surveillance – Maintenance – Réparation ...............................................................................................21
+2.7.3.
+Glissance...........................................................................................................................................21
+2.8.
+Formation et assistance technique .............................................................................................................21
+2.8.1.
+Formation solier : stage avec attestation individuelle...............................................................................21
+2.8.2.
+Exigences relatives à l'entreprise ..........................................................................................................22
+2.8.3.
+Assistance à la négociation des marchés ................................................................................................22
+2.8.4.
+Assistance lors du chantier...................................................................................................................22
+
+--- PAGE 4 ---
+ATec n° 12/12-1629_V6
+Page 4 sur 33
+2.9.
+Résultats expérimentaux ..........................................................................................................................22
+2.10.
+Références .............................................................................................................................................22
+2.11.
+Annexes du Dossier Technique ..................................................................................................................23
+
+--- PAGE 5 ---
+ATec n° 12/12-1629_V6
+Page 5 sur 33
+1. Avis du Groupe Spécialisé
+Le procédé décrit au chapitre 2 « Dossier Technique » ci-après a été examiné par le Groupe Spécialisé qui a 
+conclu favorablement à son aptitude à l'emploi dans les conditions définies ci-après :
+1.1.
+Domaine d'emploi accepté
+1.1.1.
+Zone géographique
+Cet avis a été formulé pour les utilisations en France métropolitaine.
+1.1.2.
+Ouvrages visés
+Système complet douches à partir de revêtements plastiques de sol et de murs, incluant l'emploi de siphons de sol et la 
+réalisation de pentes.
+1.1.3.
+Locaux
+Le domaine d'emploi est celui défini au § 2.3 du le CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) précisé 
+comme suit : pour les cuvettes WC : seule la pose suspendue est visée pour ces dernières. Les locaux visés sont les suivants :
+o
+Douches individuelles privatives des bâtiments d'habitation et bâtiments hors hospitaliers ou assimilés au plus 
+classés U2s P2 E2 (*) C1 selon la notice du classement UPEC des locaux en vigueur ;
+o
+Douches individuelles et collectives des bâtiments hospitaliers, MAPAD et EHPAD, des bâtiments d'activités sportives 
+et d'enseignement au plus classés U3 P3 E3 C2 selon la notice du classement UPEC des locaux en vigueur ;
+o
+Salles de bain avec baignoire des MAPAD et EHPAD et des bâtiments hospitaliers au plus classées U3P3E3C2 selon la 
+notice du classement UPEC des locaux en vigueur ainsi que les locaux similaires ci-avant susceptibles d'être 
+surclassés U4P3E3C2 par le maitre d'ouvrage ;
+Il s'agit des locaux au plus classés :
+o
+ EB+ collectifs sur support à base de liant hydraulique (Cf. tableau en annexe 1 du CPT « Systèmes Douches 
+Plastiques » (e-cahier du CSTB n° 3781) ;
+o
+ EC (vestiaires de piscines, balnéo ... hors locaux à très forte hygrométrie) sur dallage avec ou sans dalle ou chape 
+rapportéeet sur plancher en béton porté sur vide sanitaire. 
+(*) La présence d'un siphon de sol conduit au surclassement de E2 à E3 du local.
+Les locaux avec plancher chauffant ainsi que les locaux avec présence d'un joint de dilatation sont exclus.
+Faute de dispositions constructives permettant d'assurer la pérennité de l'ouvrage, la mise en œuvre du procédé TARADOUCHE 
+sur chapes ou dalles flottantes n'est pas visée dans le présent document.
+Note : Les locaux visés ci-dessus et en particulier les douches (salles d'eau au sens du classement UPEC des locaux) sont traités 
+sur toute la surface du sol ainsi que sur la totalité de la surface murale, c'est à dire sur toute sa hauteur.
+1.1.4.
+Supports
+1.1.4.1.
+Support neuf ou existant non revêtu ou remis à nu à base de liant hydraulique
+Les supports visés sont définis à l'article 6.1 de la norme NF DTU 53.12 P1-1-1, à l'exclusion des chapes et dalles flottantes, 
+des planchers chauffants et des escaliers.
+Les supports en bois ou panneaux à base de bois tels que définis à l'article 6.2 de la norme NF DTU 53.12 P1-1-1 ne sont 
+pas visés par le présent Avis technique.
+1.1.4.2.
+Supports muraux en neufs et en rénovations
+Les supports visés sont définis à l'article 6.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).
+1.2.
+Appréciation
+1.2.1.
+Aptitude à l'emploi du procédé
+1.2.1.1.
+Réaction au feu
+•
+Le revêtement TARALAY SECURITE COMPACT fait l'objet d'un rapport de classement européen de réaction au feu 
+avec le classement Cfl-s1 valable en pose collée avec une colle acrylique sur supports panneaux de particules de bois 
+non ignifugé de classe Cfl-s1 et de masse volumique ≥ 510 kg/m3 (rapport du CRET n° 2015/056-1 du 10 juillet 
+2015) ;
+•
+Le revêtement de sol TARALAY SÉCURITÉ COMPACT DESIGN fait l'objet d'un rapport de classement européen de 
+réaction au feu avec classement Bfl-s1 valable en pose collée sur support fibres-ciment A2fl-s1 ou A1fl et de masse 
+volumique ≥ 1350 kg/m3 (rapport du CRET n° 2019/148-1 du 09/07/2019) ;
+
+--- PAGE 6 ---
+ATec n° 12/12-1629_V6
+Page 6 sur 33
+Le revêtement de sol TARALAY SÉCURITÉ COMPACT associé à la sous couche TARAFOAM fait l'objet d'un rapport de classement 
+européen de réaction au feu avec classement Cfl-s1, d0 valable en pose collée sur panneau de particules de bois non ignifugé 
+de classe Cfl-S1 et de masse volumique ≥ 510 kg/m3 et sur fibres-ciment A2fl-S1 ou A1fl de masse volumique ≥ 1350 kg/m3 
+(rapport de classement de réaction au feu du CRET n°2025/041-1, correspondant au rapport du CRET n°2015/041-1 pour 
+nouvelle appellation commerciale) ;
+•
+Le revêtement MURAL CALYPSO fait l'objet d'un rapport de classement européen de réaction au feu avec classement 
+B-s2, d0 valable en pose collée avec une colle acrylique sur plaque de plâtre à faces cartonnées A2 de 700 ± 100 
+kg/m3 et 12,5 ± 0,5 mm d'épaisseur ou sur tout autre substrat classé A1 ou A2 de masse volumique > 700 ± 100 
+kg/m3 (Rapport de l'IFTH n° 12-02585 L du 25 février 2013).
+1.2.1.2.
+Glissance
+Le revêtement TARALAY SECURITE COMPACT fait l'objet d'un rapport d'essai au plan incliné, pieds nus en présence d'eau selon 
+la norme DIN 51097 dont le résultat est le suivant :
+•
+TARALAY SECURITE COMPACT : Angle d'inclinaison moyen α ≥ 18° (rapport d'essai du HOCHSHULE KOBLENZ n° KP 
+109-2 / 20 du 26 octobre 2020)
+Le revêtement TARALAY SECURITE COMPACT DESIGN fait l'objet d'un rapport d'essai au plan incliné, pieds nus en présence 
+d'eau selon la norme DIN 51097 dont le résultat est le suivant :
+•
+TARALAY SECURITE COMPACT DESIGN : Angle d'inclinaison moyen α ≥ 18° (rapport d'essai du laboratoire SATRA 
+Technology Centre n° FLO027673518422/6726/2 du 22/02/2019)
+Le GS ne se prononce pas sur la durabilité de la performance de résistance à la glissance, celle-ci étant liée aux conditions 
+d'usage, d'entretien et de réfection éventuelle du revêtement. Il appartient au maître d'ouvrage et/ou à l'exploitant de la vérifier 
+périodiquement au regard de l'exigence qui aura été définie.
+1.2.1.3.
+Acoustique
+•
+Le système associant le revêtement de sol TARALAY SECURITE SD à la sous-couche TARAFOAM fait l'objet d'un essai 
+de type concernant l'efficacité normalisée d'isolation au bruit de choc ∆Lw = 16 dB (rapport d'essai du CSTB n°AC-
+16-26061333/1).
+•
+Le système associant le revêtement TARALAY SECURITE SD DESIGN associé à la sous-couche TARAFOAM fait l'objet 
+d'un essai de type concernant l'efficacité normalisée d'isolation au bruit de choc ∆Lw = 16 dB (rapport d'essai du 
+CSTB n° CR-AC19-26080023).
+L'isolation acoustique du système au niveau du siphon n'est pas visée par le présent Avis.
+Il a pu être vérifié à la lecture de la fiche technique, de la déclaration de performances, du plan de contrôles et des 
+enregistrements de contrôles ainsi que de l'engagement du fabricant que le produit présentement dénommé 
+« Taralay Sécurité » est identique au produit précédemment désigné « Taralay Sécurité SD ». 
+1.2.1.4.
+Aspects sanitaires
+Le présent Avis est formulé au regard de l'engagement écrit du titulaire de respecter la réglementation et notamment l'ensemble 
+des obligations réglementaires relatives aux produits pouvant contenir des substances dangereuses pour leur fabrication, leur 
+intégration dans les ouvrages du domaine d'emploi accepté et l'exploitation de ceux-ci.
+Le contrôle des informations et déclarations délivrées en application des réglementations en vigueur n'entre pas dans le champ 
+du présent Avis. Le titulaire du présent Avis conserve l'entière responsabilité de ces informations et déclarations.
+1.2.1.5.
+Prévention des accidents et maîtrise des accidents et maîtrise des risques lors de la mise en œuvre et 
+de l'entretien
+Le procédé dispose de Fiches de Données de Sécurité (FDS).
+L'objet de la FDS est d'informer l'utilisateur de ce procédé sur les dangers liés à son utilisation et sur les mesures préventives 
+à adopter pour les éviter, notamment par le port d'équipements de protection individuelle (EPI).
+Les produits doivent être utilisés conformément à leur étiquetage et à la réglementation en vigueur.
+1.2.2.
+Durabilité
+Dans les conditions d'entretien prescrites décrites à l'article 2.10 du Dossier Technique, la durabilité à l'usage de l'ouvrage, 
+dans les conditions de mise en œuvre et d'emploi indiquées, est appréciée comme satisfaisante.
+Elle est toutefois subordonnée :
+•
+à une surveillance régulière visant à repérer d'éventuelles amorces de dégradations localisées pouvant apparaître en 
+cours d'usage, en particulier au niveau des points singuliers ;
+•
+à la rapidité d'intervention afin de réparer ces éventuelles faiblesses ;
+•
+à un bon niveau d'entretien.
+1.2.3.
+Impacts environnementaux
+Le procédé ne dispose d'aucune déclaration environnementale (DE) et ne peut donc revendiquer aucune performance 
+environnementale particulière. Il est rappelé que les DE n'entrent pas dans le champ d'examen d'aptitude à l'emploi des 
+produits.
+
+--- PAGE 7 ---
+ATec n° 12/12-1629_V6
+Page 7 sur 33
+1.3.
+Remarques complémentaires du Groupe Spécialisé
+Le Groupe n'a pas formulé de remarque complémentaire.
+ 
+
+--- PAGE 8 ---
+ATec n° 12/12-1629_V6
+Page 8 sur 33
+2. Dossier Technique
+Issu des éléments fournis par le titulaire et des prescriptions du Groupe Spécialisé acceptées par le titulaire
+ 
+2.1.
+Mode de commercialisation
+Titulaire(s) : Société GERFLOR
+ 1 PLACE VERRAZZANO
+ 69258 LYON CEDEX 09
+ Internet : www.gerflor.com
+ 
+2.1.1.
+Mise sur le marché
+Revêtements de sol
+En application du règlement UE 305/2011, le produit TARALAY SECURITE, fait l'objet d'une déclaration des performances établie 
+par le fabricant sur la base de la norme NF EN 14041.
+Les produits conformes à cette DdP sont identifiés par le marquage CE.
+Revêtement mural
+En application du règlement UE 305/2011, le produit MURAL CALYPSO fait l'objet d'une déclaration des performances établie 
+par le fabricant sur la base de la norme NF EN 15102.
+Les produits conformes à cette DdP sont identifiés par le marquage CE.
+2.1.2.
+Identification
+Les emballages comportent le nom et le type ; ceci vaut de la part du fabricant engagement de conformité à la description et 
+aux caractéristiques ci-dessus.
+L'épaisseur, le dessin, le coloris, les dimensions, un repère correspondant à la date de fabrication (N° de lot) figurent aussi sur 
+les emballages.
+2.2.
+Description du système TARADOUCHE
+2.2.1.
+Système
+Version TARADOUCHE CLASSIQUE
+Le système TARADOUCHE est un concept de pièces d'eau associant les revêtements de sol et de mur soudés à chaud, disposés 
+sur la totalité des surfaces du local (sols et murs) et incluant :
+•
+L'utilisation d'accessoires d'évacuation (siphons de sol) ;
+•
+L'utilisation d'accessoires de mise en œuvre (formes d'appui pour angle, profilés de diminution et seuils d'étanchéité, 
+siphon de sol compatible et adapté aux revêtements de sol PVC...) ;
+•
+La réalisation de pentes.
+Afin que le système TARADOUCHE puisse être considéré comme tel, il devra démontrer :
+•
+que le sol du local est recouvert entièrement et uniformément du même revêtement de sol ;
+•
+que le support soit réalisé sans discontinuité de parement ;
+•
+que les remontées en plinthes et recouvrements par le mural soient réalisés sur l'entière périphérie du local ;
+•
+que les murs du local sont recouverts entièrement et uniformément du même revêtement sur toute la hauteur utile.
+Version TARADOUCHE CONFORT
+Ce système peut être complétée au sol par l'utilisation d'une sous-couche TARAFOAM permettant d'améliorer les performances 
+acoustiques de la version TARADOUCHE Classique à un affaiblissement acoustique au bruit de choc de ΔLw = 16 dB pour le 
+revêtement TARALAY SECURITE.
+2.2.2.
+Revêtements de sol
+Revêtements de sol vinyliques flexibles en lés de la Société GERFLOR certifiés QB-UPEC. Caractéristiques d'identification : se 
+référer aux certificats QB-UPEC en cours de validité.
+ 
+
+--- PAGE 9 ---
+ATec n° 12/12-1629_V6
+Page 9 sur 33
+Designation commerciale
+Classement
+Épaisseur (mm)
+Masse surfacique totale
+(g/m²)
+Largeur (cm)
+Longueur 
+des lés
+(ml)
+TARALAY SECURITE
+U4 P3 E2/3 C2
+2
+2360 (COMPACT)
+2500 (DESIGN)
+200
+20
+   Tableau 1 – Caractéristiques d'identification des revêtements de sol vinyliques flexibles en lés certifiés QB-
+UPEC
+2.2.3.
+Revêtement MURAL CALYPSO
+Le revêtement de mur vinylique flexible en lés MURAL CALYPSO est un revêtement technique mural calandré en PVC plastifié 
+de la Société GERFLOR, présenté en lés :
+•
+Aspect : Uni ;
+•
+Grain : Calf.
+Caractéristiques
+Méthodes d'essais
+Valeurs
+Largeur des lés (m)
+NF EN ISO 24341
+(NF EN 426)
+2
+Longueur des rouleaux (ml)
+NF EN ISO 24341
+(NF EN 426)
+ 30
+Épaisseur (mm)
+NF EN ISO 24346
+(NF EN 428)
+0,92  0,05
+Poids (g/m²)
+NF EN ISO 23997
+(NF EN 430)
+1610  80
+Tenue à la lumière
+NF EN 20-105 B02
+> 6
+Stabilité dimensionnelle à la chaleur (%)
+NF EN ISO 23999
+(NF EN 434)
+< 0,8
+Traction des joints (kg/cm)
+NF EN 684
+> 4
+Résistance aux produits chimiques
+NF EN ISO 26987
+(NF EN 423)
+Insensible aux acides et bases dilués.
+Insensible aux produits domestiques (à l'exclusion 
+des solvants du PVC
+plastifié)
+  Tableau 2 - Caractéristiques techniques du revêtement de mur MURAL CALYPSO
+2.2.4.
+Sous-couche acoustique
+Pour la version confort du système douche : sous-couche TARAFOAM. Désignation : TARAFOAM.
+Type : sous couche mousse à base de PVC
+Caractéristiques
+Méthodes d'essais
+Valeurs
+Largeur des lés (m)
+NF EN ISO 24341
+(NF EN 426)
+2
+Longueur des rouleaux (ml)
+NF EN ISO 24341
+(NF EN 426)
+ 50
+Epaisseur (mm)
+NF EN ISO 24346
+(NF EN 428)
+2  0,1
+Poids (g/m²)
+NF EN ISO 23997
+(NF EN 430)
+950  70
+  Efficacité d'isolation au bruit de choc
+NF EN ISO 140-8 NF EN ISO 717-2
+PV CSTB AC 16-26061333/1
+∆Lw = 16 dB
+(Tarafoam +TL SECURITE SD)
+PV CSTB AC 19-26080023
+∆Lw = 16 dB
+(Tarafoam +TL SECURITE DESIGN)
+Poinçonnement rémanent (mm) (1)
+NF EN ISO 24343-1 (NF EN 433)
+(150 min)
+≤ 0,20
+(Tarafoam TL SECURITE)
+(1) Pour information
+Tableau 3 - Caractéristiques techniques de la sous-couche Tarafoam
+2.2.5.
+Produits associés
+2.2.5.1.
+Cordons de soudure
+Pour revêtement de sol et le revêtement mural : cordon en PVC plastifié réf. CR 40, diamètre 4 mm.
+
+--- PAGE 10 ---
+ATec n° 12/12-1629_V6
+Page 10 sur 33
+2.2.5.2.
+Produits de collage et primaires
+Recommandations pour le collage
+Suivre scrupuleusement les prescriptions du fournisseur de colle.
+Bien respecter le temps de gommage qui est fonction de la température, de l'hygrométrie ambiante, de la porosité du support 
+et de la consommation de colle.
+•
+Colles acryliques pour les revêtements de sols et pour le système Confort (cf. Tableau 4, 5 et 6).
+Fabricant
+Désignations
+SIKA / CEGECOL
+CEGEPRIM UN2
+SIKA / CEGECOL
+CEGEPRIM AN
+SIKA
+SIKAFLOOR-17 PRIMAIRE ANHYDRITE
+SIKA
+SIKAFLOOR-18 PRIMAIRE UNIVERSEL
+BOSTIK
+GRIP A700 UNIVERSEL
+H.B. FULLER
+TEC 049
+MAPEI
+PRIMER G
+SIKA / PAREXGROUP
+124 PROLIPRIM
+SIKA / PAREXGROUP
+165 PROLIPRIM UNIVERSEL
+UZIN
+PE 360
+ 
+Tableau 4 - Préconisation des primaires
+ 
+Fabricant
+Désignations
+SIKA / CEGECOL
+CEGE 100 TECHNIC
+SIKA / CEGECOL
+CEGE 100 HQT
+SIKA
+SIKABOND 135 PVC FLOOR
+SIKA
+SIKABOND 150 PREMIUM FLOOR
+BOSTIK / SADER
+SADERTAC V6 
+BOSTIK / SADER
+SADERTECH V8
+BOSTIK / MIPLACOL
+STIX A800 PREMIUM
+BOSTIK / MIPLACOL
+STIX A300 MULTI FLOOR
+H.B. FULLER
+TEC 522
+H.B. FULLER
+TEC 540
+MAPEI
+ULTRA BOND ECO 370
+MAPEI
+ULTRA BOND ECO V4 SP
+SIKA / PAREXGROUP
+915 LANKOCRYL PLUS
+SIKA / PAREXGROUP
+932 LANKOCRYL MAX
+UZIN
+KE 2000 S
+UZIN
+KE32
+ Tableau 5 - Préconisation des colles pour le revêtement de sol
+Page 1 sur 34
+ 
+ 
+
+--- PAGE 11 ---
+ATec n° 12/12-1629_V6
+Page 11 sur 33
+Fabricants
+Désignations
+SIKA / CEGECOL
+CEGE 100 TECHNIC
+SIKA / CEGECOL
+CEGE 100 HQT
+SIKA
+SIKABOND 135 PVC FLOOR
+SIKA
+SIKABOND 150 PREMIUM FLOOR
+BOSTIK / MIPLACOL
+STIX A800 PREMIUM
+BOSTIK / MIPLACOL
+STIX A300 MULTI FLOOR
+BOSTIK / SADER
+SADERTECH V8
+BOSTIK / SADER
+SADERTAC V6
+H.B. FULLER
+TEC 522
+H.B. FULLER
+TEC 540
+MAPEI
+ULTRA BOND ECO 370
+MAPEI
+ULTRA BOND ECO V4 SP
+SIKA / PAREXGROUP
+915 LANKOCRYL PLUS
+SIKA / PAREXGROUP
+932 LANKOCRYL MAX
+UZIN
+KE 2000 S
+ 
+Tableau 6 - Préconisation des colles pour le collage des revêtements de sol préconisés sur la sous-couche 
+TARAFOAM
+Mise en œuvre du revêtement selon le principe de mise en œuvre du système Taradouche.
+•
+Colles et primaires associés pour le revêtement mural (Cf. Tableaux 7, 8 et 9).
+Fabricant
+Désignations
+SIKA / CEGECOL
+CEGEPRIM UN2
+SIKA / CEGECOL
+CEGEPRIM AN
+SIKA
+SIKAFLOOR-17 PRIMAIRE ANHYDRITE
+SIKA
+SIKAFLOOR-18 PRIMAIRE UNIVERSEL
+BOSTIK
+GRIP A700 UNIVERSEL
+H.B. FULLER
+TEC 049
+MAPEI
+PRIMER G
+SIKA / PAREXGROUP
+124 PROLIPRIM
+SIKA / PAREXGROUP
+165 PROLIPRIM UNIVERSEL
+PRB
+PRB ACCROSOL AG
+PRB
+PRB ACCROSOL EXPRESS
+UZIN
+PE 360
+ 
+Tableau 7 - Préconisation des primaires
+
+--- PAGE 12 ---
+ATec n° 12/12-1629_V6
+Page 12 sur 33
+Fabricant
+Désignations
+SIKA / CEGECOL
+CEGE 100 HQT
+SIKA
+SIKABOND 135 PVC FLOOR
+SIKA
+SIKABOND 150 PREMIUM FLOOR
+BOSTIK / MIPLACOL
+STIX A800 PREMIUM
+BOSTIK / MIPLACOL
+STIX A300 MULTI FLOOR
+BOSTIK / SADER
+SADERTECH V8
+BOSTIK / SADER
+SADERTAC V6
+H.B. FULLER
+TEC 540 
+H.B. FULLER
+TEC 522
+MAPEI
+ULTRA BOND ECO 370
+SIKA / PAREXGROUP
+915 LANKOCRYL PLUS
+PRB
+FIXOSUP
+PRB
+FIXOTEC
+UZIN
+KE 2000 S
+UZIN
+KE 32
+ 
+Tableau 8 - Préconisation des colles pour le revêtement de mur
+•
+Colles contacts en phase aqueuse et bandes adhésives double face pour les remontées en plinthes et les profilés (cf. 
+Tableau 9)
+ 
+Nature
+Fabricants
+Désignations
+UZIN
+WK 222
+MAPEI
+ULTRABOND ECO CONTACT
+Colle contact
+SIKA / CEGECOL
+CEGE 100 C0NTACT+
+SIKA / CEGECOL
+CEGETACK 25/50/85
+SIKA / PAREXGROUP
+940 LANKO CONTACT 25/50/85
+MAPEI
+MAPECONTACT PLINTHE
+BOSTIK
+BOSTIK ROLL 25/50/85
+HB FULLER
+SDB 50/85
+Bandes adhésives
+UZIN
+REMUR
+Tableau 9 – Colles contacts et bandes adhésives adaptées au traitement des rives
+2.2.5.3.
+Profilé forme d'appui pour remontée en plinthe
+Forme d'appui en PVC de 20 mm (réf. 0478) de GERFLOR. Disponible en longueurs de 3 ml.
+Forme d'appui 20 mm réf. 0478
+2.2.5.4.
+Profilé forme d'appui pour angle mural
+Forme d'appui en PVC de 12 mm (réf. CA 12) de GERFLOR.
+2.2.5.5.
+Profilé de diminution
+Profilé en PVC de GERFLOR (réf. 0490) pour compensation de l'épaisseur du revêtement de sol en remontée en plinthe avant 
+la pose du revêtement mural. Disponible en rouleaux de 25 ml.
+
+--- PAGE 13 ---
+ATec n° 12/12-1629_V6
+Page 13 sur 33
+Profilé de diminution réf. 0490
+2.2.5.6.
+Profilé de seuil
+Profilé de seuil en PVC de GERFLOR (réf. 0469), adapté et soudable au revêtement TARALAY SECURITE ainsi qu'au système 
+douche en version confort (après découpe de la bavette). Disponible en longueurs de 3 ml.
+Profilé de seuil en PVC de GERFLOR (réf. 0469)
+2.2.5.7.
+Clean Corner System In and Out
+Profilé In
+Profilé bi-matière semi-rigide de forme triangulaire semi-rigide 100% PVC, breveté et fabriqué par GERFLOR, utilisé dans les 
+angles rentrants sous la remontée en plinthe avec les sols GERFLOR. Sa forme permet d'améliorer l'hygiène et de faciliter 
+l'entretien des angles internes du mur.
+Profilé Out
+Profilé bi-matière semi-rigide de forme papillon triangulaire 3D semi- rigide 100% PVC, breveté et fabriqué par Gerflor, utilisé 
+dans les angles sortants sous la remontée en plinthe avec les sols GERFLOR. Sa forme d'appui permet d'améliorer l'hygiène et 
+la durabilité des angles internes du mur.
+2.2.5.8.
+Plaque PVC Rigide SPM
+Panneau de protection et d'habillage : protection des murs pour couvrir les parties exposées derrière les cuvettes de WC 
+uniquement ; la plaque de répartition est intercalée entre la paroi verticale recouverte par le revêtement de mur et le WC 
+suspendu.
+Les panneaux de protection suivants sont prescrits :
+•
+Panneaux PVC rigide de la société SPM : Decochoc / Decoclean / Decosmic / Decowood / Decotrend (épaisseur 2 
+mm) ; disponible en dimensions de 2500 mm x 1300 mm ;
+2.2.5.9.
+Siphon
+Les modèles suivants sont préconisés et conformes à la norme NF EN 1253 :
+Pour support à base de liant hydraulique :
+SIPHON GERFLOR :
+•
+SIPHON VERTICAL DUSCHBRUNN (REF. 090A0001),
+•
+SIPHON HORIZONTAL FREJA (REF. : 090B0001),
+•
+REHAUSSE SIPHON FLEX (REF. : 090D0001),
+•
+GRILLE INOX SIPHON DROP (REF. 090C0001),
+•
+COUTEAU SIPHON KNIFE 150 (REF. : 090E0001))
+•
+SIPHON Gamme SITAR (SITARH1120001, SITARV H1130001)
+•
+SIPHON Gamme SITAR (SITARH1120001, SITARV H1130001)
+2.3.
+Dispositions de conception
+2.3.1.
+Généralités
+Au moment de la conception des locaux de douches, il doit être tenu compte des règles concernant l'accessibilité aux Personnes 
+à Mobilité Réduite (PMR) – cf. Chapitre III – TITRE IV « ACCESSIBILITÉ » de la Loi n° 2005-102 du 11 février 2005 ainsi que 
+le « Guide des salles d'eau accessibles à usage individuel dans les bâtiments d'habitation » du 16/07/2012.
+En outre, et à minima dans le cas de travaux neufs, les dispositions constructives précisées dans le guide du CSTB « Mise en 
+œuvre d'une douche de plain-pied dans les salles d'eau à usage individuel en travaux neufs » doivent être également respectées 
+en fonction des dispositifs de protection contre les projections d'eau éventuellement prévus (cf. articles 5 et 6 du guide - cas 
+des systèmes douches plastiques).
+
+--- PAGE 14 ---
+ATec n° 12/12-1629_V6
+Page 14 sur 33
+Dans le cas des bâtiments d'habitation en travaux neufs, les dispositions ci-dessus sont complétées par les dispositions de 
+l'arrêté du 11 septembre 2020 et reprises dans le Guide pour la mise en œuvre d'une douche accessible « zéro ressaut » dans 
+les salles d'eau à usage individuel en travaux neufs.
+Le Maître d'œuvre doit s'assurer du respect de ces dispositions ; il doit aussi veiller à ce que l'entreprise soit qualifiée et ses 
+intervenants formés au travers de la vérification des attestations individuelles de formation.
+2.3.2.
+Pentes, réservations et évacuations
+Le support doit présenter les pentes et les réservations nécessaires à la mise en place des évacuations (cf. article 4.3 du CPT 
+Systèmes Douches Plastiques (e-cahier du CSTB n° 3781)). En travaux neufs, les pentes doivent être apportées par le support. 
+En travaux de rénovation, la réservation d'épaisseur doit être suffisante pour assurer la pente minimale ; à défaut, il faudra 
+s'assurer de la faisabilité de la solution proposée dans le Dossier Technique.
+Les dispositifs constructifs spécifiques (pentes, siphons, gaines techniques, ...) doivent être prévus au préalable ainsi que les 
+réservations nécessaires.
+Sur support à base de liant hydraulique, le siphon doit être installé par scellement à la chape ou à la dalle dans la réservation 
+prévue à cet effet ; le produit à utiliser et la qualité de réalisation du scellement doivent être vérifiés.
+L'entreprise titulaire du lot gros œuvre et le plombier (ou l'entreprise qui a la charge de la pose du siphon) doivent être informées 
+du choix particulier de siphon et des conditions particulières requises pour sa mise en œuvre en fonction du support.
+Les plans des pentes et les plans d'implantation des siphons doivent être communiqués à l'entreprise de pose du revêtement.
+Il appartient au Maître d'œuvre de s'assurer du respect de ces dispositions.
+2.3.3.
+Cas d'une chape fluide - Raccordement aux zones de pentes
+Dans le cas d'un support de type chape fluide (en dehors de la zone d'emprise de l'espace douche – cf. Guide pour la mise en 
+œuvre d'une douche de plain-pied dans les salles d'eau à usage individuel en travaux neufs), le raccordement avec la zone de 
+pente doit s'effectuer au seuil de porte du local douche et doit faire l'objet d'une étude particulière ; il doit être décrit dans les 
+Documents Particuliers du Marché conformément à l'article 4.32 du Cahier des Prescriptions Techniques « Systèmes Douches 
+Plastiques » (e-cahier du CSTB n° 3781).
+2.3.4.
+Choix des produits de mise en œuvre associés
+Le Maître d'œuvre devra s'assurer que le choix des produits associés nécessaires à la mise en œuvre du système TARADOUCHE 
+(notamment les produits de préparation et de reprofilage de support, les produits de scellement du siphon, etc...) est adapté à 
+l'utilisation prévue.
+2.3.5.
+Equipements sanitaires suspendus
+Dans le cas d'une cuvette WC suspendue, le bâti-support de cuvette et la constitution de la paroi destinée à recevoir la cuvette 
+doivent être dimensionnés afin d'éviter en exploitation tout mouvement de celle-ci induit par les charges d'utilisation de 
+l'appareil, qui pourraient à terme provoquer des désordres au niveau du revêtement mural. Il appartient au Maître d'œuvre de 
+s'assurer de leur conformité aux préconisations des fabricants de ces éléments (rigidité, épaisseur et tenue mécanique 
+notamment).
+Dans le cas d'une cuvette WC suspendue de type « rallongée » ou dans le cas de l'absence de renforcement particulier du 
+support mural, l'emploi de la plaque de protection préconisée à l'article 2.2.5.6 du Dossier Technique est requis, en interposition 
+entre le revêtement mural et la surface d'appui de la cuvette WC.
+En outre, les dispositions nécessaires devront être prévues le cas échéant pour s'assurer que toute la surface d'appui de la 
+cuvette WC soit en contact avec la paroi verticale revêtue, en tenant compte de la surépaisseur due à la remontée en plinthe.
+L'installation et le montage final de la cuvette sont à la charge de l'entreprise de plomberie.
+Les plans d'implantation des équipements sanitaires doivent être communiqués à l'entreprise de pose du revêtement.
+Il appartient au Maître d'œuvre de s'assurer du respect de ces dispositions.
+Note : Dans le cas d'une cuvette WC suspendue, en l'absence de renfort spécifique, le risque de boursouflure sur le 
+revêtement mural à la jonction de la cuvette WC avec la plaque de plâtre support du fait du serrage des fixations et du 
+fléchissement répété de celle-ci ne peut pas être exclu ; le risque est particulièrement prononcé dans les bâtiments de type 
+MAPAD ou EHPAD ainsi que dans le cas de cuvettes prolongées. Des boursouflures peuvent aussi apparaitre lorsque la forme 
+de l'embase de la cuvette est telle qu'elle peut conduire à un poinçonnement de la plaque de plâtre. Dans tous ces cas, 
+l'interposition d'une plaque rigide au choix du Maître d'œuvre est une solution de renforcement de la rigidité de la paroi qui 
+peut permettre de limiter ce risque. Elle n'affranchit en aucun cas le Maître d'œuvre de s'assurer au préalable de la stabilité 
+totale de l'ensemble comme décrit.
+2.3.6.
+Dossier de consultation - Documents Particuliers du Marché
+Se reporter à la partie 2 de la norme NF DTU 53.12, cahier des clauses administratives spéciales types.
+En outre, le dossier de consultation doit comprendre les indications suivantes :
+•
+Système TARADOUCHE retenu : système Taradouche ou système Taradouche confort ;
+•
+Types et descriptions des siphons et des équipements sanitaires ;
+•
+Plans des pentes, en fonction des dispositifs de protection contre les projections d'eau éventuellement prévus ;
+•
+Plans d'implantation des dispositifs d'évacuation ;
+•
+Dispositions minimales de surveillance et d'intervention pour réparation.
+Il précisera également à la charge de qui est affecté le traitement des fissures du support.
+
+--- PAGE 15 ---
+ATec n° 12/12-1629_V6
+Page 15 sur 33
+2.3.7.
+Chauffage des locaux
+Lorsque les conditions du chantier le nécessitent, il appartient au Maître d'ouvrage de prévoir et mettre à disposition les moyens 
+nécessaires pour assurer un apport de chauffage permettant de satisfaire l'exigence de température minimale de +18 °C requise 
+pendant toute la durée du stockage et de la pose du revêtement mural.
+2.4.
+Dispositions de mise en œuvre
+2.4.1.
+Consistance des travaux
+Se reporter à la partie 2 de la NF DTU 53.12, cahier des clauses administratives spéciales types.
+En outre, les travaux dus par l'entreprise de pose du revêtement comprennent également :
+•
+la réalisation des pentes dans le cas de travaux de rénovation ;
+•
+la fourniture et la pose des profils de finition ;
+•
+la finition autour des siphons.
+2.4.2.
+Supports en sol : exigences relatives aux supports et préparation des supports
+2.4.2.1.
+Supports neufs à base de liants hydrauliques
+2.4.2.1.1.
+Exigences relatives aux supports
+Les exigences relatives aux supports sont celles définis à l'article 6.1.5 de la norme NF DTU 53.12-P1-1-1.
+Un exemple de fiche de contrôle de réception des supports en sol à base de liants hydrauliques est donné en annexe 8 du CPT 
+« Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).
+2.4.2.1.2.
+Travaux préparatoires
+Ce sont ceux définis à l'article 9.1 de la norme NF DTU 53.12 P1-1-1 qui s'appliquent à ces supports.
+2.4.2.2.
+Supports anciens en rénovation
+2.4.2.2.1.
+Exigences relatives aux supports
+Les exigences relatives aux supports admis ainsi que leur préparation sont celles définies à l'article 7.2 la norme NF DTU 53.12 
+P1-1-1.
+2.4.2.2.2.
+Travaux préparatoires
+Une étude préalable de l'état du support est réalisée conformément au NF DTU 53.12 P1-1-1 et à son annexe D.
+Cette étude est basée sur le Tableau 5 du NF DTU 53.12 P1-1-1 a pour objet notamment :
+•
+de mesurer la planéité ;
+•
+de définir les zones de l'ancien sol à conserver ou à déposer ;
+•
+de repérer les fissures et joints de fractionnement qui doivent être traités ;
+•
+de déterminer la nature des chapes.
+A l'issue de l'étude préalable et reconnaissance du support, la conservation ou la dépose des supports anciens est déterminée 
+selon les critères définis dans le Tableau 6 du NF DTU 53.12 P1-1-1.
+2.4.3.
+Mise en œuvre du système
+2.4.3.1.
+Exigences relatives à l'entreprise
+Ces exigences sont définies à l'article 7.1 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).
+2.4.3.2.
+Travaux préliminaires
+2.4.3.2.1.
+Préparation des supports muraux
+Se référer au §7.2.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit :
+L'application d'un primaire compatible avec le support et la colle sera réalisée. L'impression du mur doit être réalisée par un 
+primaire qui homogénéise la porosité. (Cf. Tableau 7 Préconisation des primaires)
+•
+Préparation de l'angle mural rentrant :
+La préparation des angles de mur rentrants sera réalisée par la mise en place systématique, par double encollage à l'aide de la 
+colle contact en phase aqueuse WK 222 d'UZIN, du profilé d'angle réf. CA 12 sur toute la hauteur à partir de la remontée en 
+plinthe.
+
+--- PAGE 16 ---
+ATec n° 12/12-1629_V6
+Page 16 sur 33
+2.4.3.3.
+Pose du siphon (cf. figures 8, 9, 10 a et 10 b)
+Se référer au §7.3 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit : la platine est 
+positionnée avant la mise en œuvre de l'enduit de sol.
+2.4.3.4.
+Conditions préalables à la pose
+Se référer au §7.4 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) pour l'organisation générale du chantier.
+2.4.3.4.1.
+Stockage des matériaux
+Se référer à l'article 7.3 du DTU 53.12-1-1-3 4.1.1 complété comme suit :
+Le revêtement doit être entreposé durant les 48 heures précédant la pose dans des locaux clos aérés et sécurisés, à l'abri de 
+l'humidité et à une température ambiante supérieure ou égale à 18°C.
+2.4.3.4.2.
+Conditions de température et d'hygrométrie
+La température ambiante minimale du local doit être de + 15 °C pour la pose des lés de revêtement de sol et de + 18 °C pour 
+la pose du revêtement mural.
+Pour l'emploi des colles, la plage de température est de +15 °C à +30 °C.
+Pour les rubans adhésifs « colles sèches », la température doit être comprise entre +15 °C à +30 °C.
+2.4.3.4.3.
+Température des supports en sol et mur
+Se référer au §7.412 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+2.4.3.5.
+Préparation des angles sol / mur
+2.4.3.5.1.
+Préparation pour finition de remontée en plinthe
+La mise en oeuvre d'une forme d'appui par thermoformage est obligatoire sauf dans le cas d'une finition avec le système Clean 
+Corner System et double pose en en association avec la sous-couche acoustique.
+Mise en place par double encollage de la forme d'appui 20 mm (réf. 0478).
+2.4.3.5.2.
+Clean Corner System
+Il s'agit d'une solution alternative à la préparation des angles pour la finition par remontée du revêtement en plinthes.
+La mise en œuvre de ce système nécessite une formation spécifique délivrée par la société GERFLOR dans son techno-centre.
+Mise en place dans l'angle rentrant du profilé Clean Corner System profile IN, défini au § 2.2.5, sous la remontée en plinthe.
+Mise en place dans l'angle sortant du profilé Clean Corner System profile OUT, défini au § 2.2.5, sous la remontée en plinthe.
+2.4.3.6.
+Mise en œuvre du revêtement de sol sans sous-couche
+Les dispositions générales et particulières de la pose du revêtement sont celles des articles 9.1.1 du DTU 53.12-1-1 complétées 
+comme ci-après.
+2.4.3.6.1.
+Calepinage et préparation des lés
+Veiller lors du calepinage des lés à ce que les éventuelles soudures soient au moins à 50 cm du bord extérieur du siphon.
+2.4.3.6.2.
+Collage du revêtement de sol
+Il a lieu 24 heures après la mise en place des lés.
+Le fabricant du revêtement préconise les colles acryliques figurant dans le Tableau 5, employées en simple encollage à raison 
+de 300/350 g/m² environ, déposées à la spatule dentée (type A2 selon recommandations TKB (: profondeur de dent 1,65 mm, 
+écartement de dent 1,80 mm, largeur au sommet 0,50 mm).
+2.4.3.6.2.1.
+Application des lés
+•
+Replier les lés par moitié. Encoller le support et appliquer le revêtement.
+•
+Replier les secondes moitiés et procéder de même, en laissant un jeu de 1 mm.
+•
+Ne pas faire chevaucher deux films de colle à la reprise d'encollage.
+2.4.3.6.2.2.
+Marouflage
+Marouflage manuel soigné lors de la mise en place pour assurer un bon transfert du film de colle.
+Important : proscrire toute circulation pendant 24 heures après la pose, de même que tout aménagement ou mise en place de 
+mobilier.
+
+--- PAGE 17 ---
+ATec n° 12/12-1629_V6
+Page 17 sur 33
+2.4.3.6.2.3.
+Raccordement du revêtement de sol au siphon
+Cf. Figure 9-10 et 11a-11b en fin de dossier :
+•
+Dérouler et coller les revêtements de sol Gerflor.
+•
+Disposer les lés bord à bord de façon à ce que les soudures se trouvent à plus de 50 cm du siphon.
+•
+Tracer le cercle de coupe à l'intérieur de la bride positionnée au-dessus du trou.
+•
+Couper le revêtement.
+•
+Chauffer le lé avec un chalumeau ou un décapeur.
+•
+Installer et fixer la bride par-dessus.
+2.4.3.6.2.4.
+Traitement des rives
+Par remontée en plinthe (cf. Figures 5 en fin de Dossier Technique) du revêtement de sol sur 13 cm, collée à l'aide d'une colle 
+ou d'une bande adhésive double face définie dans les tableau 8 et 9 au §2.2.5 du présent document.
+ 
+Dans le cas des locaux accessible aux personnes à mobilité réduite et lorsque l'emploi des plaques SPM est requis, la hauteur 
+de la remontée en plinthe du revêtement de sol peut être ramenée à 10 cm afin d'avoir une surface plane pour la pose du WC 
+suspendu. Cette disposition s'applique sur la paroi destinée à recevoir le wc suspendu.
+2.4.3.6.2.5.
+Traitement des joints
+Soudure à chaud :
+•
+Obligatoire (24 h minimum après collage).
+•
+Attention : pas de soudure à moins de 50 cm du bord extérieur du siphon.
+Chanfreinage :
+Le chanfreinage permet d'ouvrir et de régulariser le joint, de supprimer les éventuelles traces de colle qui peuvent nuire à la 
+qualité de la soudure. Il est réalisé avec un outillage approprié (Voir ci-dessous).
+Il faut chanfreiner l'épaisseur du revêtement diminuée d'environ 0,3 mm.
+ 
+•
+Soudure du revêtement de sol avec le cordon GERFLOR réf. CR40 :
+Elle se fait à l'aide d'un chalumeau de type LEISTER avec variateur à air chaud équipé d'une buse en sortie.
+La soudure avec la buse rapide ( 5 mm) est également possible.
+Pour tout type de matériel de soudure, suivre les prescriptions du fabricant.
+•
+Arasage :
+Cette opération doit être réalisée après refroidissement du cordon avec :
+•
+soit une gouge d'arasage ;
+•
+soit une spatule à mastiquer souple affûtée au milieu.
+ 
+ 
+Exemple d'outil d'arasage
+2.4.3.6.2.6.
+Traitement des transitions avec le revêtement de sol du local adjacent
+2.4.3.6.2.6.1.
+Revêtement de la pièce adjacente en PVC
+Se référer au §7.4.3.1 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit :
+•
+Jonction par soudure :
+Cas général : soudure à chaud du revêtement de la pièce adjacente et du revêtement de la douche / salle de bains.
+•
+Jonction par profilé soudable :
+Mise en place du profilé de seuil – réf. 0469 de Gerflor : soudure à chaud du revêtement de la douche / salle de bains et du 
+revêtement de la pièce adjacente de chaque côté du seuil (cf. figure 4 en fin de Dossier Technique).
+
+--- PAGE 18 ---
+ATec n° 12/12-1629_V6
+Page 18 sur 33
+2.4.3.6.2.6.2.
+Revêtements de la pièce adjacente de type autre que PVC
+Se référer au §7.4.3.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit :
+•
+Mise en place du profilé de seuil – réf. 0469 de Gerflor : soudure à chaud du revêtement douche et masticage du 
+revêtement non soudable de la pièce adjacente avec mastic MS polymère (Cf. schéma de principe ci-dessous)
+ 
+•
+Mise en place d'une barre de seuil à recouvrement (type seuil à visser de la Société ROMUS) et masticage avec 
+mastic MS polymère.
+2.4.3.7.
+Mise en œuvre du système douche confort (avec sous-couche)
+2.4.3.7.1.
+Pose de la sous-couche TARAFOAM
+Se référer à l'article 9.2 de la NF DTU 53.12 P1-1-1-3 complété comme suit :
+Collage de la sous-couche à l'aide d'une colle acrylique en émulsion (Cf. Tableau 5)dans les conditions décrites au § 2.4.3.7.2.
+2.4.3.7.2.
+Pose du revêtement
+Collage du revêtement sur la sous-couche à l'aide d'une colle acrylique (Cf. Tableau 6) à raison de 200 à 250 g/m² avec la 
+spatule type A5 (TKB), puis écrasement des sillons de colle avec un rouleau à poils mi-longs (respecter impérativement le 
+temps de gommage pour ce type de collage).
+2.4.3.8.
+Mise en œuvre du revêtement mural
+L'application d'un primaire compatible avec le support et la colle sera réalisée. L'impression du mur doit être réalisée par un 
+primaire qui régule la porosité afin de renforcer la cohésion et l'adhérence du subjectile (cf. produits préconisés au Tableau 7 
+ci-dessus). 
+Les dispositions générales et particulières de la pose du revêtement sont reprises aux §7.4.4 du CPT Systèmes Douches 
+Plastiques (e- cahier du CSTB n° 3781) complétées ci-après.
+Raccordement au plenum
+Se référer au §7.4.4.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+La figure 1 en fin de dossier technique décrit les dispositions à prendre en compte pour le traitement de ce point singulier.
+Dans le cas où une des bandes adhésives double-face préconisées est utilisée pour le collage des points singuliers du revêtement 
+MURAL CALYPSO (angles sortants, recouvrement de la remontée en plinthe), l'attention du Maître d'ouvrage est attirée sur le 
+risque d'apparition à la surface du revêtement du spectre de la bande adhésive.
+2.4.3.8.1.
+Calepinage et préparation des lés
+2.4.3.8.1.1.
+Pose en vertical
+A réaliser avant la pose des cornières des plafonds suspendus, si pose sur hauteur totale.
+Calfeutrement du mural soit au-dessus du plafond soit sous la cornière (voir en fonction du support de mur) ;
+Se référer au §7.4.4.4 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+2.4.3.8.1.2.
+Pose en horizontal
+Se référer au §7.4.4.5 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+Collage du revêtement de mur
+En partie courante, l'application sera réalisée en simple encollage à partir de colles acryliques déposées soit à la spatule finement 
+dentée type A4 (TKB) et croisée au rouleau à poils mi-longs, soit directement au rouleau à poils mi-longs à raison de 200 g/m². 
+Le fabricant du revêtement préconise les colles figurant dans le Tableau 8.
+Recommandations pour le collage
+Suivre scrupuleusement les prescriptions du fournisseur de colle.
+Bien respecter le temps de gommage qui est fonction de la température, de l'hygrométrie ambiante, de la porosité du support 
+et de la consommation de colle.
+
+--- PAGE 19 ---
+ATec n° 12/12-1629_V6
+Page 19 sur 33
+2.4.3.8.1.3.
+Application des lés
+2.4.3.8.1.3.1.
+Pose en vertical
+Se référer au §7.4.4.4 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+2.4.3.8.1.3.2.
+Pose en horizontal
+Se référer au §7.4.4.5 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+2.4.3.8.1.4.
+Marouflage
+2.4.3.8.1.4.1.
+Lors de l'affichage
+Se référer au §7.4.4.4 et 7.4.4.5 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+Nota bene : Ne pas chauffer le revêtement mural pour le passage des angles (pas de souffleur ou décapeur thermique).
+2.4.3.8.1.4.2.
+Marouflage final
+Maroufler la totalité de la surface avec une cale en liège ou un chiffon 24 h après le collage.
+Espacement des lisières avant chanfreinage : 1 ± 0,5 mm.
+2.4.3.8.1.4.3.
+Arasage en partie supérieure
+Se référer au §7.4.4.4 et §7.4.4.5 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+2.4.3.8.1.4.4.
+Soudures - Traitement des joints
+Se référer au §7.4.5 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+2.4.3.8.1.5.
+Traitement du recouvrement de la remontée en plinthe
+Voir Figure 3 en fin de Dossier Technique.
+Le revêtement mural recouvre de 3 cm minimum la remontée en plinthe du revêtement de sol. Le collage du MURAL CALYPSO 
+sur la remontée en plinthe s'effectue avec une colle ou l'une des bandes adhésives double-face décrite dans les Tableau 8 et 9 
+au §2.2.5. du présent Dossier Technique.
+2.4.3.9.
+Traitement au droit de la cuvette de WC suspendue(figure 12)
+L'installation de ce type d'équipement doit être conforme à la norme NF D 12-208 « Appareils sanitaires - bâti-supports ».
+Les panneaux en plâtre cartonné BA 13 doivent être collés entre eux et fixés directement sur le bâti-support. Le collage de 
+MURAL CALYPSO autour des cuvettes doit être particulièrement soigné et conforme aux recommandations ci-après :
+Encollage à la spatule finement dentée type A4 (TKB) et croisée au rouleau à poils mi-longs, ou bien directement au rouleau à 
+poils mi- longs à raison de 200 g/m².
+L'interposition d'une plaque de répartition en PVC rigide de la Société SPM entre le revêtement mural et l'embase de la cuvette 
+permet de répondre au risque de déformation du revêtement lié au porte-à-faux.
+La plaque de répartition devra présenter un débord minimum de 10 cm par rapport à la dimension de la cuvette (à l'exception 
+de la partie basse). Cette disposition s'applique sur la paroi destinée à recevoir le WC suspendu. Voir figure 12 en fin de dossier 
+technique. Consulter Gerflor pour le choix de la plaque de répartition et le dimensionnement et la réalisation des découpes.
+Les plaques de répartition sont mises en œuvre collée sur le revêtement de sol avec la colle acrylique SPM ou à la colle MS 
+Polymer SPM, appliquée à la spatule finement dentée type A4 (TKB) (200g/m²) sur l'envers des plaques. Un marouflage doit 
+être réalisé après collage.
+Bien respecter le temps de gommage qui est fonction de la température, de l'hygrométrie ambiante, de la porosité du support 
+et de la consommation de colle.
+Un calfatage est réalisé en périphérie de la plaque après collage avec un des produits définis au §2.4.3.11.
+Cette solution est particulièrement adaptée dans les locaux fortement sollicités de type MAPAD et EHPAD.
+2.4.3.10. Finitions
+Voir figure 5 du dossier technique
+Cas particulier – Rénovation - Passage de tuyauteries horizontales et verticales :
+Voir Figure 6 en fin de Dossier Technique
+ 
+2.4.3.11. Calfatages et étanchéité des fixations d'équipements
+ 
+
+--- PAGE 20 ---
+ATec n° 12/12-1629_V6
+Page 20 sur 33
+Fixations murales
+Le masticage des fixations murales doit être réalisé par l'entreprise de plomberie au moment de la mise en place des 
+différents éléments (lavabos, armoires, …).
+- Lavabo, armoire toilette
+- Chasse d'eau murale 
+- Barres d'appui
+- Trappes de visite
+Calfatage par mastic élastomère extrudé à la pompe (*)
+- Traversées du sol
+
+Manchons et calfatage par mastic (*)
+Traversées murales (chauffage, sanitaires)
+Le masticage des traversées murales doit être réalisé par l'entreprise de plomberie au moment de la mise en place des 
+différents éléments (mitigeurs, pommeau ou support de flexible, …).
+- Arrivée E.C. /E.F. : douche, lavabo
+- Évacuation : E.U. /E.V.
+- Chauffage
+Calfatage (*)
+Robinetterie – Mitigeur
+La fixation de ces éléments sur la paroi verticale doit être réalisée sans générer de surépaisseur sur la face destinée à 
+recevoir le revêtement mural.
+Huisserie (menuiserie)
+Le masticage des huisseries doit être réalisé par l'entreprise de revêtements de sol après la mise en œuvre des 
+revêtements.
+- Pieds d'huisserie
+- Fenêtre – châssis
+- périphérie du faux plafond
+Calfatage périphérique (*)
+Cf. Figure 3 et 10 en fin de Dossier Technique
+- Seuil de porte
+
+Soudure à chaud avec le revêtement plastique de la pièce (cf. 
+§6.4291 du DTED)
+Électricité
+Le masticage des éléments électriques doit être réalisé par l'entreprise d'électricité après la mise en œuvre des 
+revêtements.
+- Interrupteur
+- Prise de courant
+Cf. norme NF C 15-100 (d'octobre 2010)
+Distance minimale d'un point électrique, à partir du pommeau 
+de douche fixe ou du départ du flexible : 1,20 m
+Ventilation naturelle : entrée basse/ sortie haute
+Le masticage des éléments doit être réalisé par l'entreprise après la mise en œuvre des revêtements.
+- VMC : sortie murale/plafond
+
+Calfatage avec mastic (*)
+(*):
+MSP 107 de BOSTIK SIKAFLEX 221, SIKAFLEX PRO 11 FC DE SIKA CEGE SIL 200, 603 COL'JOINT FLEX, 536 
+COL'EXTRÊME DE SIKA/ CEGECOL, SWIFTSEAL 2400 de HB FULLER, MAPEFLEX MS 45 de MAPEI, RUBSON FT 101 de 
+HENKEL
+Tableau 11 : Traitement des points singuliers
+ 
+Angle Sol/Mur avec forme d'appui
+Voir Figure 7 en fin de Dossier Technique.
+2.5.
+Principes de fabrication et de contrôle de cette fabrication
+2.5.1.
+Revêtements de sol
+Les revêtements de sol sont fabriqués à l'usine de Tarare (FR-69170) pour la gamme TARALAY SECURITE.
+2.5.2.
+Revêtement MURAL CALYPSO
+Le revêtement de mur MURAL CALYPSO est fabriqué à l'usine de CARRICKMACROSS (Irlande) du groupe GERFLOR.
+
+--- PAGE 21 ---
+ATec n° 12/12-1629_V6
+Page 21 sur 33
+2.5.3.
+Contrôles de fabrication
+2.5.3.1.
+Revêtements de sol
+La Société GERFLOR procède à des contrôles sur les matières premières, sur les conditions de fonctionnement des matériels de 
+fabrication et sur les produits finis, conformément aux dispositions prévues par la certification de la marque QB-Revêtements 
+de sol résilients associée à la marque UPEC ou UPEC.A+. La Société GERFLOR est certifiée ISO 9001.
+2.5.3.2.
+Revêtement MURAL CALYPSO
+La Société GERFLOR procède à des contrôles sur les matières premières, sur les conditions de fabrication et sur les produits 
+finis.
+2.5.3.3.
+Suivi de la performance acoustique
+La Société GERFLOR est tenue d'assurer un suivi de production quant à la performance d'isolation acoustique au bruit de choc 
+du système associant la sous-couche TARAFOAM aux revêtements de sol TARALAY SECURITE à une fréquence d'au moins 1 
+essai par an. Les résultats des contrôles doivent faire l'objet d'un enregistrement.
+La tolérance admise dans le cadre du suivi de la performance d'isolation au bruit de choc par rapport à la valeur nominale 
+initiale est de ± 2 dB. Le fabricant est tenu de faire procéder à une mise à jour du présent Avis Technique si l'écart constaté au 
+cours d'un suivi est en dehors de la tolérance.
+2.6.
+Réception/mise en service
+Se référer au § 8.1 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).
+2.7.
+Maintien en service des performances de l'ouvrage - Entretien
+2.7.1.
+Entretien
+Se référer au § 8.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) et aux fiches d'entretien GERFLOR 
+complétées par le tableau 13 en fin de dossier technique.
+2.7.2.
+Surveillance – Maintenance – Réparation
+Se référer à l'article 9 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).
+Le Maître d'ouvrage doit veiller à ce qu'une surveillance régulière de l'état de l'ouvrage et tout particulièrement des relevés en 
+plinthe, du raccordement au siphon et des soudures (sol et mur) soit réalisée et à ce que les dispositions soient prises en cas 
+d'altération pour procéder à une réparation sans délai.
+2.7.3.
+Glissance
+Il est indispensable de maintenir la surface du sol dans un état permettant de limiter sa glissance. De nombreux paramètres 
+influencent la glissance, notamment la présence de polluants au sol, l'entretien et l'usage du local.
+Il appartient donc au Maître d'Ouvrage d'assurer en particulier un bon niveau d'entretien du sol et des dispositifs d'évacuation, 
+tels que préconisés au Dossier Technique, de manière à assurer une évacuation efficace des eaux et maintenir la performance 
+de glissance du sol dans le temps.
+2.8.
+Formation et assistance technique
+2.8.1.
+Formation solier : stage avec attestation individuelle
+La Société Gerflor organise dans son Technocentre des stages (théorie et pratique du système douche) de 35 heures, validés 
+par une attestation. Le programme de formation porte notamment sur les aspects suivants :
+•
+Présentation des composants du système ;
+•
+Réception et préparation des supports sol, avec siphon adapté ;
+•
+Mise en œuvre du revêtement de sol ;
+•
+Réception et préparation des supports muraux ;
+•
+Mise en œuvre du revêtement mural ;
+•
+Mise en œuvre des points singuliers, remontées en plinthe, angles muraux, raccordement au siphon ;
+•
+Mise en œuvre du Clean Corner System ;
+•
+Réalisation des soudures de joints et finitions.
+Compte-tenu de l'évolution des revêtements et des techniques, une remise à niveau est effectuée périodiquement (par exemple 
+toutes les 5 années).
+Le fabricant concepteur du système précise l'ensemble des dispositions constructives utiles à la bonne exécution de l'ouvrage 
+et il apporte la formation appropriée aux entreprises.
+
+--- PAGE 22 ---
+ATec n° 12/12-1629_V6
+Page 22 sur 33
+2.8.2.
+Exigences relatives à l'entreprise
+Ces exigences sont définies à l'article 7.1 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).
+L'entreprise devra justifier de la qualification appropriée aux locaux visés, telle que demandée à l'article 2.8.1 du Dossier 
+Technique ; son encadrement technique et ses intervenants sur chantier devront avoir été formés aux particularités de ce type 
+d'ouvrage ; elle devra être en mesure de présenter les attestations individuelles de formation sur demande.
+2.8.3.
+Assistance à la négociation des marchés
+La Société GERFLOR est en mesure d'intervenir sur demande de l'entreprise titulaire des travaux.
+2.8.4.
+Assistance lors du chantier
+La Société GERFLOR est en mesure d'assister l'entreprise titulaire des travaux lors du démarrage du chantier si cette dernière 
+lui en fait la demande.
+2.9.
+Résultats expérimentaux
+Réaction au feu
+Cf. Article 1.2.1.1 de la partie AVIS du présent Document Technique d'Application.
+Glissance
+Cf. Article 1.2.1.2 de la partie AVIS du présent Document Technique d'Application.
+Acoustique
+Cf. Article 1.2.1.3 de la partie AVIS du présent Document Technique d'Application.
+Tenue du plan de collage
+Essais de pelage suivant NF EN 1372 :
+(Résultats d'essais du laboratoire GERFLOR du 14/02/2011) Essais de réversibilité à l'humidité suivant NF T 76-128 : (Résultats 
+d'essais du laboratoire GERFLOR du 04/2013)
+Caractéristiques de construction et d'aptitude à l'emploi du revêtement MURAL CALYPSO
+•
+Épaisseur selon EN 428
+•
+Masse surfacique selon EN 430
+•
+Brillance selon EN 2813
+•
+Stabilité dimensionnelle et incurvation selon EN 434
+•
+Adhérence entre couches selon EN 431
+•
+Résistance des soudures de joints selon EN 684
+(Rapport technique du laboratoire GERFLOR n° 13-11407 du 14/02/2013)
+Aptitude à l'emploi - Bandes adhésives double-face
+•
+Pelage et cisaillement à la chaleur ;
+•
+Comportement vis-à-vis des migrations de constituants.
+(Rapports techniques du laboratoire GERFLOR n°11/10815 du 23/06/2011 et résultats d'essais du laboratoire GERFLOR du 
+19/02/2014)
+Aptitude à l'emploi - Bandes adhésives double-face
+•
+Pelage et cisaillement à la chaleur ;
+•
+Comportement vis-à-vis des migrations de constituants.
+(Rapports techniques du laboratoire GERFLOR n°11/10815 du 23/06/2011 et résultats d'essais du laboratoire GERFLOR du 
+19/02/2014).
+•
+Rapport d'essais MAPEI : Collage TARADOUCHE Juin 2021.
+Aptitude à l'emploi – Système TARADOUCHE HYBRIDE
+•
+Essai fonctionnel sur la tenue de la jonction à la projection d'eau ;
+•
+(Rapport du laboratoire GERFLOR n°RD19-001).
+•
+Rapport d'essais MAPEI : CR Essais du 05/06/2018.
+•
+Rapport d'essais SIKA : Rapport d'essai DE DAFI 01-2022.
+2.10. Références
+•
+Début de la mise en œuvre du système TARADOUCHE : 1990. Surface réalisée par an : 
+o
+Sol : 15 000 m² ;
+o
+Mur : 50 000 m².
+ 
+•
+Début de la mise en œuvre du système TARADOUCHE HYBRIDE : 2018. Surface réalisée par an : 200 salles de bain
+ 
+
+--- PAGE 23 ---
+ATec n° 12/12-1629_V6
+Page 23 sur 33
+2.11. Annexes du Dossier Technique
+ 
+Locaux humides
+Mise en service
+Protection
+Entretien journalier
+Entretien 
+hebdomadaire 
+ou
+mensuel
+Revêtement de 
+sol
+Décapage avec balai-brosse.
+Non
+Balayage humide avec 
+détergent neutre
+Nettoyage au balai brosse avec 
+détergent neutre.
+Essuyage à la serpillière.
+Revêtement 
+mural
+Nettoyage avec détergent 
+neutre.
+Non
+Nettoyage avec détergent 
+neutre
+Lessivage.
+Nettoyage avec détergent 
+neutre.
+Siphon
+Démontage et nettoyage 
+complet de l'intérieur et de la 
+grille avec détergent neutre.
+Rinçage.
+Non
+Nettoyage de la grille avec 
+détergent neutre
+Nettoyage complet avec détergent 
+neutre.
+Rinçage.
+Tableau 13 – Entretien Utilisation
+ 
+
+--- PAGE 24 ---
+ATec n° 12/12-1629_V6
+Page 24 sur 33
+Figure 1 : Finition Plenum sans revêtement
+
+--- PAGE 25 ---
+ATec n° 12/12-1629_V6
+Page 25 sur 33
+Figure 2a : Clean Corner System : solution alternative pour remontée en plinthe
+mise en œuvre en angle sortant avec le système out
+ 
+
+--- PAGE 26 ---
+ATec n° 12/12-1629_V6
+Page 26 sur 33
+Figure 2b : - Clean Corner System : solution alternative pour remontée en plinthe
+ mise en œuvre en angle entrant avec le système in
+ 
+
+--- PAGE 27 ---
+ATec n° 12/12-1629_V6
+Page 27 sur 33
+Figure 3 : Traitement de la remontée en plinthe
+ 
+Page 1 sur 34
+ 
+ 
+
+--- PAGE 28 ---
+ATec n° 12/12-1629_V6
+Page 28 sur 33
+Figure 4 – Traitement de la jonction douche / chambre
+ 
+1.
+Compensation du revêtement par enduit de rebouchage mural ou profil de diminution réf. 0490
+2.
+Protection du revêtement de sol sous le recouvrement avec un adhésif de protection
+3.
+Application de la colle en s'arrêtant sur l'adhésif de protection.
+4.
+Enlever l'adhésif de protection avant affichage du revêtement MURAL
+5.
+Chauffage et marouflage du revêtement MURAL sur le recouvrement avec une roulette plat
+ 
+Figure 5 – Finition : recouvrement de la remontée en plinthe
+ 
+
+--- PAGE 29 ---
+ATec n° 12/12-1629_V6
+Page 29 sur 33
+Cas particulier : Rénovation
+•
+Groupement des tuyaux dans un angle
+•
+Confection d'un pan coupé
+•
+Remontée en plinthe sur le pan coupé
+ 
+Figure 6 – Cas particulier : Rénovation
+ 
+ 
+Figure 7 – Kit disponible chez GERFLOR ou ROMUS
+ 
+Figure 8 – Angle Sol/Mur avec forme d'appui
+ 
+
+--- PAGE 30 ---
+ATec n° 12/12-1629_V6
+Page 30 sur 33
+Figure 9 – Implantation d'un siphon dans une dalle béton (enduit de sol non représenté)
+
+--- PAGE 31 ---
+ATec n° 12/12-1629_V6
+Page 31 sur 33
+Figure 10 – Raccordement du revêtement au siphon
+Page 1 sur 34
+ 
+ 
+
+--- PAGE 32 ---
+ATec n° 12/12-1629_V6
+Page 32 sur 33
+ 
+Figure 11a – Exemple de traitement de raccordement au siphon sur chape ou dalle adhérente à base de liants 
+hydrauliques
+ 
+
+--- PAGE 33 ---
+ATec n° 12/12-1629_V6
+Page 33 sur 33
+Figure 11b – Exemple de traitement de raccordement au siphon sur chape ou dalle adhérente à base de liants 
+hydrauliques avec sous-couche TARAFOAM (Arrêt de la sous-couche à 3 cm du siphon - enduit de sol non 
+représenté)
+ 
+ 
+Figure 12 : Schéma de principe sur la mise en œuvre du revêtement mural et de la plaque Décochoc dans le cas 
+des sanitaires suspendus
