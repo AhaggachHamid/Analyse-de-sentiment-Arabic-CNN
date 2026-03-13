@@ -1,0 +1,1509 @@
+FICHIER: ATec 12_18-1764_V4.pdf (29 pages)
+================================================================================
+
+--- PAGE 1 ---
+ 
+ 
+Secrétariat : CSTB, 84 avenue Jean Jaurès, FR-77447 Marne la Vallée Cedex 2 
+Tél. : 01 64 68 82 82 - email : secretariat.at@cstb.fr 
+www.ccfat.fr  
+Les Avis Techniques sont publiés par le Secrétariat des Avis Techniques, assuré par le CSTB ; Les versions authentifiées sont disponibles gratuitement sur le site Internet du CSTB (http://www.cstb.fr) 
+ 
+12/18-1764_V4 
+Valide du 16 février 2024  
+au 30 septembre 2028 
+Sur le procédé 
+Système 
+Concept Douche 
+Titulaire(s) :  
+Société Tarkett France 
+1 Terrasse Bellini - Tour Initiale 
+FR-92919 Paris la Defense Cedex 
+Internet : www.tarkett.com 
+ 
+ 
+AVANT-PROPOS 
+Les avis techniques et les documents techniques d’application, désignés ci-après indifféremment par Avis Techniques, sont 
+destinés à mettre à disposition des acteurs de la construction des éléments d’appréciation sur l’aptitude à l’emploi des 
+produits ou procédés dont la constitution ou l’emploi ne relève pas des savoir-faire et pratiques traditionnels.  
+Le présent document qui en résulte doit être pris comme tel et n’est donc pas un document de conformité à la réglementation 
+ou de conformité à un référentiel d’une « marque de qualité ». Sa validité est décidée indépendamment de celle des pièces 
+justificatives du dossier.  
+L’Avis Technique est une démarche volontaire du demandeur, qui ne change en rien la répartition des responsabilités des 
+acteurs de la construction. Indépendamment de l’existence ou non de cet Avis Technique, pour chaque ouvrage, les acteurs 
+doivent fournir ou demander, en fonction de leurs rôles, les justificatifs requis.  
+L’Avis Technique s’adressant à des sachants, il n’a pas vocation à contenir d’autres informations que celles relevant du caractère 
+non traditionnel de la technique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Groupe Spécialisé n° 12 - Revêtements de sol et produits connexes 
+ 
+Famille de produit/Procédé :  Système de revêtement pour sol et mur de douche à base de PVC 
+
+--- PAGE 2 ---
+Avis Technique n° 12/18-1764_V4 
+Page 2 sur 29 
+ 
+ 
+ 
+ 
+Versions du document 
+ 
+ 
+ 
+ 
+Version 
+Description 
+Rapporteur 
+Président 
+V4 
+Il s’agit de la révision de l’Avis Technique 12/18-1764_V3.  
+Il intègre les modifications suivantes : 
+• 
+Suppression de la colle acrylique ULTRABOND ECO 370 
+de la société MAPEI au Tableau 4 du Dossier Technique 
+concernant les délais et conditions d’utilisation des 
+colles.  
+ 
+Gilbert FAU 
+Yann RIVIERE 
+
+--- PAGE 3 ---
+Avis Technique n° 12/18-1764_V4 
+Page 3 sur 29 
+ 
+ 
+ 
+ 
+ 
+Descripteur : 
+Système de douche plain-pied à partir de revêtements plastiques de sols et de murs soudés à chaud, incluant l’emploi de siphons de 
+sol, de caniveaux et la réalisation de pentes. 
+ 
+Le domaine d’emploi est celui défini à l’article 2.3 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) de Mai 2017 
+et détaillé au § 1.1.3 et § 1.1.4 précisé comme suit pour les cuvettes WC : sur support à base de liant hydraulique, les cuvettes de 
+WC à poser au sol sont admises uniquement en pose sur socle maçonné.  
+
+--- PAGE 4 ---
+Avis Technique n° 12/18-1764_V4 
+Page 4 sur 29 
+ 
+ 
+ 
+Table des matières 
+ 
+ 
+1. 
+Avis du Groupe Spécialisé .............................................................................................................................. 6 
+1.1. 
+Domaine d’emploi accepté .......................................................................................................................... 6 
+1.1.1. 
+Zone géographique ................................................................................................................................ 6 
+1.1.2. 
+Ouvrages visés ..................................................................................................................................... 6 
+1.1.3. 
+Locaux ................................................................................................................................................. 6 
+1.1.4. 
+Supports .............................................................................................................................................. 6 
+1.2. 
+Appréciation ............................................................................................................................................. 6 
+1.2.1. 
+Satisfaction aux lois et règlements en vigueur et autres qualités d’aptitude à l'emploi .................................... 6 
+1.3. 
+Remarques complémentaires du Groupe Spécialisé ....................................................................................... 8 
+2. 
+Dossier Technique ......................................................................................................................................... 9 
+2.1. 
+Mode de commercialisation......................................................................................................................... 9 
+2.2. 
+Description ............................................................................................................................................... 9 
+2.2.1. 
+Système ............................................................................................................................................... 9 
+2.2.2. 
+Revêtement de sol ................................................................................................................................. 9 
+2.2.3. 
+Revêtement mural ................................................................................................................................ 10 
+2.2.4. 
+Sous-couche acoustique ........................................................................................................................ 10 
+2.2.5. 
+Produits associés .................................................................................................................................. 11 
+2.3. 
+Dispositions de conception ........................................................................................................................ 13 
+2.3.1. 
+Généralités .......................................................................................................................................... 13 
+2.3.2. 
+Pentes, réservations et évacuations ........................................................................................................ 13 
+2.3.3. 
+Cas d’une chape fluide - Raccordement aux zones de pentes ..................................................................... 13 
+2.3.4. 
+Choix des produits de mise en œuvre associés ......................................................................................... 13 
+2.3.5. 
+Equipements sanitaires suspendus ......................................................................................................... 13 
+2.3.6. 
+Dossier de consultation - Documents Particuliers du Marché ...................................................................... 14 
+2.3.1. 
+Planning - Coordination entre les entreprises ........................................................................................... 14 
+2.3.2. 
+Chauffage des locaux ............................................................................................................................ 14 
+2.4. 
+Dispositions de mise en œuvre................................................................................................................... 14 
+2.4.1. 
+Dispositions générales .......................................................................................................................... 14 
+2.4.2. 
+Supports en sol : exigences relatives aux supports et préparation des supports ........................................... 14 
+2.4.3. 
+Mise en œuvre ..................................................................................................................................... 15 
+2.5. 
+Réception/mise en service ......................................................................................................................... 18 
+2.6. 
+Maintien en service des performances de l’ouvrage - Entretien....................................................................... 18 
+2.6.1. 
+Entretien ............................................................................................................................................. 18 
+2.6.2. 
+Surveillance – Maintenance – Réparation ................................................................................................. 18 
+2.6.3. 
+Glissance ............................................................................................................................................. 19 
+2.7. 
+Formation et assistance technique .............................................................................................................. 19 
+2.7.1. 
+Exigences relatives à l’entreprise ............................................................................................................ 19 
+2.7.2. 
+Formation et Assistance Technique ......................................................................................................... 19 
+2.8. 
+Principes de fabrication et de contrôle de cette fabrication ............................................................................. 19 
+2.8.1. 
+Revêtement de sol ................................................................................................................................ 19 
+2.8.2. 
+Revêtement de mur .............................................................................................................................. 19 
+2.8.3. 
+Sous-couche ........................................................................................................................................ 19 
+2.8.4. 
+Suivi de la performance acoustique ........................................................................................................ 19 
+2.9. 
+Résultats expérimentaux ........................................................................................................................... 20 
+2.10. 
+Références .............................................................................................................................................. 20 
+
+--- PAGE 5 ---
+Avis Technique n° 12/18-1764_V4 
+Page 5 sur 29 
+ 
+ 
+ 
+2.10.1. 
+Données Environnementales .................................................................................................................. 20 
+2.10.2. 
+Autres références ................................................................................................................................. 20 
+2.11. 
+Annexes du Dossier Technique ................................................................................................................... 21 
+ 
+ 
+
+--- PAGE 6 ---
+Avis Technique n° 12/18-1764_V4 
+Page 6 sur 29 
+ 
+ 
+ 
+1. Avis du Groupe Spécialisé 
+Le Groupe Spécialisé n° 12 - Revêtements de sol et produits connexes de la Commission chargée de 
+formuler les Avis Techniques a examiné, le 10 mai 2023, le procédé Système Concept Douche, 
+présenté par la Société TARKETT. Il a formulé, sur ce procédé, l’Avis Technique ci-après. L’avis a été 
+formulé pour les utilisations en France métropolitaine. 
+1.1. Domaine d’emploi accepté 
+1.1.1. Zone géographique  
+Cet avis a été formulé pour les utilisations en France métropolitaine. 
+1.1.2. Ouvrages visés 
+Système complet douches à partir de revêtements plastiques de sol et de murs, incluant l'emploi de siphons de sol et de 
+caniveaux et la réalisation de pentes. 
+1.1.3. Locaux 
+Le domaine d’emploi est celui défini à l’article 2.3 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) et 
+détaillé au § 1.1.3 et § 1.1.4.  
+Les locaux visés sont les suivants : 
+- Douches individuelles privatives des bâtiments d’habitation et bâtiments hors hospitaliers ou assimilés au plus classés U2s 
+P2 E2 (*) C1 selon la notice sur le classement UPEC et classement UPEC des locaux en vigueur ; 
+- Douches individuelles et collectives en bâtiments hospitaliers, MAPAD et EHPAD, bâtiments d’activités sportives et 
+d’enseignement au plus classés U3 P3 E3 C2 selon la notice sur le classement UPEC et classement UPEC des locaux en 
+vigueur ; 
+- Salles de bain avec baignoire des MAPAD et EHPAD et des bâtiments hospitaliers au plus classés U3 P3 E3 C2 selon la 
+notice sur le classement UPEC et classement UPEC des locaux en vigueur, ainsi que les locaux similaires ci-avant 
+susceptibles d’etre surclassés U4 P3 E3 C2 par le maitre d’ouvrage ; 
+Il s’agit des locaux au plus classés : 
+- EB+ collectifs sur support à base de liant hydraulique (Cf. tableau en annexe 1 du CPT « Systèmes Douches Plastiques » 
+(e-cahier du CSTB n° 3781) ; 
+- EC (vestiaires de piscines, balnéo … hors locaux à très forte hygrométrie) sur dallage avec ou sans dalle ou chape rapportée 
+et sur plancher en béton porté sur vide sanitaire.   
+(*) La présence d’un siphon de sol ou d’un caniveau conduit au surclassement de E2 à E3 du local. 
+Les locaux avec plancher chauffant ainsi que les locaux avec présence d’un joint de dilatation sont exclus. 
+Faute de dispositions constructives permettant d’assurer la pérennité de l’ouvrage, la mise en œuvre du procédé CONCEPT 
+DOUCHE sur chapes ou dalles désolidarisées sur isolant n’est pas visée dans le présent document. 
+Note : Les locaux visés ci-dessus et en particulier les douches (salles d’eau au sens du classement UPEC des locaux) sont 
+traitées sur toute la surface du sol ainsi que sur la totalité de la surface murale, sur toute sa hauteur. 
+1.1.4. Supports 
+1.1.4.1. 
+Support neuf ou existant non revêtu ou remis à nu à base de liant hydraulique 
+Les supports visés sont définis à l’article 6.1 de la NF DTU 53.12 P1-1-1, à l’exclusion des chapes et dalles flottantes, des 
+planchers chauffants et des escaliers.  
+1.1.4.2. 
+Supports muraux en neufs et en rénovations 
+Les supports visés sont définis à l’article 6.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+1.2. Appréciation 
+1.2.1. Satisfaction aux lois et règlements en vigueur et autres qualités d’aptitude à l'emploi 
+1.2.1.1. 
+Réaction au feu 
+Les revêtements de sol MULTISAFE GRANIT, GRANIT SAFE.T, MULTISAFE OPTIMA et MULTISAFE AQUA font l’objet de rapports 
+de classement européen de réaction au feu avec les classements suivants : 
+• MULTISAFE GRANIT : classement Bfl-s1, valable en pose collée sur tout support à base de bois ou tout support classé A1fl 
+ou A2fl ayant une masse volumique ≥ 510 kg/m3 (Rapport du SP TECHNICAL RESEARCH INSTITUTE OF SWEDEN n° 0402-
+CPD-P605010A du 25 août 2008) ; 
+
+--- PAGE 7 ---
+Avis Technique n° 12/18-1764_V4 
+Page 7 sur 29 
+ 
+ 
+ 
+• GRANIT SAFE.T : classement Bfl-s1, valable en pose collée sur tout support à base de bois ou tout support classé A1fl ou 
+A2fl ayant une masse volumique ≥ 510 kg/m3 (Rapport du SP Technical Research Institute of Sweden n° 0402-CPD-
+P502024A du 29 octobre 2009) ; 
+• MULTISAFE OPTIMA : classement Bfl-s1, valable en pose collée sur tout support à base de bois ou tout support classé A1fl 
+ou A2fl ayant une masse volumique ≥ 510 kg/m3 (Rapport du SP TECHNICAL RESEARCH INSTITUTE OF SWEDEN 
+n°PX15211-1 du 22 septembre 2011) ; 
+• MULTISAFE AQUA : classement Bfl-s1, valable en pose collée sur tout support à base de bois ou tout support classé A1fl 
+ou A2fl ayant une masse volumique ≥ 510 kg/m3 (Rapport du LNE n°P127073 du 16 juin 2014) ; 
+Les revêtements de sol MULTISAFE GRANIT, GRANIT SAFE.T, MULTISAFE AQUA et MULTISAFE OPTIMA associés à la sous-
+couche TARKOMOUSSE font l’objet de rapports de classement européen de réaction au feu avec les classements suivants : 
+• MULTISAFE GRANIT collé sur TARKOMOUSSE : classement Bfl-s1, valable pour l’ensemble en pose collée sur tout panneau 
+dérivé du bois de masse volumique ≥ 470 kg/m3 ou sur tout support classé A1fl ou A2fl–s1 de masse volumique ≥ 1200 
+kg/m3 (Rapport du CSTB n° RA 09-0110 du 28 avril 2009) ; 
+• GRANIT SAFE.T collé sur TARKOMOUSSE : classement Bfl-s1, valable pour l’ensemble en pose collée sur tout panneau 
+dérivé du bois de masse volumique ≥ 470 kg/m3 ou sur tout support classé A1fl ou A2fl–s1 de masse volumique ≥ 1200 
+kg/m3 (Rapport du CSTB n° RA 09-0450 du 10 décembre 2009) ; 
+• MULTISAFE OPTIMA collé sur TARKOMOUSSE : classement Bfl-s1, valable pour l’ensemble en pose collée sur tout panneau 
+dérivé du bois de masse volumique ≥ 510 kg/m3 ou sur tout support classé A1fl ou A2fl–s1 de masse volumique ≥ 1350 
+kg/m3 (Rapport du CRET n° RC2015/095 du 05 novembre 2015) ; 
+• MULTISAFE AQUA collé sur TARKOMOUSSE : classement Cfl-s1, valable pour l’ensemble en pose collée sur tout panneau 
+dérivé du bois de masse volumique ≥ 510 kg/m3 ou sur tout support classé A1fl ou A2fl–s1 de masse volumique ≥ 1350 
+kg/m3 (Rapport du CRET   n° RC2015/094 du 05 novembre 2015) ; 
+• Le revêtement mural AQUARELLE WALL HFS fait l’objet d’un rapport de classement européen de réaction au feu avec 
+classement B-s2, d0 valable en pose collée sur plaque de plâtre à faces cartonnées ou tout support classé A1 ou A2-s1, 
+d0 de masse volumique ≥ 700 kg/m3, avec ou sans lame d’air (Rapport du CSTB n° RA07-0113 du 13 mars 2007). 
+1.2.1.2. 
+Glissance 
+Les revêtements de sol MULTISAFE GRANIT, MULTISAFE OPTIMA, MULTISAFE AQUA et GRANIT SAFE.T font l’objet de rapports 
+d’essais de type réalisés au plan incliné selon la norme DIN 51097 dont les résultats sont les suivants : 
+• MULTISAFE GRANIT : Angle d’inclinaison moyen α ≥ 12° (rapport d’essai du laboratoire Säurefliesner-Vereinigung e.V n° 
+97900501.001 du 19 mai 2005) ; 
+• GRANIT SAFE.T : Angle d’inclinaison moyen α ≥ 12° (rapport d’essai du CSTB n° R2EM-GLI—11-26029994 du 19 juillet 
+2011) ; 
+• MULTISAFE OPTIMA : Angle d’inclinaison moyen α ≥ 12° (rapport d’essai du laboratoire SATRA Technology Centre 
+n°FLO0250474/1640/1 du 1er décembre 2016) ; 
+• MULTISAFE AQUA : Angle d’inclinaison moyen α ≥ 12° (rapport d’essai du laboratoire SATRA Technology Centre 
+n°FLO0222749/1410/1 du 15 avril 2014). 
+1.2.1.3. 
+Acoustique 
+Les systèmes associant les revêtements de sol MULTISAFE GRANIT, MULTISAFE OPTIMA, MULTISAFE AQUA et GRANIT SAFE.T 
+à la sous-couche TARKOMOUSSE ont fait l’objet d’essais de type concernant l’efficacité normalisée d’isolation au bruit de choc 
+∆Lw ; les résultats sont les suivants : 
+•  GRANIT SAFE.T sur TARKOMOUSSE : ∆Lw = 17 dB (rapport d’essai du CSTB n° AC12-26035360/1 du 12 mars 2012) ; 
+•  MULTISAFE GRANIT sur TARKOMOUSSE : ∆Lw = 18 dB (rapport d’essai du CSTB n° AC12-26035360/1 du 12/03/2012) ; 
+•  MULTISAFE OPTIMA sur TARKOMOUSSE : ∆Lw = 17 dB (rapport d’essai du CSTB n° AC12-26035360/3 du 12 mars 2012); 
+•  MULTISAFE AQUA sur TARKOMOUSSE : ∆Lw = 17 dB (rapport d’essai du CSTB n° AC15-26057393 du 1er septembre 
+2015). 
+L’isolation acoustique du système au niveau du siphon n’est pas visée par le présent Avis. 
+1.2.1.4. 
+Aspects sanitaires 
+Le présent Avis est formulé au regard de l’engagement écrit du titulaire de respecter la réglementation et notamment l’ensemble 
+des obligations réglementaires relatives aux produits pouvant contenir des substances dangereuses pour leur fabrication, leur 
+intégration dans les ouvrages du domaine d’emploi accepté et l’exploitation de ceux-ci. 
+Le contrôle des informations et déclarations délivrées en application des réglementations en vigueur n’entre pas dans le champ 
+du présent Avis. Le titulaire du présent Avis conserve l’entière responsabilité de ces informations et déclarations. 
+1.2.1.5. 
+Impact environnemental 
+Le procédé ne dispose d’aucune déclaration environnementale (DE) et ne peut donc revendiquer aucune performance 
+environnementale particulière. Il est rappelé que les DE n’entrent pas dans le champ d’examen d’aptitude à l’emploi des 
+produits. 
+
+--- PAGE 8 ---
+Avis Technique n° 12/18-1764_V4 
+Page 8 sur 29 
+ 
+ 
+ 
+1.2.1.6. 
+Prévention des accidents et maîtrise des accidents et maîtrise des risques lors de la mise en oeuvre 
+et de l’entretien 
+Le procédé dispose de Fiches de Données de Sécurité (FDS) 
+L’objet de la FDS est d’informer l’utilisateur de ce procédé sur les dangers liés à son utilisation et sur les mesures préventives 
+à adopter pour les éviter, notamment par le port d’équipements de protection individuelle (EPI). 
+Les produits doivent être utilisés conformément à leur étiquetage et à la réglementation en vigueur. 
+1.2.1.7. 
+Durabilité 
+Dans les conditions d'entretien préconisées décrites à l’article 8 du Dossier Technique, la durabilité à l'usage de l'ouvrage, dans 
+les conditions de mise en œuvre et d'emploi indiquées, est appréciée comme satisfaisante. 
+Elle est toutefois subordonnée : 
+- à une surveillance régulière visant à repérer d'éventuelles amorces de dégradations localisées pouvant apparaître en cours 
+d'usage, en particulier au niveau des points singuliers ; 
+- à la rapidité d'intervention afin de réparer ces éventuelles faiblesses ; 
+- à un bon niveau d'entretien. 
+ 
+Appréciation globale 
+L’utilisation du procédé dans le domaine d’emploi accepté (cf. paragraphe 1.1) est appréciée favorablement. 
+ 
+1.3. Remarques complémentaires du Groupe Spécialisé 
+ 
+ 
+
+--- PAGE 9 ---
+Avis Technique n° 12/18-1764_V4 
+Page 9 sur 29 
+ 
+ 
+ 
+ 
+2. Dossier Technique 
+Issu du dossier établi par le titulaire 
+2.1. Mode de commercialisation 
+ 
+Titulaire(s) : 
+Société Tarkett France 
+ 
+1 Terrasse Bellini – Tour Initiale 
+ 
+FR-92919 Paris La Défense Cedex 
+ 
+Internet : www.tarkett.com 
+ 
+Mise sur le marché  
+Revêtements de sol 
+En application du règlement UE 305/2011, les produits GRANIT MULTISAFE, GRANIT SAFE.T, MULTISAFE OPTIMA et AQUA 
+MULTISAFE font l’objet d’une déclaration des performances établie par le fabricant sur la base de la norme NF EN 14041. 
+Les produits conformes à cette DdP sont identifiés par le marquage CE. 
+Revêtement mural 
+En application du règlement UE 305/2011, le produit AQUARELLE WALL HFS fait l’objet d’une déclaration des performances 
+établie par le fabricant sur la base de la norme NF EN 15102. 
+Les produits conformes à cette DdP sont identifiés par le marquage CE. 
+ 
+Identification  
+Les emballages comportent le nom et le type ; ceci vaut de la part du fabricant engagement de conformité à la description et 
+aux caractéristiques ci-dessus. 
+L'épaisseur, le dessin, le coloris, les dimensions, un repère correspondant à la date de fabrication (N° de lot) figurent aussi sur 
+les emballages. 
+2.2. Description 
+2.2.1. Système  
+Version CONCEPT DOUCHE Classique 
+Le système CONCEPT DOUCHE est un concept de pièces d’eau associant les revêtements de sol et de mur soudés à chaud, 
+disposés sur la totalité des surfaces du local (sols et murs) et incluant : 
+• L’utilisation d’accessoires d’évacuation (siphons de sol) ; 
+• L’utilisation d’accessoires de mise en œuvre (formes d’appui pour angle, profilés de diminution et seuils d’étanchéité, 
+platine de montage du siphon…) ; 
+• La réalisation de pentes. 
+Afin que le système CONCEPT DOUCHE puisse être considéré comme tel, il devra démontrer : 
+• que le sol du local est recouvert entièrement et uniformément du même revêtement de sol ; 
+• que le support soit réalisé sans discontinuité de parement ; 
+• que les remontées en plinthes et recouvrements par le mural soient réalisés sur l'entière périphérie du local ; 
+• que les murs du local sont recouverts entièrement et uniformément du même revêtement sur toute la hauteur utile. 
+Version CONCEPT DOUCHE Confort 
+La version précédente peut être complétée par l’utilisation d’une sous-couche TARKOMOUSSE permettant d’améliorer les 
+performances acoustiques de la version CONCEPT DOUCHE Classique à un affaiblissement acoustique au bruit de choc de 
+ΔLw = 17 dB pour les revêtements GRANIT SAFE.T, MULTISAFE OPTIMA, MULTISAFE AQUA et ΔLw = 18 dB pour le revêtement 
+MULTISAFE GRANIT.  
+2.2.2. Revêtement de sol 
+2.2.2.1. 
+Type et aspect 
+Revêtements de sol PVC homogènes et hétérogènes à relief ou à particules de la société TARKETT. 
+Pour le MULTISAFE GRANIT, la surface présente des pastilles rondes et présente un aspect semi-brillant. 
+Pour le GRANIT SAFE.T, la surface présente des particules antidérapantes et présente un aspect semi-brillant.  
+
+--- PAGE 10 ---
+Avis Technique n° 12/18-1764_V4 
+Page 10 sur 29 
+ 
+ 
+ 
+Pour le MULTISAFE OPTIMA, la surface présente des pastilles ovales et présente un aspect semi-brillant. 
+Pour le MUTISAFE AQUA, la surface est grainée et présente un aspect semi-brillant. 
+2.2.2.2. Coloris et dessins 
+Pour le MULTISAFE GRANIT, la gamme actuelle comprend 16 décors (d’autres pourront être ajoutés). 
+Pour le GRANIT SAFE.T, la gamme actuelle comprend 16 décors (d’autres pourront être ajoutés). 
+Pour le MULTISAFE OPTIMA, la gamme actuelle comprend 12 décors (d’autres pourront être ajoutés). 
+Pour le MUTISAFE AQUA, la gamme actuelle comprend 11 décors (d’autres pourront être ajoutés). 
+2.2.2.3. Conditionnement 
+Les revêtements MULTISAFE GRANIT, GRANIT SAFE.T, MULTISAFE OPTIMA et MUTISAFE AQUA sont conditionnés en rouleaux 
+(Cf. § 2.2.44 ci-après). 
+2.2.2.4. 
+Caractéristiques d'identification et d’aptitude des revêtements de sol  
+ 
+Désignation 
+commerciale 
+Classement 
+Certificat 
+QB-UPEC 
+(NF EN ISO 
+10581) 
+Épaisseur 
+(mm) 
+Masse 
+surfacique 
+totale 
+(g/m²) 
+Largeur 
+des lés 
+(cm) 
+Longueur 
+des rouleaux 
+(ml) 
+MULTISAFE GRANIT  
+U4 P3 E2/3 C2 
+312-013.1 
+2 (hors relief) 
+3060 
+200 
+25 
+GRANIT SAFE.T 
+U4 P3 E2/3 C2 
+312-023.1 
+2 
+2950 
+200 
+25 
+MULTISAFE OPTIMA 
+U4 P3 E2/3 C2 
+312-026.1 
+2,25 
+2820 
+200 
+25 
+MULTISAFE AQUA  
+U3 P3 E2/3 C2 
+305-110.1 
+2 
+3100 
+200 
+25 
+2.2.3. Revêtement mural 
+2.2.3.1. 
+Type et aspect 
+Revêtement de mur vinylique flexible en lés en PVC plastifié avec grainage de surface ; la surface est grainée et présente un 
+aspect semi-brillant. 
+2.2.3.2. 
+Coloris et dessins 
+La gamme actuelle d’AQUARELLE WALL HFS comprend 27 décors (d’autres pourront être ajoutés). 
+Le revêtement AQUARELLE WALL HFS est conditionné en rouleau (Cf. § 2.3.3.4 ci-après). 
+2.2.3.3. 
+Caractéristiques d’identification et d’aptitude  
+ 
+Caractéristiques 
+Méthodes d’essais 
+Valeurs 
+Largeur des lés (m) 
+NF EN ISO 24341 
+2 
+Longueur des rouleaux (ml) 
+NF EN ISO 24341 
+35 
+Épaisseur (mm) 
+NF EN ISO 24346 
+0,92 ± 0,05 
+Masse surfacique (g/m²) 
+NF EN ISO 23997 
+1500 ± 80 
+Tenue à la lumière 
+NF EN ISO 105-B02 
+≥ 6 
+Résistance aux produits chimiques 
+NF EN ISO 26987 
+Insensible aux acides et bases 
+dilués, détergents 
+Résistance de la soudure 
+(N/50 mm) 
+NF EN 684 
+≥ 150 
+2.2.4. Sous-couche acoustique 
+2.2.4.1. 
+Type et aspect 
+Sous-couche TARKOMOUSSE à base de PVC armé d’un voile de verre avec envers mouse. 
+2.2.4.2. 
+Caractéristiques d’identification et d’aptitude  
+Associée aux revêtements de sol, elle permet d’obtenir une efficacité acoustique d’isolation au bruit de choc de 18 dB avec 
+MUTISAFE GRANIT et de 17 dB avec GRANIT SAFE.T, MULTISAFE OPTIMA et MULTISAFE AQUA. 
+ 
+ 
+
+--- PAGE 11 ---
+Avis Technique n° 12/18-1764_V4 
+Page 11 sur 29 
+ 
+ 
+ 
+ 
+Caractéristiques 
+Méthodes 
+d’essais 
+Valeurs 
+Largeur des lés (m) 
+NF EN ISO 24341 
+2 
+Longueur des rouleaux (ml) 
+NF EN ISO 24341 
+35 
+Épaisseur (mm) 
+NF EN ISO 24346 
+2,00 
+Masse surfacique (g/m²) 
+NF EN ISO 23997 
+1200 
+Efficacité au bruit de choc ΔLw 
+TARKOMOUSSE + MULTISAFE GRANIT 
+TARKOMOUSSE + GRANIT SAFE.T 
+TARKOMOUSSE + MULTISAFE OPTIMA 
+TARKOMOUSSE + MULTISAFE AQUA 
+NF EN ISO 717-2 
+ 
+18 dB 
+17 dB 
+17 dB 
+17 dB 
+Poinçonnement rémanent (mm) 
+(TARKOMOUSSE + MULTISAFE GRANIT ou 
+GRANIT SAFE.T) 
+NF EN ISO 24343-1 
+(150 min) 
+≤ 0,20 
+2.2.5. Produits associés  
+Ces produits doivent être utilisés conformément à leur étiquetage et aux préconisations du fabricant. 
+2.2.5.1. 
+Cordons de soudure  
+Cordons de soudure PVC, diamètre 4 mm, disponible en bobine de 50 m. 
+2.2.5.2. 
+Produits de préparation des supports  
+Support mural : cf. tableau 4 de l’annexe 2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+Les primaires préconisés pour la préparation du support mural sont les suivants : 
+Tableau 1 – Préconisation des primaires pour le traitement des supports muraux 
+Fabricant 
+Désignation 
+BOSTIK 
+GRIP A700 UNIVERSAL 
+SIKA-CEGECOL 
+CEGEPRIM E 
+MANG 
+PRIMAPRENE               
+MAPEI 
+PRIMER G 
+MIPLACOL 
+GRIP A500 MULTI 
+SADER 
+UNIDUR N 
+UZIN 
+PE 360 
+2.2.5.3. 
+Produit de collage 
+Support sol : Cf. article 7.2.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+Le fabricant du revêtement recommande les colles acryliques suivantes pour le simple et double encollage : 
+Tableau 2 – Préconisation des colles pour le simple encollage 
+Fabricant 
+Désignation 
+BOSTIK MANG 
+POLYMANG SM CONFORT 
+BOSTIK SADER 
+SADERTAC V6 CONFORT 
+BOSTIK MIPLACOL 
+STIX A300 MULTIFLOOR   
+SIKA-CEGECOL 
+CEGE 100 HQT 
+UZIN 
+KE 2000 S 
+ 
+ 
+ 
+ 
+
+--- PAGE 12 ---
+Avis Technique n° 12/18-1764_V4 
+Page 12 sur 29 
+ 
+ 
+ 
+Tableau 3 – Préconisation des colles pour le double encollage 
+Fabricant 
+Désignation 
+SIKA-CEGECOL  
+CEGE 100 CONTACT+ 
+MAPEI  
+ULTRABOND ECO CONTACT 
+UZIN  
+WK 222 
+Pour la remontée en plinthe du revêtement de sol, le fabricant-concepteur du système préconise également l’usage de bande 
+adhésive double face type ROLL 25/50/85 de BOSTIK ou CEGETACK 25/50/85 mm de SIKA-CEGECOL et pour le passage d’angle 
+sortant du revêtement mural, l’usage de bande adhésive double face type ROLL SD50 de BOSTIK ou CEGETACK de SIKA-
+CEGECOL. 
+ 
+Tableau 4 – Délais et conditions d’utilisation des colles  
+Fabricant 
+Désignation 
+Temps de 
+gommage 
+Temps ouvert 
+Température 
+minimale d’emploi 
+BOSTIK MANG 
+POLYMANG SM CONFORT 
+10 à 15 min 
+45 à 50 min 
+10 °C 
+BOSTIK SADER 
+SADERTAC V6 CONFORT 
+10 à 15 min 
+45 à 50 min 
+10 °C 
+BOSTIK MIPLACOL 
+STIX A300 MULTIFLOOR 
+10 à 15 min 
+45 à 50 min 
+10 °C 
+SIKA-CEGECOL 
+CEGE 100 HQT 
+10 à 20 min 
+env. 90 min 
+10 °C 
+MAPEI 
+ROLLCOLL 
+5 à 15 min 
+20 à 30 min 
+10 °C 
+UZIN 
+KE 2000 S 
+5 à 20 min 
+60 à 120 min 
+15 °C 
+Informations données à titre indicatif. Il convient de se reporter aux fiches techniques des produits 
+2.2.5.4. 
+Profilé forme d’appui pour remonter en plinthe 
+Forme d’appui en PVC de 20 mm PA20 (réf. 1441000) ou de 30 mm PA30 (réf. 1442000) de TARKETT. 
+2.2.5.5. 
+Profilé de diminution 
+Profilé en PVC PJ30 (réf. 1448001) pour compensation de l’épaisseur du revêtement de sol en remontée en plinthe avant la 
+pose du revêtement mural. 
+ 
+                   
+ 
+Profilé de diminution PJ30 (dimensions en mm) 
+2.2.5.6. 
+Profilé de seuil  
+Barre de seuil en PVC de TARKETT PTS (réf. Gris : 2666 4001. Gris foncé : 2666 4002. Blanc : 2666 4003. Beige : 2666 4004), 
+adaptée et soudable aux revêtements, ou barre de seuil à soufflet en PVC (réf. Gris argile Lead) adaptée et soudable aux 
+revêtements, ou en caoutchouc RTS (réf. Gris : 1255748).  
+ 
+Barre de seuil PTS (dimensions en mm) 
+ 
+ 
+Barre de seuil PVC WTS1 (dimensions en mm) 
+ 
+
+--- PAGE 13 ---
+Avis Technique n° 12/18-1764_V4 
+Page 13 sur 29 
+ 
+ 
+ 
+ 
+Barre de seuil RTS (dimensions en mm) 
+2.2.5.7. 
+Plaques de protection derrière les cuvettes WC  
+Plaque de type ACROVYN lisse (HYDROCLAD®) de 2 mm d’épaisseur. 
+Plaque manufacturée par le fabricant de la cuvette.  
+2.2.5.8. 
+Mastic de calfatage 
+le calfatage est effectué avec un mastic du type polyuréthanne ou MS-Polymères (par exemple Bostik MSP 107).  
+2.2.5.9. 
+Siphons de sol  
+Ils doivent être conformes à la norme NF EN 1253 ; les modèles suivants sont préconisés : 
+• Siphons modèles ODEN, FREJA, BRAGE 50, BRAGE 75, DUSCHBRUNN, MINIMAX, MINIMAX INOX 40 et MINIMAX S-SERIE 
+distribués par TARKETT (cf. Figures 2a, 2b et 2c en fin de Dossier Technique).  
+2.3. Dispositions de conception 
+2.3.1. Généralités  
+Au moment de la conception des locaux de douches, il doit être tenu compte des règles concernant l’accessibilité aux Personnes 
+à Mobilité Réduite (PMR) – cf. Chapitre III – TITRE IV « ACCESSIBILITÉ » de la Loi n° 2005-102 du 11 février 2005 ainsi que 
+le « Guide des salles d’eau accessibles à usage individuel dans les bâtiments d’habitation » du 16/07/2012.  
+En outre, et à minima dans le cas de travaux neufs, les dispositions constructives précisées dans le guide du CSTB « Mise en 
+œuvre d’une douche de plain-pied dans les salles d’eau à usage individuel en travaux neufs » doivent être également respectées 
+en fonction des dispositifs de protection contre les projections d’eau éventuellement prévus (cf. articles 5 et 6 du guide - cas 
+des systèmes douches plastiques). 
+Le Maître d’œuvre doit s’assurer du respect de ces dispositions ; il doit aussi veiller à ce que l’entreprise soit qualifiée et ses 
+intervenants formés au travers de la vérification des attestations individuelles de formation. 
+2.3.2. Pentes, réservations et évacuations 
+Le support doit présenter les pentes et les réservations nécessaires à la mise en place des évacuations (cf. article 4.3 du CPT 
+Systèmes Douches Plastiques (e-cahier du CSTB n° 3781)). En travaux neufs, les pentes doivent être apportées par le support. 
+En travaux de rénovation, la réservation d’épaisseur doit être suffisante pour assurer la pente minimale ; à défaut, il faudra 
+s’assurer de la faisabilité de la solution proposée dans le Dossier Technique.  
+Les dispositifs constructifs spécifiques (pentes, siphons, gaines techniques,…) doivent être prévus au préalable ainsi que les 
+réservations nécessaires. 
+Sur support à base de liant hydraulique, le siphon ou caniveau doit être installé par scellement à la chape ou à la dalle dans la 
+réservation prévue à cet effet ; le produit à utiliser et la qualité de réalisation du scellement doivent être vérifiés. 
+L’entreprise titulaire du lot gros œuvre et le plombier (ou l’entreprise qui a la charge de la pose du siphon ou caniveau) doivent 
+être informées du choix particulier de siphon et des conditions particulières requises pour sa mise en œuvre en fonction du 
+support. 
+Les plans des pentes et les plans d'implantation des siphons et caniveaux doivent être communiqués à l'entreprise de pose du 
+revêtement. 
+Il appartient au Maître d’œuvre de s’assurer du respect de ces dispositions. 
+2.3.3. Cas d’une chape fluide - Raccordement aux zones de pentes 
+Dans le cas d’un support de type chape fluide (en dehors de la zone d’emprise de l’espace douche – cf. Guide pour la mise en 
+œuvre d’une douche de plain-pied dans les salles d’eau à usage individuel en travaux neufs de juillet 2012), le raccordement 
+avec la zone de pente doit s’effectuer au seuil de porte du local douche et doit faire l’objet d’une étude particulière ; il doit être 
+décrit dans les Documents Particuliers du Marché conformément à l’article 4.32 du Cahier des Prescriptions Techniques « 
+Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+2.3.4. Choix des produits de mise en œuvre associés 
+Les produits associés nécessaires à la mise en œuvre du système CONCEPT DOUCHE TARKETT (notamment les produits de 
+préparation et de reprofilage de support, les produits de scellement du siphon, etc…) doivent être adaptés à l’utilisation prévue. 
+Le Maître d’œuvre devra s’en assurer. 
+2.3.5. Equipements sanitaires suspendus 
+Dans le cas d’une cuvette WC suspendue, le bâti-support de cuvette et la constitution de la paroi destinée à recevoir la cuvette 
+doivent être dimensionnés afin d’éviter en exploitation tout mouvement de celle-ci induit par les charges d’utilisation de 
+l’appareil, qui pourraient à terme provoquer des désordres au niveau du revêtement mural. Il appartient au Maître d’œuvre de 
+
+--- PAGE 14 ---
+Avis Technique n° 12/18-1764_V4 
+Page 14 sur 29 
+ 
+ 
+ 
+s’assurer de leur conformité aux préconisations des fabricants de ces éléments (rigidité, épaisseur et tenue mécanique 
+notamment). 
+Dans le cas d’une cuvette WC suspendue de type « rallongée » ou dans le cas de l’absence de renforcement particulier du 
+support mural, l’emploi de la plaque de protection préconisée à l’article 2.2.5.7 du Dossier Technique est requis, en interposition 
+entre le revêtement mural et la surface d’appui de la cuvette WC. 
+En outre, les dispositions nécessaires devront être prévues le cas échéant pour s’assurer que toute la surface d’appui de la 
+cuvette WC soit en contact avec la paroi verticale revêtue, en tenant compte de la surépaisseur due à la remontée en plinthe. 
+L’installation et le montage final de la cuvette sont à la charge de l’entreprise de plomberie.  
+Les plans d'implantation des équipements sanitaires doivent être communiqués à l'entreprise de pose du revêtement. 
+Il appartient au Maître d’œuvre de s’assurer du respect de ces dispositions. 
+ 
+Note : Dans le cas d’une cuvette WC suspendue, en l’absence de renfort spécifique, le risque de boursouflure sur le revêtement 
+mural à la jonction de la cuvette WC avec la plaque de plâtre support du fait du serrage des fixations et du fléchissement répété 
+de celle-ci ne peut pas être exclu ; le risque est particulièrement prononcé dans les bâtiments de type MAPAD ou EHPAD ainsi 
+que dans le cas de cuvettes prolongées. Des boursouflures peuvent aussi apparaitre lorsque la forme de l’embase de la cuvette 
+est telle qu’elle peut conduire à un poinçonnement de la plaque de plâtre. Dans tous ces cas, l’interposition d’une plaque rigide 
+au choix du Maître d’œuvre est une solution de renforcement de la rigidité de la paroi qui peut permettre de limiter ce risque. 
+Elle n’affranchit en aucun cas le Maître d’œuvre de s’assurer au préalable de la stabilité totale de l’ensemble comme décrit. 
+2.3.6. Dossier de consultation - Documents Particuliers du Marché 
+Se reporter à la partie 2 de la norme NF DTU 53.12, cahier des clauses administratives spéciales types.  
+En outre, le dossier de consultation doit comprendre les indications suivantes : 
+- Types et descriptions des siphons et des équipements sanitaires ; 
+- Plans des pentes, en fonction des dispositifs de protection contre les projections d’eau éventuellement prévus ; 
+- Plans d'implantation des dispositifs d'évacuation ; 
+- Dispositions minimales de surveillance et d’intervention pour réparation. 
+Il précisera également à la charge de qui est affecté le traitement des fissures du support. 
+2.3.1. Planning - Coordination entre les entreprises 
+La préparation du support en vue de l’obtention des pentes et de la mise en place des parties destinées à recevoir les siphons 
+et caniveaux étant à la charge de l'entreprise de gros œuvre et la mise en place des parties destinées à recevoir les siphons et 
+caniveaux à la charge de l'entreprise de plomberie, l'entreprise de pose du revêtement doit être associée au moment de 
+l'établissement et de la mise à jour du planning des travaux à l'entreprise de gros œuvre et à l'entreprise de plomberie pour 
+tout ce qui concerne la mise en place des évacuations. 
+Le Maître d’œuvre devra veiller à la bonne coordination entre ces entreprises et l’entreprise de revêtement de sol. 
+2.3.2. Chauffage des locaux 
+Lorsque les conditions du chantier le nécessitent, il appartient au Maître d’ouvrage de prévoir et mettre à disposition les moyens 
+nécessaires pour assurer un apport de chauffage permettant de satisfaire l’exigence de température minimale de + 15 °C 
+requise pendant toute la durée du stockage et de la pose du revêtement mural. 
+2.4.  Dispositions de mise en œuvre 
+2.4.1. Dispositions générales 
+2.4.1.1. 
+Consistance des travaux 
+Se reporter à la partie 2 de la NF DTU 53.12, cahier des clauses administratives spéciales types. 
+En outre, les travaux dus par l'entreprise de pose du revêtement comprennent également : 
+- la réalisation des pentes dans le cas de travaux de rénovation ; 
+- la fourniture et la pose des profils de finition ; 
+- la finition autour des siphons et caniveaux. 
+2.4.2. Supports en sol : exigences relatives aux supports et préparation des supports 
+2.4.2.1. 
+Supports neufs à base de liant hydraulique  
+2.4.2.1.1. 
+Exigences relatives aux supports 
+Les exigences relatives aux supports sont celles définis à l’article 6.1.5 de la norme NF DTU 53.12-P1-1-1.  
+Un exemple de fiche de contrôle de réception des supports en sol à base de liants hydrauliques est donné en annexe 8 du CPT 
+« Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).  
+ 
+2.4.2.1.2. 
+Travaux préparatoires 
+
+--- PAGE 15 ---
+Avis Technique n° 12/18-1764_V4 
+Page 15 sur 29 
+ 
+ 
+ 
+Ce sont ceux définis à l’article 9.1 de la norme NF DTU 53.12 P1-1-1 qui s’appliquent à ces supports.  
+ 
+2.4.2.2. 
+Supports existants en rénovation  
+2.4.2.2.1. 
+Exigences relatives aux supports 
+Les exigences relatives aux supports admis ainsi que leur préparation sont celles définies à l’article 7.2 la norme NF DTU 53.12 
+P1-1-1.  
+2.4.2.2.2. 
+Travaux préparatoires 
+Une étude préalable de l’état du support est réalisée conformément au NF DTU 53.12 P1-1-1 et à son annexe D. 
+Cette étude est basée sur le Tableau 5 du NF DTU 53.12 P1-1-1 a pour objet notamment : 
+- de mesurer la planéité ; 
+- de définir les zones de l’ancien sol à conserver ou à déposer ; 
+- de repérer les fissures et joints de fractionnement qui doivent être traités ; 
+- de déterminer la nature des chapes. 
+A l’issue de l’étude préalable et reconnaissance du support, la conservation ou la dépose des supports anciens est 
+déterminée selon les critères définis dans le Tableau 6 du NF DTU 53.12 P1-1-1. 
+2.4.2.3. 
+Supports admis en mural 
+2.4.2.3.1. 
+Exigences relatives aux supports 
+Les exigences relatives aux supports admis ainsi que leur préparation sont définies à l’article 6.2 du CPT « Systèmes Douches 
+Plastiques » (e-cahier du CSTB n° 3781). 
+Un exemple de fiche de contrôle de réception des supports muraux est donné en annexe 10 du CPT « Systèmes Douches 
+Plastiques » (e-cahier du CSTB n° 3781). 
+2.4.2.3.2. Travaux préparatoires 
+Se référer à l’article 7.2.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) complété comme suit : 
+L’application d’un primaire compatible avec le support et la colle sera réalisée (cf. article 2.2.5.2 et tableau 1 pour le choix du 
+primaire).  
+L’impression du mur doit être réalisée par un primaire qui homogénéise la porosité (ne pas utiliser des impressions pour 
+peinture). 
+2.4.3. Mise en œuvre 
+2.4.3.1. Pose du siphon 
+Se référer à l’article 7.3 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) ainsi qu’aux Figures 1, 2,9 et 10 
+en fin de Dossier Technique. 
+2.4.3.2. 
+Travaux de revêtement 
+Se référer à l’article 7.4 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) pour l’organisation générale du 
+chantier. 
+2.4.3.3. 
+Stockage des matériaux 
+Se référer à l’article 7.3 du DTU 53.12-1-1-3.  
+2.4.3.4. 
+Conditions de température et d’hygrométrie 
+Se référer à l’article 7.4.1.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+La température ambiante minimale du local doit être de + 15 °C pour la pose des lés de revêtement de sol et de revêtement 
+mural. L’absence de respect de cette disposition conduit tout particulièrement à des difficultés de pose du revêtement mural 
+dans les angles ce qui amène souvent l’entreprise à recourir au souffleur thermique pour le chauffage direct du revêtement avec 
+les risques que cela présente comme par exemple le retrait et le décollement dans les angles rentrants ou le retrait avec rupture 
+au droit des soudures. 
+2.4.3.5. 
+Mise en œuvre du revêtement de sol 
+Les dispositions générales et particulières de la pose du revêtement sont reprises a article 9.1.1 du DTU 53.12-1-1-3 complétées 
+comme ci-après. 
+2.4.3.5.1.1. 
+Préparation des angles sol/mur 
+La remontée en plinthe est réalisée : 
+- soit par thermoformage ; 
+- soit sur une forme d’appui manufacturée ; dans ce cas, il y a mise en place préalable en rives du profilé d’appui PA20 ou 
+PA30 de TARKETT en double encollage ou bien à l’aide d’une bande adhésive double-face (cf. Figure 3 et 8 en fin de Dossier 
+Technique et l’article 2.2.5.4 du Dossier Technique). 
+
+--- PAGE 16 ---
+Avis Technique n° 12/18-1764_V4 
+Page 16 sur 29 
+ 
+ 
+ 
+2.4.3.5.1.2. 
+Calepinage et préparation des lés 
+Disposer les lés au sol bord à bord en veillant à ce que les joints soient au moins à 50 cm du bord du siphon. 
+2.4.3.5.1.3. 
+Collage du revêtement de sol 
+Il a lieu 24 heures après la mise en place des lés. 
+Le fabricant du revêtement préconise les colles acryliques figurant dans le tableau 2 de l’article 2.2.5.3 ci-avant, employées en 
+simple encollage à raison de 300 g/m² environ, déposées à la spatule dentée (type A2 selon recommandations TKB.  
+Pour la mise en œuvre localisée en double encollage (remontées en plinthe, etc…), se référer au tableau 3 et aux notices 
+d’emploi des fabricants pour les consommations. 
+2.4.3.5.1.3.1. 
+Application des lés 
+Replier les lés par moitié. Encoller le support et appliquer le revêtement. 
+Replier les secondes moitiés et procéder de même. 
+Ne pas faire chevaucher deux films de colle à la reprise d’encollage. 
+2.4.3.5.1.3.2. 
+Marouflage 
+Marouflage manuel soigné lors de la mise en place pour assurer un bon transfert du film de colle. 
+Important : Proscrire toute circulation pendant 24 heures après la pose, de même que tout aménagement ou mise en place de 
+mobilier. 
+2.4.3.5.1.4. 
+Traitement du raccordement du revêtement, spécifique au siphon PURUS 
+Après affichage du revêtement de sol en recouvrement du siphon, pour procéder à sa découpe : 
+- placer le pied du couteau PURUS dans le siphon (cf. Figure 2b en fin de Dossier Technique) ; 
+- Afficher le revêtement de sol en recouvrement du siphon ; 
+- A l’aide d’une lame, percer le revêtement pour dégager l’axe du pied ; 
+- positionner le bras du couteau sur l’axe pour effectuer la découpe ; 
+- chauffer le revêtement (soufflerie chauffante) pour faciliter la retombée dans le siphon ; 
+- placer l’anneau de fixation (bague de serrage bleue) ; 
+- enfoncer la grille de protection. 
+Une notice de montage est disponible dans le conditionnement du siphon PURUS. 
+2.4.3.5.1.5. 
+Traitement des rives 
+• Par remontée en plinthes thermoformée (angle droit) ; 
+• Par remontée en plinthes sur profilés d’appui (PA20 ou PA30 de TARKETT, cf. Figures 3 et 8 en fin de Dossier Technique). 
+2.4.3.5.1.6. 
+Jonction du revêtement de sol douche / pièce sèche 
+Se référer aux articles 7.4.3.1 et 7.4.3.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) complétés 
+comme suit : 
+Cas général : soudure à chaud du revêtement avec celui de la pièce adjacente. 
+La Société TARKETT commercialise des barres de seuil PVC et caoutchouc qui se collent sur le support et les revêtements se 
+positionnent de chaque côté sur la languette (cf. Figure 4 en fin de Dossier Technique). 
+2.4.3.5.1.7. 
+Traitement des joints 
+• Soudure à chaud obligatoire avec un cordon d’apport PVC TARKETT : 
+- 24 h minimum après collage ; 
+- Attention : pas de soudure à moins de 50 cm du bord du siphon. 
+• Chanfreinage : 
+Il faut chanfreiner le revêtement sur les 2/3 de son épaisseur. 
+(voir figure 8a en fin de dossier Technique) 
+2.4.3.6. 
+Dispositions particulières de mise en œuvre de la variante acoustique du revêtement de sol  
+2.4.3.6.1. 
+Pose de la sous-couche TARKOMOUSSE 
+Se référer à l’article 9.2 de la NF DTU 53.12 P1-1-1-3 complété comme ci-après, ainsi qu’à la Figure 9 en fin de Dossier 
+Technique : 
+• Les principes généraux de conception de l’article 4 du CPT e-cahier du CSTB 3781 doivent être respectés. 
+• La sous-couche TARKOMOUSSE est installée 24 heures minimum avant la pose du revêtement de sol PVC. Les lés sont 
+posés dans le même sens en bord à bord, l’envers (face blanche) appliqué sur le support par collage en plein avec l’une 
+des colles acryliques préconisées (voir tableau 2 au § 2.2.5.3) à raison de 300 g/m² environ, déposées à la spatule dentée 
+type TKB A2. Prévoir un espace de 3 cm environ lors de la découpe au pourtour du siphon. Marouflage manuel soigné avec 
+une cale en liège lors de la mise en place pour assurer un bon transfert du film de colle. 
+Les locaux doivent être fermés pour éviter tout trafic sur la sous-couche avant recouvrement par le revêtement de sol PVC. 
+
+--- PAGE 17 ---
+Avis Technique n° 12/18-1764_V4 
+Page 17 sur 29 
+ 
+ 
+ 
+2.4.3.6.2. 
+Pose du revêtement de sol 
+La mise en place des profilés d’appui puis du revêtement de sol intervient au moins 24 heures après celle de TARKOMOUSSE. 
+La pose est réalisée à joints décalés (au moins 20 cm) par rapport à ceux de la sous-couche, à l’aide d’une émulsion acrylique 
+choisie dans le tableau 2 de l’article 2.2.5.3 ci-avant, déposée à la spatule finement dentée type TKB A4 (200 à 250 g/m² 
+environ). 
+Après avoir respecté impérativement le temps de gommage, le revêtement est affiché en effectuant un marouflage soigné au 
+fur et à mesure de la pose. 
+Pour la mise en œuvre localisée en double encollage (remontées en plinthe, etc…), se référer au tableau 3 de l’article 2.2.5.3 
+ci-avant et aux notices d’emploi des fabricants pour les consommations. 
+2.4.3.7. 
+Mise en œuvre du revêtement mural 
+Les dispositions générales et particulières de la pose du revêtement mural sont reprises à l’article 7.4.4 du CPT « Systèmes 
+Douches Plastiques » (e-cahier du CSTB n° 3781) complété comme ci-après. 
+L’application d’un primaire selon la nature du support mural est réalisée et selon la nature du subjectile du revêtement mural 
+AQUARELLE WALL HFS. 
+La norme NF P 74-201-1 (réf. DTU 59.1 P1-1) dans le Cahier des Clauses Techniques précise les prescriptions de mise en œuvre 
+des revêtements muraux en fonction des différents subjectiles et l’aspect de finition est du type A (cf. 6.2.3 de la norme). 
+Pour compenser la différence d’épaisseur de la remontée en plinthe du revêtement de sol, appliquer le profilé de jonction PJ30 
+de TARKETT (cf. article 2.2.5.5 et Figure 5 en fin de Dossier Technique) qui sera recouvert par le revêtement AQUARELLE WALL 
+HFS. 
+Dans le cas où une des bandes adhésives double-face préconisées est utilisée pour le collage des points singuliers du revêtement 
+mural AQUARELLE WALL HFS (angles sortants, recouvrement de la remontée en plinthe), l’attention du Maître d’ouvrage est 
+attirée sur le risque d’apparition à la surface du revêtement du spectre de la bande adhésive. 
+2.4.3.7.1. 
+Plenum 
+Se référer à l’article 7.4.4.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+2.4.3.7.2. 
+Calepinage et préparation des lés (pose verticale) 
+Se référer à l’article 7.4.4.4 du CPT voir si valable en pose horizontale « Systèmes Douches Plastiques » (e-cahier du CSTB n° 
+3781) complété comme suit. 
+La mise en œuvre du revêtement mural en pose verticale peut être réalisée avant la pose des cornières des plafonds suspendus, 
+avec remontée du revêtement mural dans la partie plenum.  
+Dans le cas où les cornières de faux-plafond sont déjà installées, il faudra réaliser après la mise en œuvre un calfatage du 
+revêtement mural sous les cornières existantes. 
+2.4.3.7.3. 
+Collage du revêtement de murs (pose verticale) 
+L’application en partie courante sera réalisée en simple encollage avec une des colles acryliques préconisées (voir tableau 2 de 
+l’article 2.2.5.3 ci-avant), à raison de 200 à 250 g/m² environ, déposée à la spatule finement dentée (type A4 selon 
+recommandations TKB).  
+Préconisations pour le collage 
+Suivre scrupuleusement les prescriptions du fabricant de colle. 
+Bien respecter le temps de gommage qui est fonction de la température, de l’hygrométrie ambiante, de la porosité du support 
+et de la consommation de colle. 
+2.4.3.7.4. 
+Application des lés 
+Se référer à l’article 7.4.4 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). Précisé comme suit : 
+Le passage des angles sortants peut être réalisé au moyen d’une bande adhésive double-face (cf. article 2.2.5.3 et au tableau 
+3 ci-avant). 
+Les lés sont implantés verticalement et posés sur toute la hauteur. Afficher le premier lé sur le trait d’aplomb. 
+Le second lé est inversé, soit en pose bord à bord serrée (en vérifiant au préalable le bon état des lisières), soit en superposant 
+les lisières de 3 cm pour effectuer la coupe du joint. 
+2.4.3.7.5. 
+Marouflage 
+Se référer aux articles 7.4.4 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) de Mai 2017. 
+2.4.3.7.6. 
+Traitement des joints 
+Se référer à l’article 7.4.5 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) complété comme suit : 
+Soudure à chaud obligatoire avec un cordon d’apport PVC TARKETT à l’aide d’une buse rapide spéciale avec évents (la buse 
+doit être nettoyée après chaque hauteur de soudure). 
+Pré-arasage avec un couteau ¼ de lune et un guide d’arasage ou couteau Mozart et cale d’arasage. 
+Arasage final avec le couteau ¼ de lune seul ou couteau Mozart sans cale d’arasage. 
+La Figure 8b en fin de dossier technique décrit les dispositions à prendre en compte pour le traitement de ce point singulier. 
+ 
+
+--- PAGE 18 ---
+Avis Technique n° 12/18-1764_V4 
+Page 18 sur 29 
+ 
+ 
+ 
+2.4.3.7.7. 
+Traitement du recouvrement de la remontée en plinthe 
+Le revêtement mural doit recouvrir de 3 cm minimum la remontée en plinthe du revêtement de sol (cf. Figure 8 en fin de 
+Dossier Technique). Le collage d’AQUARELLE WALL HFS sur la remontée en plinthe s’effectue avec une colle acrylique ou avec 
+la colle sèche Roll 30 de chez BOSTIK. 
+2.4.3.7.8. 
+Finitions – Calfatages – Etanchéité des fixations d’équipements 
+Se référer à l’article 7.4.7 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) complété comme suit. 
+Traitement de la périphérie des huisseries après la mise en œuvre des revêtements à l’aide d’un mastic adapté pour cet usage 
+(du type MS Polymère réf. BOSTIK MSP 107) ainsi que pour toute fixation ultérieure à la pose de l’AQUARELLE WALL HFS. 
+(cf. la Figure 11 en fin de Dossier Technique). 
+2.4.3.7.9. 
+Mise en œuvre au droit des cuvettes de WC 
+2.4.3.7.9.1. 
+Cas des cuvettes WC suspendues 
+Les dispositions et exigences générales et particulières relatives aux supports de cuvettes suspendues, à la reconnaissance et 
+à la préparation du support de revêtement mural ainsi qu’à la pose de ce dernier sont celles de l’article 4.5.1 du CPT « Systèmes 
+Douches Plastiques » (e-cahier du CSTB n° 3781), complétées par les schémas de la Figure 12 en fin de Dossier Technique et 
+les dispositions ci-après. 
+Dans le cas d’une cuvette WC suspendue de type « rallongée », le manque de rigidité du support mural lié à d’absence de 
+renforcement particulier et d’une cuvette WC qui n’est pas en contact permanent et continu avec la paroi/support, une 
+déformation du revêtement mural autour de la cuvette peut apparaitre. Dans tous ces cas, l’interposition de la plaque entre la 
+cuvette et le revêtement mural peut être envisagée.  
+Elle n’affranchit en aucun cas le maître d’œuvre de s’assurer au préalable de la stabilité totale de l’ensemble. 
+Cette plaque (cf. article 2.2.5.7) d’une dimension supérieure à 10 cm de part et d’autre de la cuvette sera positionnée entre la 
+cuvette et le revêtement mural. La plaque de type ACROVYN sera collée sur le revêtement mural avec un adhésif adapté (du 
+type réf. BOSTIK ROLL 85, BOSTIK ROLL 240) ou BOSTIK SADERTAC V6 appliqué à l’aide de la Spatule A4 avec une 
+consommation minimum de 200 g/m².  
+La plaque manufacturée par le fabricant de la cuvette sera mise en œuvre conformément aux recommandations du fournisseur.  
+Un mastic du type polyuréthanne ou MS-Polymères (par exemple BOSTIK MSP 107) sera ensuite appliquer au pourtour de cette 
+plaque. 
+2.4.3.7.9.2. 
+Cas des cuvettes WC posées au sol 
+Se référer à l’article 4.5.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) complété comme ci-après. 
+Pour la fixation de la cuvette, utilisation d’un kit de scellement chimique pour béton plein (de type FISCHER Système 
+POWERBOND FPB) selon la méthode ci-dessous : 
+• Percer le béton ou la chape ciment à une profondeur de +1 cm par rapport à la longueur de la cheville puis nettoyer le 
+trou ; 
+• Insérer le fourreau puis injecter de la résine en partant du fond ; 
+• La pose de la tige d'ancrage s'effectue à la main en tournant légèrement jusqu'au fond du trou de perçage ; 
+• Dans le cas d’une cuvette posée sur socle, seul un socle maçonné est admis. Une résine de sol de 3 mm d’épaisseur (de type 
+SIKADUR-BTP) peut alors être appliquée sur la partie supérieure du socle. 
+Un joint de calfatage sera exécuté en dessous et autour de la jonction de la cuvette et du revêtement PVC ou de la résine à 
+l’aide d’un mastic adapté à cette usage (du type MS Polymère réf. BOSTIK MSP 107). 
+2.5.  Réception/mise en service  
+ 
+Se référer à l’article 8.1 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+2.6.  Maintien en service des performances de l’ouvrage - Entretien 
+2.6.1. Entretien 
+Se référer à l’article 8.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781), au tableau 5 en fin de Dossier 
+Technique et complété par les éléments suivants : 
+Nous déconseillons l’utilisation d’abrasifs susceptibles d’altérer la qualité du traitement. 
+Eviter les piètements, roulettes en caoutchouc susceptibles de laisser des marques indélébiles par migration. 
+Dans tous les cas, se rapporter à la notice d’entretien mise à disposition par la société TARKETT (site internet : www.tarkett.fr). 
+2.6.2. Surveillance – Maintenance – Réparation 
+Se référer à l’article 9 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+Le Maître d’ouvrage doit veiller à ce qu’une surveillance régulière de l’état de l’ouvrage et tout particulièrement des relevés en 
+plinthe, du raccordement au siphon, caniveau et des soudures (sol et mur) soit réalisée et à ce que les dispositions soient prises 
+en cas d’altération pour procéder à une réparation sans délai. 
+
+--- PAGE 19 ---
+Avis Technique n° 12/18-1764_V4 
+Page 19 sur 29 
+ 
+ 
+ 
+2.6.3. Glissance 
+Il est indispensable de maintenir la surface du sol dans un état permettant de limiter sa glissance. De nombreux paramètres 
+influencent la glissance, notamment la présence de polluants au sol, l'entretien et l'usage du local. 
+Il appartient donc au Maître d’Ouvrage d'assurer en particulier un bon niveau d'entretien du sol et des dispositifs d’évacuation, 
+tels que préconisés au Dossier Technique, de manière à assurer une évacuation efficace des eaux et maintenir la performance 
+de résistance à la glissance du sol dans le temps. 
+2.7.  Formation et assistance technique 
+2.7.1. Exigences relatives à l’entreprise 
+Ces exigences sont définies à l’article 7.1 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).  
+L’entreprise devra justifier de la qualification appropriée aux locaux visés, telle que demandée à l’article 2.7.2 ci-après du 
+Dossier Technique ; son encadrement technique et ses intervenants sur chantier devront avoir été formés aux particularités de 
+ce type d’ouvrage ; elle devra être en mesure de présenter les attestations individuelles de formation sur demande. 
+2.7.2. Formation et Assistance Technique 
+Le fabricant concepteur du système précise l’ensemble des dispositions constructives utiles à la bonne exécution de l’ouvrage 
+et il apporte la formation appropriée aux entreprises. 
+Sur demande, le Service Expertise Solier TARKETT France (E.S.T.) est en mesure d’assister l’entreprise titulaire des travaux 
+pour le démarrage du chantier.  
+La Société TARKETT FRANCE organise dans ses centres de formation certifiés QUALIOPI des stages sur les différentes étapes 
+de mise en œuvre. 
+2.8.  Principes de fabrication et de contrôle de cette fabrication 
+2.8.1. Revêtement de sol 
+Les revêtements de sol sont fabriqués à l’usine de Ronneby (Suède) et de Sedan de la Société TARKETT. 
+La Société TARKETT procède à des contrôles sur les matières premières, sur les conditions de fonctionnement des matériels de 
+fabrication et sur les produits finis, conformément aux dispositions prévues par le Règlement d’Application de la marque NF-
+Revêtements de sol résilients associée à la marque UPEC. 
+Dans le cas des systèmes associant les revêtements de sol à la sous-couche TARKOMOUSSE, un suivi de la caractéristique 
+acoustique d’isolation au bruit de choc est réalisé en interne à minima annuellement.  
+Des contrôles sont réalisés sur les matières premières, sur les conditions de fabrication et sur les produits finis.  
+Les sites de production sont certifiés ISO 9001 et ISO 14001. 
+2.8.2. Revêtement de mur 
+Le revêtement de mur est fabriqué à l’usine de Lentzweiler (Luxembourg) de la Société TARKETT. 
+La Société TARKETT procède à des contrôles sur les matières premières, sur les conditions de fonctionnement des matériels de 
+fabrication et sur les produits finis. 
+Des contrôles sont réalisés sur les matières premières, sur les conditions de fabrication et sur les produits finis.  
+Le site de production est certifié ISO 9001 et ISO 14001. 
+2.8.3. Sous-couche 
+La sous couche est fabriquée sous cahier des charges dans une usine certifié ISO 9001 et ISO 14001.  
+2.8.4. Suivi de la performance acoustique 
+La Société TARKETT est tenue d’assurer un suivi de production quant à la performance d’isolation acoustique au bruit de choc 
+des systèmes associant la sous-couche TARKOMOUSSE aux revêtements de sol GRANIT MULTISAFE, GRANIT SAFE.T, 
+MULTISAFE OPTIMA et AQUA MULTISAFE à une fréquence d’au moins 1 essai par an. Les résultats des contrôles doivent faire 
+l’objet d’un enregistrement. 
+La tolérance admise dans le cadre du suivi de la performance d’isolation au bruit de choc par rapport à la valeur nominale 
+initiale est de ± 2 dB. Le fabricant est tenu de faire procéder à une mise à jour du présent Avis Technique si l’écart constaté au 
+cours d’un suivi est en dehors de la tolérance. 
+En outre, la Sté. TARKETT est tenue de fournir systématiquement au Maître d’ouvrage et/ou au Maître d’œuvre, au cas par cas, 
+le résultat de suivi acoustique à jour concernant le système choisi, avec identification des numéros de lots de sous-couche et 
+de revêtement. 
+ 
+ 
+ 
+
+--- PAGE 20 ---
+Avis Technique n° 12/18-1764_V4 
+Page 20 sur 29 
+ 
+ 
+ 
+2.9.  Résultats expérimentaux 
+Réaction au feu  
+Cf. Article 1.2.1.1 de la partie AVIS du présent Avis Technique.  
+Glissance 
+Cf. Article 1.2.1.2 de la partie AVIS du présent Avis Technique.  
+Acoustique 
+Cf. Article 1.2.1.3 de la partie AVIS du présent Avis Technique.  
+2.10. 
+Références 
+2.10.1. Données Environnementales 
+Le procédé CONCEPT DOUCHE de la société TARKETT ne dispose d’aucune Déclaration Environnementale (DE) et ne peut donc 
+revendiquer aucune performance environnementale particulière 
+Les données issues des DE ont notamment pour objet de servir au calcul des impacts environnementaux des ouvrages dans 
+lesquels les procédés visés sont susceptibles d’être intégrés. 
+2.10.2. Autres références 
+Début de la mise en œuvre du CONCEPT DOUCHE de la société TARKETT AQUASENS : 1981. 
+Surface réalisée en France depuis 2000 : 
+- 
+Sol : 1823 000 m² (dont 63520 m² posés sur sous-couche TARKOMOUSSE depuis 2012) 
+- 
+Mur : 5 050 000 m² 
+ 
+ 
+
+--- PAGE 21 ---
+Avis Technique n° 12/18-1764_V4 
+Page 21 sur 29 
+ 
+ 
+ 
+ 
+2.11. 
+Annexes du Dossier Technique 
+Tableau 5– Entretien 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Locaux  Humide
+Avant la mise en service
+Entretien Quotidien 
+Entretien période/Remise en état
+MultiSafe Granit
+ou
+Granit Safe.T 
+ou
+MultiSafe Optima 
+ou
+MultiSafe Aqua 
+Aspirer les poussières.       
+Nettoyer avec un détergent
+alcalin (pH 8/10) et un balai
+brosse ou à la monobrosse
+basse Vitesse équipée 
+d'une brosse nylon.
+Rincer à l'eau clair.
+Laver manuellement avec 
+un détergent neutre (pH 
+6/8) 
+Nettoyer avec un détergent alcalin (pH 
+8/10) et un balai brosse ou avec une
+machine (Rotocleaner, autolaveuse ou
+monobrosse équipée d'une brosse nylon.
+Rincer à l'eau clair.
+L'utilisation occasionnelle ou alternée de produits désinfectants, alcalins ou détartrants peut s'avérer 
+É vitez l'accumulation de salissures, projections de produits d'entretien, de savon et de shampooing.                                
+Dans tous les cas, respectez les préconisations d'utilisation des fabricants de produits d'entretien (taux de dilution, ect.,) 
+Ne pas mélanger les produits.
+Aquarelle Wall HFS
+Nettoyage avec un  
+détergent neutre sans
+tampon abrasif.           
+Rincer à l'eau clair 
+Nettoyage avec un  
+détergent neutre sans
+tampon abrasif.           
+Rincer à l'eau clair 
+Nettoyage avec un détergent neutre sans 
+tampon abrasif.            
+Rincer à l'eau clair
+Siphon 
+Démontage et nettoyage  
+complet de intérieurs et de  
+la grille avec un détergent 
+neutre.
+Rincer à l'eau clair
+Nettoyage de la grille avec  
+un détergent neutre.
+Rincer à l'eau clair. 
+Démontage et nettoyage complet de  
+l'intérieur et de la grille avec un
+détergent neutre.
+Rincer à l'eau clair
+
+--- PAGE 22 ---
+Avis Technique n° 12/18-1764_V4 
+Page 22 sur 29 
+ 
+ 
+ 
+Figure 1 – Positionnement du siphon  
+ 
+ 
+ 
+ 
+Figure 2a – Siphons  
+                                
+ 
+          SIPHON PURUS DUSCHBRUNN 50 réf. 1416 001 Débit 2L/s                      SIPHON PURUS ODEN 75 réf. 1416 003 Débit 3L/s 
+d
+d
+d ≥ 30 cm
+Soudure
+s
+S ≥ 50 cm
+
+--- PAGE 23 ---
+Avis Technique n° 12/18-1764_V4 
+Page 23 sur 29 
+ 
+ 
+ 
+                   
+ 
+           SIPHON PURUS FREJA 50 réf. 1416 002 Débit 2L/s                                      SIPHON MINIMAX réf. 1416 006 Débit 0.8L/s 
+ 
+SIPHON INOX 40 réf. 1416 007 Debit 0.25L/s 
+                                  
+                                         
+ 
+SIPHON PURUS BRAGE 75 réf. 1416 005 Débit 3L/s                        SIPHON PURUS BRAGE 50 réf. 1416 004 Débit 2.5L/s 
+ 
+ 
+ 
+Figure 2b – couteau Purus 
+ 
+
+--- PAGE 24 ---
+Avis Technique n° 12/18-1764_V4 
+Page 24 sur 29 
+ 
+ 
+ 
+Figure 2c – Accessoires de siphons  
+Grilles (founies sans vis) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 25 ---
+Avis Technique n° 12/18-1764_V4 
+Page 25 sur 29 
+ 
+ 
+ 
+Figure 3 – Remontée en plinthe sur profilé d’appui 
+(PA20 réf. 1441000 ou PA30 réf. 1442000) 
+ 
+ Figure 4 – Traitement de la jonction douche / chambre avec barre de seuil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5 – Mise en place du profilé de Jonction PJ 30 (réf. 1418001) 
+            
+ 
+ 
+ 
+Figure 6a traitement des joint de revêtement de sol 
+                                              
+  
+Traitement à chaud (après réglage de la température du chalumeau et de la vitesse sur une chute) 
+Granit MultiSafe 
+
+--- PAGE 26 ---
+Avis Technique n° 12/18-1764_V4 
+Page 26 sur 29 
+ 
+ 
+ 
+                    
+                   
+ 
+                       – Couteau quart de lune 
+                                             – Araseur Mozart 
+                      Pré-arasement du cordon avec guide d’arasement    
+Premier arasement avec guide en place 
+ 
+                   
+                    
+ 
+                      – Couteau quart de lune 
+                                              – Araseur Mozart 
+                     Arasement définitif avec couteau quart de lune seul 
+ Arasement final avec guide dégagé 
+ 
+ 
+Figure 7b – Traitement des joints du revêtement mural :  Arasement avec couteau quart de lune ou Araseur Mozart (voir figure 8a) 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8 – Recouvrement de la remontée en plinthe 
+         
+ 
+                             Sur profilé d’appui (avec et sans chape flottante)                                 Par thermoformage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 27 ---
+Avis Technique n° 12/18-1764_V4 
+Page 27 sur 29 
+ 
+ 
+ 
+ 
+Figure 9 – mise en œuvre du siphon sur support à base de liant hydraulique, avec et sans sous-couche TARKOMOUSSE 
+ 
+ 
+Figure 10 – Principe de mise en œuvre de la sous-couche acoustique : arrêt autour du siphon 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 28 ---
+Avis Technique n° 12/18-1764_V4 
+Page 28 sur 29 
+ 
+ 
+ 
+ 
+Figure 11 – Disposition relatives aux finitions, calfatages… 
+ 
+ 
+ 
+Figure 12 – Disposition pour la mise en œuvre des cuvettes de WC suspendues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 29 ---
+Avis Technique n° 12/18-1764_V4 
+Page 29 sur 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                       
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+                              
+ 
+ 

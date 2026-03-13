@@ -1,0 +1,1553 @@
+FICHIER: ATec 12_12-1612_V5.pdf (25 pages)
+================================================================================
+
+--- PAGE 1 ---
+ 
+Secrétariat : CSTB, 84 avenue Jean Jaurès, FR-77447 Marne la Vallée Cedex 2 
+Tél. : 01 64 68 82 82 - email : secretariat.at@cstb.fr 
+www.ccfat.fr  
+Les Avis Techniques sont publiés par le Secrétariat des Avis Techniques, assuré par le CSTB ; Les versions authentifiées sont disponibles gratuitement sur le site Internet du CSTB (http://www.cstb.fr) 
+ 
+Avis Technique 12/12-1612_V5
+Valide du 13 octobre 2021  
+au 30 septembre 2028
+Edition corrigée du 12 octobre 2021
+Sur le procédé 
+Système Sarlibain 
+Titulaire(s) :  
+Société Forbo Sarlino S.A.S. 
+63 rue Gosset 
+FR-51055 REIMS 
+Internet : www.sarlino.forbo.com 
+ 
+ 
+ 
+ 
+ 
+AVANT-PROPOS 
+Les avis techniques et les documents techniques d’application, désignés ci-après indifféremment par Avis Techniques, sont destinés 
+à mettre à disposition des acteurs de la construction des éléments d’appréciation sur l’aptitude à l’emploi des produits ou 
+procédés dont la constitution ou l’emploi ne relève pas des savoir-faire et pratiques traditionnels.  
+Le présent document qui en résulte doit être pris comme tel et n’est donc pas un document de conformité à la réglementation ou 
+de conformité à un référentiel d’une « marque de qualité ». Sa validité est décidée indépendamment de celle des pièces 
+justificatives du dossier.  
+L’Avis Technique est une démarche volontaire du demandeur, qui ne change en rien la répartition des responsabilités des acteurs 
+de la construction. Indépendamment de l’existence ou non de cet Avis Technique, pour chaque ouvrage, les acteurs doivent fournir 
+ou demander, en fonction de leurs rôles, les justificatifs requis.  
+L’Avis Technique s’adressant à des sachants, il n’a pas vocation à contenir d’autres informations que celles relevant du caractère 
+non traditionnel de la technique. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Groupe Spécialisé n° 12 - Revêtements de sol et produits connexes 
+ 
+Famille de produit/Procédé : Système de revêtement pour sol et mur de douche à base de PVC 
+
+--- PAGE 2 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 2 sur 25                                                                  
+Versions du document 
+Version 
+Description 
+Rapporteur 
+Président 
+V5 
+Il s’agit de la révision de l’Avis Technique 12/12-1612_V4.  
+Il intègre les modifications suivantes : 
+- Suppression de la pose sur support bois ; 
+- Suppression des références de siphons platine PURUSPLATTAN 
+300 de chez PURUS et SITAR de chez NICOLL préconisées pour la 
+mise en œuvre sur support bois ; 
+- Mise à jour de la dénomination de la colle acrylique de FORBO 
+Ref. V22 qui devient Réf. 522 eurosafe Tack, et de la colle acrylique 
+en dispersion aqueuse sans solvant de FORBO Réf. V22 green qui 
+devient Réf. 622 eurostar Tack FORBO ; 
+- Mise à jour de la dénomination de la colle contact polyuréthanne 
+monocomposant de FORBO Réf. PU M 25 qui devient Réf. 225 
+eurosol PU ; 
+- Introduction de deux types de plaques de protection derrière les 
+cuvettes WC suspendues : Plaque de type ROMUCHOC ou 
+ACROVYN lisse (HYDROCLAD®) de 2 mm d’épaisseur et une 
+plaque manufacturée par le fabricant de la cuvette ; 
+- Introduction des mastics P790 de la société BOSTIK et 881 
+EUROSEAL PU de la société FORBO SARLINO et de la bande 
+adhésive BOSTIK ROLL SD50 de BOSTIK ; 
+- Mise de la dénomination commerciale des colles acryliques 
+BOSTIK STIX A800 PREMIUM (ancienne appellation MIPLAFIX 800) 
+et ses appellations connexes TECHNIMANG et SADERTECH V8, 
+BOSTIK STIX A300 MULTI FLOOR (ancienne appellation MIPLAFIX 
+300) et ses appellations connexes POLYMANG SM et SADERTAC 
+V6 ; 
+- Introduction de la colle 225 contact PU de la société FORBO pour 
+le collage angles sortants en double encollage ; 
+- Mise à jour au § B du Dossier Technique des résultats 
+expérimentaux ; 
+- Mise à jour au § C du Dossier Technique des références d’emploi 
+antérieures et introduction des informations concernant les 
+caractéristiques environnementales et sanitaires des constituants 
+du système ; 
+ 
+Gilbert FAU 
+Yann RIVIERE 
+ 
+ 
+ 
+ 
+ 
+ 
+Descripteur : Le système SARLIBAIN est un concept de pièces d’eau associant un revêtement de sol et de mur soudés à 
+chaud et incluant l’emploi de siphon de sol et la réalisation de pentes. 
+
+--- PAGE 3 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 3 sur 25                                                                  
+Table des matières 
+ 
+ 
+1. 
+Avis du Groupe Spécialisé ................................................................................................................................... 5 
+1.1. 
+Domaine d’emploi accepté ............................................................................................................................... 5 
+1.1.1. 
+Zone géographique ..................................................................................................................................... 5 
+1.1.2. 
+Ouvrages visés ........................................................................................................................................... 5 
+1.1.3. 
+Locaux ...................................................................................................................................................... 5 
+1.1.4. 
+Support neuf ou existant non revêtu ou remis à nu à base de liant hydraulique .................................................. 5 
+1.1.5. 
+Supports muraux en neufs et en rénovations ................................................................................................. 5 
+1.2. 
+Identification ................................................................................................................................................. 5 
+1.2.1. 
+Satisfaction aux lois et règlements en vigueur et autres qualités d’aptitude à l'emploi ......................................... 5 
+1.3. 
+Remarques complémentaires du Groupe Spécialisé ............................................................................................. 6 
+2. 
+Dossier Technique .............................................................................................................................................. 7 
+2.1. 
+Mode de commercialisation .............................................................................................................................. 7 
+2.2. 
+Description .................................................................................................................................................... 7 
+2.2.1. 
+Système .................................................................................................................................................... 7 
+2.2.2. 
+Revêtements de sol .................................................................................................................................... 7 
+2.2.3. 
+Revêtement mural ...................................................................................................................................... 8 
+2.2.4. 
+Sous-couche acoustique .............................................................................................................................. 8 
+2.2.5. 
+Produits associés ........................................................................................................................................ 9 
+2.2.6. 
+Plaques de protection derrière les cuvettes WC suspendues ........................................................................... 11 
+2.2.7. 
+Outillage spécifique ................................................................................................................................... 11 
+2.3. 
+Dispositions de conception ............................................................................................................................. 11 
+2.3.1. 
+Généralités .............................................................................................................................................. 11 
+2.3.2. 
+Pentes, réservation et évacuations .............................................................................................................. 12 
+2.3.3. 
+Cas d’une chape fluide - Raccordement aux zones de pentes .......................................................................... 12 
+2.3.4. 
+Choix des produits de mise en œuvre associés ............................................................................................. 12 
+2.3.5. 
+Equipements sanitaires suspendus .............................................................................................................. 12 
+2.3.6. 
+Dossier de consultation-Documents Particuliers du Marché............................................................................. 12 
+2.3.7. 
+Chauffage des locaux ................................................................................................................................ 12 
+2.4. 
+Dispositions de mise en oeuvre ...................................................................................................................... 12 
+2.4.1. 
+Consistance des travaux ............................................................................................................................ 12 
+2.4.2. 
+Supports en sol : exigences relatives aux supports et préparation des supports................................................ 13 
+2.4.3. 
+Supports en mural .................................................................................................................................... 13 
+2.4.4. 
+Mise en œuvre du système ........................................................................................................................ 13 
+2.5. 
+Entretien et réparation .................................................................................................................................. 23 
+2.6. 
+Principes de fabrication et de contrôle de cette fabrication ................................................................................. 23 
+2.6.1. 
+Fabrication du revêtement de sol ................................................................................................................ 23 
+2.6.2. 
+Fabrication du revêtement de mur .............................................................................................................. 23 
+2.6.3. 
+Fabrication de la sous couche acoustique ..................................................................................................... 23 
+2.6.4. 
+Contrôles du revêtement de sol .................................................................................................................. 23 
+2.6.5. 
+Contrôles du revêtement de mur ................................................................................................................ 23 
+2.6.6. 
+Contrôles de la sous couche acoustique ....................................................................................................... 23 
+2.6.7. 
+Suivi de la performance acoustique ............................................................................................................. 23 
+2.7. 
+Réception/mise en service ............................................................................................................................. 23 
+2.8. 
+Maintien en service des performances de l’ouvrage - Entretien ........................................................................... 23 
+2.8.1. 
+Surveillance – Maintenance – Réparation ..................................................................................................... 23 
+2.8.2. 
+Glissance ................................................................................................................................................. 24 
+2.9. 
+Formation et assistance technique .................................................................................................................. 24 
+2.9.1. 
+Assistance Technique ................................................................................................................................ 24 
+2.9.2. 
+Exigences relatives à l’entreprise ................................................................................................................ 24 
+
+--- PAGE 4 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 4 sur 25                                                                  
+2.10. 
+Résultats expérimentaux ............................................................................................................................... 24 
+2.11. 
+Références .................................................................................................................................................. 24 
+2.11.1. 
+Données Environnementales ...................................................................................................................... 24 
+2.11.2. 
+Autres références ..................................................................................................................................... 24 
+2.12. 
+Annexes du Dossier Technique ....................................................................................................................... 25 
+ 
+ 
+
+--- PAGE 5 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 5 sur 25                                                                  
+1. Avis du Groupe Spécialisé 
+Le Groupe Spécialisé n° 12 - Revêtements de sol et produits connexes de la Commission chargée de 
+formuler les Avis Techniques a examiné, le 17 juin 2021, le procédé Système SARLIBAIN, présenté 
+par la Société FORBO Sarlino S.A.S.. Il a formulé, sur ce procédé, l’Avis Technique ci-après. L’avis a été 
+formulé pour les utilisations en France métropolitaine. 
+1.1. Domaine d’emploi accepté 
+1.1.1. Zone géographique  
+Cet avis a été formulé pour les utilisations en France métropolitaine. 
+1.1.2. Ouvrages visés 
+Le système SARLIBAIN est un concept de pièces d’eau associant un revêtement de sol et de mur soudés à chaud et incluant 
+l’emploi de siphon de sol et la réalisation de pentes. 
+1.1.3. Locaux 
+Le domaine d’emploi est défini dans le CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) au § 2.3 détaillé aux § 1.1.3 
+et 1.1.4 et précisé comme suit pour les cuvettes WC : seule la pose suspendue est visée pour ces dernières.  
+Les locaux visés sont les suivants : 
+-  Douches individuelles privatives des bâtiments d’habitation et bâtiments hors hospitaliers ou assimilés au plus classés U2s P2 
+E2(*) C1 selon la notice du classement UPEC des locaux en vigueur ; 
+- Douches individuels et collectives des bâtiments hospitaliers, MAPAD et EHPAD, des bâtiments d’activités sportives et 
+d’enseignements au plus classés U3 P3 E3 C2 selon la notice du classement UPEC des locaux en vigueur; 
+- Salles de bain avec baignoire des MAPAD et EHPAD et des bâtiments hospitaliers au plus classés U3P3E3C2 selon la notice du 
+classement UPEC des locaux en vigueur, ainsi que les locaux similaires ci-avant susceptibles d’être surclassés U4P3E3C2 par le 
+maitre d’ouvrage ; 
+Il s’agit des locaux au plus classés : 
+- EB+ collectifs sur support à base de liant hydraulique (Cf. tableau en annexe 1 du CPT « Systèmes Douches Plastiques » (e-
+cahier du CSTB n° 3781 de Mai 2017) ; 
+- EC (vestiaires de piscines, balnéo … hors locaux à très forte hygrométrie) sur dallage avec ou sans dalle ou chape rapportée et 
+sur plancher en béton porté sur vide sanitaire.   
+(*) La présence d’un siphon de sol ou d’un caniveau conduit au surclassement de E2 à E3 du local. 
+Les locaux avec plancher chauffant ainsi que les locaux avec présence d’un joint de dilatation sont exclus. 
+Faute de dispositions constructives permettant d’assurer la pérennité de l’ouvrage, la mise en œuvre du procédé SARLIBAIN sur 
+chapes ou dalles désolidarisées sur isolant n’est pas visée dans le présent document. 
+Note : Les locaux visés ci-dessus et en particulier les douches (salles d’eau au sens du classement UPEC des locaux) sont traitées 
+sur toute la surface du sol ainsi que sur la totalité de la surface murale, sur toute sa hauteur. 
+1.1.4. Support neuf ou existant non revêtu ou remis à nu à base de liant hydraulique 
+ Les supports visés sont définis à l’article 6.1 de la NF DTU 53.12 P1-1-1, à l’exclusion des chapes et dalles  flottantes, des planchers 
+chauffants et des escaliers 
+1.1.5. Supports muraux en neufs et en rénovations 
+Les supports visés sont définis à l’article 6.2 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+1.2. Identification 
+1.2.1. Satisfaction aux lois et règlements en vigueur et autres qualités d’aptitude à l'emploi 
+ 
+1.2.1.1. Réaction au feu 
+Le revêtement de sol SURESTEP fait l’objet de rapports de classement européen de réaction au feu avec les classements suivants 
+:  
+ SURESTEP : classement Bfl-s1, valable en pose collée sur tout support incombustible de masse volumique ≥ 1800 kg/m3 (Rapport 
+du TÜV RHEINLAND n° T10.30350.01br du 23/12/2010) ; 
+ SURESTEP : classement Cfl-s1, valable en pose collée avec une colle acrylique sur tout support d’épaisseur minimum 18 mm, de 
+masse volumique ≥ 600 kg/m3 et classé au minimum D, s2-d0 (Rapport du EXOVA WARRINGTONFIRE n° 319864 du 9 août 
+2012) ; 
+Le revêtement de sol SURESTEP associé à la sous-couche SARLIBASE ACOUSTIQUE fait l’objet de rapports de classement européen 
+de réaction au feu avec les classements suivants : 
+ SURESTEP collé sur SARLIBASE ACOUSTIQUE : classement Cfl-s1, valable en pose collée avec une colle acrylique sur tout support 
+d’épaisseur minimum 18 mm, de masse volumique ≥ 600 kg/m3 et classé au minimum D, s2-d0 (Rapport du EXOVA 
+WARRINGTONFIRE n° 319866 du 10 août 2012) ; 
+Le revêtement mural ONYX + fait l’objet d’un rapport de classement européen de réaction au feu avec le classement suivant : 
+
+--- PAGE 6 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 6 sur 25                                                                  
+ Le revêtement mural ONYX + fait l’objet d’un rapport de classement européen de réaction au feu avec classement B-s2, d0 
+valable en pose collée avec joint vertical à l’aide d’une colle acrylique, sur plaque de plâtre cartonné 13 mm 700kg/m3 et tous 
+substrat d’utilisation finale classés A1 et A2-s1,d0 de densité supérieure à 525 kg/m3 (Rapport du CREPIM n° DO-18-0264\B-R1 
+du 28/09/2018). 
+1.2.1.2. Glissance 
+Le revêtement de sol SURESTEP fait l’objet d’un rapport d’essais de type réalisé au plan incliné selon l’annexe C de la norme EN 
+13845 dont le résultat est le suivant : 
+ Revêtement SURESTEP Original : angle d’inclinaison moyen α ≥ 12°; 
+(Rapport d’essai du laboratoire TÜV RHEINLAND n° 21178637_001 du 28/12/2011). 
+1.2.1.3. Acoustique 
+Le système associant le revêtement de sol SURESTEP à la sous-couche SARLIBASE ACOUSTIQUE a fait l’objet d’un essai de type 
+concernant l’efficacité normalisée d’isolation au bruit de choc ∆Lw : 
+ SURESTEP sur SARLIBASE ACOUSTIQUE : ∆Lw = 18 dB – rapport d’essai du CSTB n° AC12-26038570/1 du 6 juillet 2012 ; 
+L’isolation acoustique du système au niveau du siphon n’est pas visée par le présent Avis. 
+1.2.1.4. Aspects sanitaires 
+Le présent Avis est formulé au regard de l’engagement écrit du titulaire de respecter la réglementation et notamment l’ensemble 
+des obligations réglementaires relatives aux produits pouvant contenir des substances dangereuses pour leur fabrication, leur 
+intégration dans les ouvrages du domaine d’emploi accepté et l’exploitation de ceux-ci. 
+Le contrôle des informations et déclarations délivrées en application des réglementations en vigueur n’entre pas dans le champ du 
+présent Avis. Le titulaire du présent Avis conserve l’entière responsabilité de ces informations et déclarations. 
+1.2.1.5. Impact environnemental 
+Le procédé ne dispose d’aucune déclaration environnementale (DE) et ne peut donc revendiquer aucune performance 
+environnementale particulière. Il est rappelé que les DE n’entrent pas dans le champ d’examen d’aptitude à l’emploi des produits. 
+1.2.1.6. Prévention des accidents et maîtrise des accidents et maîtrise des risques lors de la mise en oeuvre et de 
+l’entretien 
+Le procédé dispose de Fiches de Données de Sécurité (FDS) 
+L’objet de la FDS est d’informer l’utilisateur de ce procédé sur les dangers liés à son utilisation et sur les mesures préventives à 
+adopter pour les éviter, notamment par le port d’équipements de protection individuelle (EPI). 
+Les produits doivent être utilisés conformément à leur étiquetage et à la réglementation en vigueur. 
+1.2.1.7. Durabilité 
+Dans les conditions d'entretien préconisées décrites à l’article 2.9 du Dossier Technique, la durabilité à l'usage de l'ouvrage, dans 
+les conditions de mise en oeuvre et d'emploi indiquées, est appréciée comme satisfaisante. 
+Elle est toutefois subordonnée : 
+- à une surveillance régulière visant à repérer d'éventuelles amorces de dégradations localisées pouvant apparaître en cours 
+d'usage, en particulier au niveau des points singuliers ; 
+- à la rapidité d'intervention afin de réparer ces éventuelles faiblesses ; 
+- à un bon niveau d'entretien. 
+Dans le cas de la pose d’une cuvette WC directement sur le revêtement de sol (sans réalisation d’un socle en béton), en l’absence 
+de description précise des dispositions (choix des chevilles chimiques et du mastic notamment), 
+Le Groupe Spécialisé n° 12 n’a pas pu exclure le risque de défaut d’étanchéité en partie horizontale en raccordement avec le 
+revêtement au droit des fixations de la cuvette. 
+ 
+Appréciation globale 
+L’utilisation du procédé dans le domaine d’emploi accepté (cf. paragraphe 1..1) est appréciée favorablement. 
+ 
+1.3. Remarques complémentaires du Groupe Spécialisé 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 7 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 7 sur 25                                                                  
+2. Dossier Technique 
+Issu du dossier établi par le titulaire 
+2.1. Mode de commercialisation 
+Titulaire(s) : 
+Société Forbo Sarlino S.A.S. 
+                         63 rue Gosset 
+                         FR-51055 REIMS 
+                         Internet : www.sarlino.forbo.com 
+ 
+Mise sur le marché  
+Revêtements de sol 
+En application du règlement UE 305/2011, le produit SURESTEP fait l’objet d’une déclaration des performances établie par le 
+fabricant sur la base de la norme NF EN 14041. 
+Les produits conformes à cette DdP sont identifiés par le marquage CE. 
+Revêtement mural 
+En application du règlement UE 305/2011, le produit ONYX + fait l’objet d’une déclaration des performances établie par le fabricant 
+sur la base de la norme NF EN 15102. 
+Les produits conformes à cette DdP sont identifiés par le marquage CE. 
+Identification  
+Les emballages comportent le nom et le type ; ceci vaut de la part du fabricant engagement de conformité à la description et aux 
+caractéristiques ci-dessus. 
+L'épaisseur, le dessin, le coloris, les dimensions, un repère correspondant à la date de fabrication (N° de lot) figurent aussi sur les 
+emballages. 
+2.2. Description 
+2.2.1. Système    
+Version SARLIBAIN Classique 
+Le système SARLIBAIN est un concept de pièces d’eau associant les revêtements de sol et de mur soudés à chaud, disposés sur la 
+totalité des surfaces du local (sols et murs) et incluant : 
+ L’utilisation d’accessoires d’évacuation (siphons de sol) ; 
+ L’utilisation d’accessoires de mise en œuvre (formes d’appui pour angle, profilés de diminution et seuils d’étanchéité, platine 
+de montage du siphon…) ; 
+ La réalisation de pentes. 
+Afin que le système SARLIBAIN puisse être considéré comme tel, il devra démontrer : 
+ que le sol du local est recouvert entièrement et uniformément du même revêtement de sol ; 
+ que le support soit réalisé sans discontinuité de parement ; 
+ que les remontées en plinthes et recouvrements par le mural soient réalisés sur l'entière périphérie du local ; 
+ que les murs du local sont recouverts entièrement et uniformément du même revêtement sur toute la hauteur utile. 
+Version SARLIBAIN Confort 
+La version précédente peut être complétée par l’utilisation d’une sous-couche SARLIBASE ACOUSTIQUE permettant d’améliorer les 
+performances acoustiques de la version SARLIBAIN Classique à un affaiblissement acoustique au bruit de choc de ∆Lw = 18 dB. 
+2.2.2. Revêtements de sol 
+ 
+SURESTEP : revêtement vinylique compact armaturé en lés avec inclusion de particules, certifié QB UPEC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 8 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 8 sur 25                                                                  
+Tableau 1 - Caractéristiques techniques des revêtements de sol Surestep 
+Caractéristiques 
+Norme 
+ou Méthode d'essai 
+SURESTEP (DECORS : ORIGINAL, STAR  
+COLOUR, WOOD, MINERAL, TEXTURE et 
+STONE) 
+ 
+ 
+Spécifications 
+Conformité norme produit 
+NF EN ISO 10582 
+(NF EN 649) 
+Classement UPEC 
+Règlement QB 30 
+U4 P3 E2/3 C2 
+n° Certificat QB UPEC 
+Règlement QB 30 
+311-019.1 (3) 
+311-024.1 (4) 
+Longueur des rouleaux 
+NF EN ISO 24341 
+20-27 ml 
+Largeur des rouleaux 
+NF EN ISO 24341 
+2,00 m 
+Epaisseur totale 
+NF EN ISO 24346 
+2,00 mm 
+Epaisseur couche d'usure 
+NF EN ISO 24340 
+0,70 mm 
+Résistance à l'abrasion 
+NF EN 660-2 
+Groupe T 
+Masse surfacique totale 
+NF EN ISO 23997 
+2,90 kg/m² 
+Poinçonnement rémanent 
+NF EN ISO 24343-1 
+≤ 0,10 mm 
+Solidité des couleurs à la lumière 
+NF EN ISO 
+105-B02 
+≥ 6 
+Classement de réaction au feu 
+NF EN 13501-1 
+Bfl - s1(1) 
+Glissance 
+NF EN 13845 
+≥ 12° 
+Résistance aux produits chimiques 
+NF EN ISO 26987 
+Oui (2) 
+(1) Sur support incombustible. 
+(2) De façon générale, bonne résistance aux acides dilués, bases diluées, détergents et produits domestiques à l’exception des 
+solvants du PVC. Pour plus de détails, se rapprocher du fabricant. 
+(3)  SURESTEP WOOD, MINERAL, TEXTURE et STONE. 
+(4)  SURESTEP ORIGINAL, STAR ET COLOUR. 
+ 
+2.2.3. Revêtement mural 
+ONYX + : revêtement vinylique calandré multicouche non armaturé avec couche d’usure, présenté en lés. 
+Tableau 2 - Caractéristiques techniques du revêtement de mur ONYX + 
+Caractéristiques 
+Méthodes d'essai 
+Valeurs 
+Longueur des rouleaux 
+NF EN ISO 24341 
+env. 30 ml 
+Largeur des rouleaux 
+NF EN ISO 24341 
+0,5 et 2,00 m 
+Epaisseur totale 
+NF EN ISO 24346 
+0,92 mm 
+Epaisseur couche d'usure 
+NF EN ISO 24340 
+0,10 mm 
+Masse surfacique totale 
+NF EN ISO 23997 
+1,610 kg/m² 
+Solidité des couleurs à la lumière 
+NF EN ISO 105-B02 
+≥ 6 
+Lavabilité 
+NF EN 233 
+Niveau « lessivable et brossable » 
+Traction des joints (kg/cm) 
+NF EN 684 
+≥ 4 
+Stabilité dimensionnelle à la chaleur 
+NF EN ISO 23999 
+< 0,8 % 
+Résistance aux produits chimiques 
+NF EN ISO 26987 
+Insensible aux acides et bases dilués. Insensible aux 
+produits domestiques (à l’exclusion des solvants du PVC)
+2.2.4. Sous-couche acoustique 
+SARLIBASE ACOUSTIQUE : sous-couche mousse vinylique armaturée, présentée en lés (Réf. TEAC, longueur 35 ml). 
+
+--- PAGE 9 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 9 sur 25                                                                  
+Tableau 3 - Caractéristiques techniques de la sous couche SARLIBASE ACOUSTIQUE 
+Caractéristiques 
+Méthodes d'essai 
+Valeurs 
+Épaisseur 
+NF EN ISO 24346 
+2 mm 
+Largeur des rouleaux 
+NF EN ISO 24341 
+2 m 
+Masse surfacique 
+NF EN ISO 23997 
+1,23 kg/m² 
+Efficacité au bruit de choc  
+(SARLIBASE ACOUSTIQUE + SURESTEP) 
+NF EN ISO 140-8 
+NF EN ISO 717-2 
+∆Lw = 18 dB 
+Poinçonnement rémanent (150 min) 
+NF EN ISO 24343-1 
+≤ 0,10 mm 
+Module de traction (allongement de 1 %) 
+Règlement QB 30 
+Méthode M1 
+≥ 70 N/50 mm 
+Module de traction (allongement de 2 %) 
+≥ 70 N/50 mm 
+2.2.5. Produits associés    
+2.2.5.1. 
+Colles et mastic 
+Tableau 4 - Prescriptions des colles et mastic (délais et conditions d’utilisation : voir Tableau 6) 
+Désignation 
+FORBO SARLINO 
+HB FULLER 
+ 
+UZIN 
+ 
+BOSTIK 
+Quantité 
+Sous-couche acoustique 
+522 eurosafe Tack 
+622 eurostar Tack 
+TEC 522 
+KE 2000S 
+STIX A800 PREMIUM  
+STIX A300 MULTI FLOOR  
+TECHNIMANG 
+POLYMANG SM 
+SADERTECH V8 
+SADERTAC V6 
+200 
+ à 250 g/m²
+Profilé forme d’appui et 
+remontée en plinthe 
+225 eurosol PU 
+TEC 222 
+- 
+ROLL 25 
+ROLL  50 
+ROLL 80 
+ROLL SD50  
+ 
+- 
+Revêtement de sol 
+522 eurosafe Tack 
+622 eurostar Tack 
+TEC 522 
+TEC 540 
+KE 2000S 
+STIX A800 PREMIUM  
+ STIX A300 MULTI FLOOR  
+TECHNIMANG 
+ POLYMANG SM 
+ SADERTECH V8 
+ SADERTAC V6 
+250 g/m² 
+(sol) 
+300 g/m² 
+(plinthes) 
+Remontée en plinthe 
+FORBO DRY TAPE 50 
+et 85 mm 
+BANDE SDB 
+50 et 85 mm 
+REMUR 
+ ROLL 25 
+ ROLL  50 
+ ROLL 80 
+ ROLL SD50  
+- 
+Pied d’huisserie 
+Mastic PU 
+KORAPUR 125 
+- 
+P790 
+- 
+Profilé seuil de porte 
+522 eurosafe Tack 
+622 eurostar Tack 
+TEC 540 
+TEC 522 
+KE 2000S 
+STIX A800 PREMIUM  
+STIX A300 MULTI FLOOR  
+TECHNIMANG 
+ POLYMANG SM 
+ SADERTECH V8 
+ SADERTAC V6 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 10 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 10 sur 25                                                                  
+Tableau 5 - Colles et mastics (délais et conditions d’utilisation : voir Tableau 6) 
+Désignation 
+FORBO SARLINO 
+HB FULLER 
+UZIN 
+BOSTIK 
+Quantité
+Profilé de diminution 
+225 eurosol PU 
+TEC 222 
+- 
+ ROLL 25  
+ ROLL  50 
+ ROLL 80 
+ ROLL SD50  
+- 
+FORBO DRY TAPE 50 mm(1) 
+BANDE CONTACT
+SDB 50 mm (1) 
+REMUR 
+- 
+Revêtement de mur 
+522 eurosafe Tack 
+TEC 522 
+KE 2000S
+STIX A800 
+PREMIUM  
+STIX A300 
+MULTI FLOOR  
+ TECHNIMANG 
+POLYMANG SM
+ SADERTECH V8
+ SADERTAC V6 
+200 g/m² 
+200 g/m² 
+Remontée en plinthe et angles sortants 
+simple encollage 
+522 eurosafe Tack 
+TEC 522 
+KE 2000S
+STIX A800 
+PREMIUM  
+STIX A300 
+MULTI FLOOR  
+ TECHNIMANG 
+POLYMANG SM
+ SADERTECH V8
+ SADERTAC V6 
+200 g/m² 
+Angles sortants et rentrants et 
+recouvrement (mur/sol)  
+du profilé de diminution et de la 
+remontée en plinthe  
+par l’ONYX + ; 
+joint mural soudé à chaud 
+FORBO DRY TAPE 50 mm (1) :
+Contacter le service technique 
+FORBO 
+BANDE CONTACT
+SDB 50 mm (1) 
+REMUR 
+ ROLL 25  
+ ROLL 50 
+ ROLL 80 
+ROLL SD50  
+ 
+- 
+Angles sortants double encollage 
+225 contact PU 
+TEC 222 
+- 
+ ROLL 25 
+ ROLL 50 
+ ROLL 80  
+ ROLL SD50  
+2 x 150 
+g/m² 
+Huisseries de porte, châssis de fenêtre, 
+joints de plafond, appareils sanitaires 
+Mastic PU 
+KORAPUR 125 
+- 
+ P790 
+- 
+Tuyauteries 
+881 EUROSEAL PU 
+KORAPUR 125 
+- 
+  P790 
+- 
+(1) La mise en œuvre de cette solution ne pourra être envisagée pour une entreprise qu’après avoir suivi une formation spécifique 
+de la Société FORBO SARLINO, suivie d’une assistance démarrage chantier 
+ 
+Tableau 6 - Délais et conditions d’utilisation des colles 
+ 
+ 
+Temps ouvert 
+Temps de 
+gommage 
+Température 
+minimum 
+d’emploi 
+Délais de 
+conservation 
+Colles acryliques 
+622 eurostar Tack 
+60 min 
+10 à 15 min 
++ 10 °C 
+12 mois en local 
+tempéré 
+522 eurosafe Tack 
+ 
+TEC 522  
+TEC 540  
+50 à 60 min 
+5 à 20 min 
++ 15 °C 
+12 mois en local 
+tempéré 
+ 
+ KE 2000S 
+ 
+15 à 120 min 
+10 à 45 min 
++ 10 °C 
+12 mois en local 
+tempéré 
+STIX A800 
+PREMIUM  
+STIX A300 MULTI 
+FLOOR  
+ TECHNIMANG 
+ POLYMANG SM 
+ SADERTECH V8 
+ SADERTAC V6 
+50 à 60 min 
+5 à 10 min 
++ 10 °C 
+12 mois en local 
+tempéré 
+Colles contact 
+225 EUROSOL PU 
+20 à 30 min 
+5 à 10 min 
++ 10 °C 
+6 mois en local 
+tempéré 
+222 EUROSOL 
+CONTACT PU 
+
+--- PAGE 11 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 11 sur 25                                                                  
+Toutes les informations concernant les colles figurent également dans les fiches techniques des colles par fabricant. 
+2.2.5.2. 
+Cordons de soudure 
+Cordons de soudure PVC Réf. « réf du revêtement de sol ou de mur Forbo ». 
+2.2.5.3. 
+Produits de collage 
+Colle acrylique en dispersion aqueuse sans solvant Réf. 522 eurosafe Tack Forbo. 
+Colle acrylique en dispersion aqueuse sans solvant et à très faible émission de COV Réf. 622 eurostar Tack Forbo. 
+Traitement à froid type C Réf. 869501 Forbo. 
+Colle contact polyuréthanne monocomposant Réf. 225 eurosol PU Forbo. 
+2.2.5.4. 
+Accessoires et autres matériaux associés 
+Forme d’appui pour angle réf. 3009 blanc 15x15 mur / 3109 noir 20x20 sol / 3209 noir 25x25 sol.  
+Profil de diminution 3801 blanc ; 
+Profilé de seuil d'étanchéité visible 120mm/70mm coloré à soufflet réf. 31944 à 31949 (3194x Forbo) ; 
+Profilé de seuil d'étanchéité visible 120mm/40mm coloré réf. 31084 à 31089 (3108x Forbo) ; 
+Profilé de seuil d'étanchéité visible 120mm/70mm coloré réf. 31144 à 31149 (3114x Forbo) ; 
+Manchons de différentes tailles Stosset (Tarkett) ; 
+Cheville chimique pour fixation des WC au sol : FISHER FIS EM ; 
+Résine sans retrait pour socle de WC posé au sol :  
+ Sikafloor 156 + sikaquartz 0.08-0.25mm (petit conditionnement) ; 
+ Sikafloor 264 (possibilité de fourniture teintée). 
+2.2.5.5. 
+Siphon 
+Les siphons associés au procédé devront être conformes à la norme NF EN 1253. 
+Siphon surbaissé diamètre 50 mm sortie horizontale (Réf. 6321 Freja). 
+Siphon spécial rénovation diamètre 50 mm sortie verticale (Réf. 6330 Brage). 
+Siphon surbaissé diamètre 50 mm sortie verticale (Réf. 6347 Duschbrunn). 
+Siphon acier inox naturel (Réf. 6348/6348V). 
+Modèles TARAFON de chez KESSEL/NORHAM. 
+2.2.6. Plaques de protection derrière les cuvettes WC suspendues 
+Deux types de plaques sont préconisées : 
+- 
+Plaque de type ROMUCHOC ou ACROVYN lisse (HYDROCLAD®) de 2 mm d’épaisseur ; 
+- 
+Plaque manufacturée par le fabricant de la cuvette. 
+2.2.7. Outillage spécifique 
+Règle plate flexible Réf.201 Forbo 
+Couteau avec 5 lames Réf. 202/203 Forbo 
+Cale à maroufler en liège Réf. 205 Forbo 
+Buse rapide PVC Réf. 119 Forbo 
+Couteau à araser Mozart Réf. 190 Forbo 
+Gouge à araser « langue de vipère » Réf. 214 Forbo.  
+Petite chanfreineuse sol & mur Réf. 167 Forbo 
+Buse rapide triangulaire Réf. 207 Forbo 
+Couteau pour siphon Réf. 200 Forbo 
+Fer à souder Hot Jet S Réf. 218 Forbo 
+Coupe joint et bande Réf. 103 Forbo 
+Couteau quart de lune Réf.117 Forbo 
+Guide d'arasement Réf.118 Forbo 
+Cylindre maroufleur Réf. 212 Forbo 
+Gouge à rainurer Réf. 115 Forbo 
+2.3. Dispositions de conception 
+2.3.1. Généralités 
+Au moment de la conception des locaux de douches, il doit être tenu compte des règles concernant l’accessibilité aux Personnes à 
+Mobilité Réduite (PMR) – cf. Chapitre III – TITRE IV « ACCESSIBILITÉ » de la Loi n° 2005-102 du 11 février 2005 ainsi que le « 
+Guide des salles d’eau accessibles à usage individuel dans les bâtiments d’habitation » du 16/07/2012.  
+En outre, et à minima dans le cas de travaux neufs, les dispositions constructives précisées dans le guide du CSTB « Mise en œuvre 
+d’une douche de plain-pied dans les salles d’eau à usage individuel en travaux neufs » doivent être également respectées en 
+fonction des dispositifs de protection contre les projections d’eau éventuellement prévus (cf. articles 5 et 6 du guide - cas des 
+systèmes douches plastiques). 
+
+--- PAGE 12 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 12 sur 25                                                                  
+Le Maître d’œuvre doit s’assurer du respect de ces dispositions ; il doit aussi veiller à ce que l’entreprise soit qualifiée et ses 
+intervenants formés au travers de la vérification des attestations individuelles de formation. 
+2.3.2. Pentes, réservation et évacuations 
+Le support doit présenter les pentes et les réservations nécessaires à la mise en place des évacuations (cf. article 4.3 du CPT 
+Systèmes Douches Plastiques (e-cahier du CSTB n° 3781)). En travaux neufs, les pentes doivent être apportées par le support. 
+En travaux de rénovation, la réservation d’épaisseur doit être suffisante pour assurer la pente minimale ; à défaut, il faudra 
+s’assurer de la faisabilité de la solution proposée dans le Dossier Technique.  
+Les dispositifs constructifs spécifiques (pentes, siphons, gaines techniques,…) doivent être prévus au préalable ainsi que les 
+réservations nécessaires. 
+Sur support à base de liant hydraulique, le siphon ou caniveau doit être installé par scellement à la chape ou à la dalle dans la 
+réservation prévue à cet effet ; le produit à utiliser et la qualité de réalisation du scellement doivent être vérifiés. 
+L’entreprise titulaire du lot gros œuvre et le plombier (ou l’entreprise qui a la charge de la pose du siphon) doivent être informées 
+du choix particulier de siphon et des conditions particulières requises pour sa mise en œuvre en fonction du support. 
+Les plans des pentes et les plans d'implantation des siphons doivent être communiqués à l'entreprise de pose du revêtement. 
+Il appartient au Maître d’œuvre de s’assurer du respect de ces dispositions. 
+2.3.3. Cas d’une chape fluide - Raccordement aux zones de pentes 
+Dans le cas d’un support de type chape fluide (en dehors de la zone d’emprise de l’espace douche – cf. Guide pour la mise en 
+œuvre d’une douche de plain-pied dans les salles d’eau à usage individuel en travaux neufs de juillet 2012), le raccordement avec 
+la zone de pente doit s’effectuer au seuil de porte du local douche et doit faire l’objet d’une étude particulière ; il doit être décrit 
+dans les Documents Particuliers du Marché conformément à l’article 4.32 du Cahier des Prescriptions Techniques « Systèmes 
+Douches Plastiques » (e-cahier du CSTB n° 3781). 
+2.3.4. Choix des produits de mise en œuvre associés 
+Le Maître d’œuvre devra s’assurer que le choix des produits associés nécessaires à la mise en œuvre du système SARLIBAIN 
+(notamment les produits de préparation et de reprofilage de support, les produits de scellement du siphon, etc…) est adapté à 
+l’utilisation prévue. 
+2.3.5. Equipements sanitaires suspendus 
+Dans le cas d’une cuvette WC suspendue, le bâti-support de cuvette et la constitution de la paroi destinée à recevoir la cuvette 
+doivent être dimensionnés afin d’éviter en exploitation tout mouvement de celle-ci induit par les charges d’utilisation de l’appareil, 
+qui pourraient à terme provoquer des désordres au niveau du revêtement mural. Il appartient au Maître d’œuvre de s’assurer de 
+leur conformité aux préconisations des fabricants de ces éléments (rigidité, épaisseur et tenue mécanique notamment). 
+Dans le cas d’une cuvette WC suspendue de type « rallongée » ou dans le cas de l’absence de renforcement particulier du support 
+mural, l’emploi de la plaque de protection préconisée à l’article 2.2.6 du Dossier Technique est requis, en interposition entre le 
+revêtement mural et la surface d’appui de la cuvette WC. 
+En outre, les dispositions nécessaires devront être prévues le cas échéant pour s’assurer que toute la surface d’appui de la cuvette 
+WC soit en contact avec la paroi verticale revêtue, en tenant compte de la surépaisseur due à la remontée en plinthe. 
+L’installation et le montage final de la cuvette sont à la charge de l’entreprise de plomberie.  
+Les plans d'implantation des équipements sanitaires doivent être communiqués à l'entreprise de pose du revêtement. 
+Il appartient au Maître d’œuvre de s’assurer du respect de ces dispositions. 
+Note : Dans le cas d’une cuvette WC suspendue, en l’absence de renfort spécifique, le risque de boursouflure sur le revêtement 
+mural à la jonction de la cuvette WC avec la plaque de plâtre support du fait du serrage des fixations et du fléchissement répété 
+de celle-ci ne peut pas être exclu ; le risque est particulièrement prononcé dans les bâtiments de type MAPAD ou EHPAD ainsi que 
+dans le cas de cuvettes prolongées. Des boursouflures peuvent aussi apparaitre lorsque la forme de l’embase de la cuvette est 
+telle qu’elle peut conduire à un poinçonnement de la plaque de plâtre. Dans tous ces cas, l’interposition d’une plaque rigide au 
+choix du Maître d’œuvre est une solution de renforcement de la rigidité de la paroi qui peut permettre de limiter ce risque. Elle 
+n’affranchit en aucun cas le Maître d’œuvre de s’assurer au préalable de la stabilité totale de l’ensemble comme décrit. 
+2.3.6. Dossier de consultation-Documents Particuliers du Marché 
+Se reporter à la partie 2 de la norme NF DTU 53.12, cahier des clauses administratives spéciales types.  
+En outre, le dossier de consultation doit comprendre les indications suivantes : 
+- Types et descriptions des siphons et des équipements sanitaires ; 
+- Plans des pentes, en fonction des dispositifs de protection contre les projections d’eau éventuellement prévus ; 
+- Plans d'implantation des dispositifs d'évacuation ; 
+- Dispositions minimales de surveillance et d’intervention pour réparation. 
+Il précisera également à la charge de qui est affecté le traitement des fissures du support. 
+2.3.7. Chauffage des locaux 
+Lorsque les conditions du chantier le nécessitent, il appartient au Maître d’ouvrage de prévoir et mettre à disposition les moyens 
+nécessaires pour assurer un apport de chauffage permettant de satisfaire l’exigence de température minimale de +18 °C requise 
+pendant toute la durée du stockage et de la pose du revêtement mural. 
+2.4. Dispositions de mise en oeuvre 
+2.4.1. Consistance des travaux 
+Cf. norme NF DTU 53.2 P2, cahier des clauses administratives spéciales types. 
+En outre, les travaux dus par l'entreprise de pose du revêtement comprennent également : 
+
+--- PAGE 13 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 13 sur 25                                                                  
+- la réalisation des pentes dans le cas de travaux de rénovation ; 
+- la fourniture et la pose des profils de finition ; 
+- la finition autour des siphons. 
+2.4.2. Supports en sol : exigences relatives aux supports et préparation des supports 
+2.4.2.1. 
+Supports neufs à base de liants hydrauliques 
+2.4.2.1.1. 
+Exigences relatives aux supports 
+Les exigences relatives aux supports sont celles définis à l’article 6.1.5 de la norme NF DTU 53.12-P1-1-1. 
+Un exemple de fiche de contrôle de réception des supports en sol à base de liants hydrauliques est donné en annexe 8 du CPT « 
+Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).  
+2.4.2.1.2. 
+Travaux préparatoires 
+Ce sont ceux définis à l’article 9.1 de la norme NF DTU 53.12 P1-1-1 qui s’appliquent à ces supports.  
+2.4.2.2. 
+Supports existant en rénovation 
+2.4.2.2.1. 
+Exigences relatives aux supports 
+Les exigences relatives aux supports admis ainsi que leur préparation sont celles définies à l’article 7.2 la norme NF DTU 53.12 
+P1-1-1.  
+2.4.2.2.2. 
+Travaux préparatoires 
+Une étude préalable de l’état du support est réalisée conformément au NF DTU 53.12 P1-1-1 et à son annexe D. 
+Cette étude est basée sur le Tableau 5 du NF DTU 53.12 P1-1-1 a pour objet notamment : 
+- 
+de mesurer la planéité ; 
+- 
+de définir les zones de l’ancien sol à conserver ou à déposer ; 
+- 
+de repérer les fissures et joints de fractionnement qui doivent être traités ; 
+- 
+de déterminer la nature des chapes. 
+A l’issue de l’étude préalable et reconnaissance du support, la conservation ou la dépose des supports anciens est déterminée 
+selon les critères définis dans le Tableau 6 du NF DTU 53.12 P1-1-1.  
+2.4.3. Supports en mural 
+2.4.3.1. 
+Exigences relatives aux supports 
+Les exigences relatives aux supports admis ainsi que leur préparation sont celles définis au § 6.2 du CPT Systèmes Douches 
+Plastiques (e-cahier du CSTB n° 3781). 
+Un exemple de fiche de contrôle de réception des supports muraux est donné en annexe 10 du CPT Systèmes Douches Plastiques 
+(e-cahier du CSTB n° 3781). 
+2.4.3.2. 
+Préparation des supports muraux 
+Les travaux comprennent au minimum la mise en œuvre d’un primaire et d’un enduit de sol conformément aux dispositions du 
+§7.2.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) précisés comme suit : 
+Se référer au §7.2.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit : 
+L’application d’un primaire compatible avec le support et la colle sera réalisée. L'impression du mur doit être réalisée par un 
+primaire qui homogénéise la porosité. 
+2.4.4. Mise en œuvre du système 
+2.4.4.1. Exigences relatives à l’entreprise 
+Ces exigences sont définies à l’article 7.1 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781).  
+2.4.4.2. Pose du siphon  
+Se référer au §7.3 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781). 
+ (Cf. Figure 25) 
+2.4.4.3. Travaux de revêtement  
+Se référer à l’article 7.4 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781) pour l’organisation générale du 
+chantier, complété comme suit : 
+Aucune perforation au niveau du revêtement de sol n’est admise pour le passage de tuyauteries ou d’évacuations. Seules les 
+solutions suivantes sont visées : 
+ Encastrement dans la cloison ; 
+ Passage en gaine technique ; 
+ Passage dans pièce adjacente ; 
+ Concentration dans un angle et massif coffré ; 
+ Descente du plafond. 
+La solution avec manchons peut être acceptée dans certains cas de rénovation pour : 
+
+--- PAGE 14 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 14 sur 25                                                                  
+ Les arrivées d’eau chaude, froide et eaux usées de lavabos ; 
+ Les tuyaux de chauffage ; 
+ Les sorties verticales des WC (hors de distance des projections d’eau de la douche). 
+- 
+ 
+ 
+ 
+ 
+ 
+Figure 1 - Mise en œuvre du manchon 
+2.4.4.3.1.1. 
+Préparation des angles sol/mur 
+Mise en place d’un profil d’angle (forme d’appui) en bas de plinthe selon illustration ci-dessous (voir Tableau 5 de préconisation 
+des colles). 
+ 
+Figure 2 – Forme d’appui réf. 3109 noir 
+2.4.4.3.1.2. 
+Calepinage, préparation des lés et collage du revêtement de sol 
+Respect des conditions habituelles de mise œuvre stipulées à l’article 9.1.1 de la NF DTU 53.12-1-1-3 pour l’application du 
+revêtement au support avec remontées en plinthe (voir Tableaux 4 et 5 de préconisation des colles) : 
+ Aucun joint horizontal de lés n’est toléré dans un rayon inférieur à 50 cm autour du bord extérieur du siphon.  
+ Le marquage au dos du revêtement et du support permettra le repositionnement précis au cours des manipulations de 
+revêtement (utiliser uniquement un crayon de mine). Inverser les lés. Placer les lés selon les repères à joints serrés. 
+ 
+Figure 3 – Calepinage et préparation des lés 
+
+--- PAGE 15 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 15 sur 25                                                                  
+ Tracer à l’aide d’un traceur pour plinthe sur le support mural la ligne limite d’encollage de la remontée en plinthe (soit une 
+hauteur de plinthe de 12 à 13 cm). Appliquer jusqu’au repère ainsi marqué la bande sèche ou la colle contact PU monocomposant 
+en double encollage à 150g/m² à l'aide de la spatule A1 ou au pinceau. 
+ 
+Figure 4 
+ Autour du siphon, appliquer soigneusement la colle acrylique ou contact PU monocomposant afin d’assurer une parfaite 
+adhérence du revêtement. 
+- 
+ 
+ 
+Figure 5 
+ Afficher le revêtement dans la colle et maroufler du centre vers l’extérieur du lé. Ne pas utiliser d’outil métallique qui risquerait 
+d’endommager le revêtement. Bien appliquer par marouflage le revêtement sur les formes d’appui aux plinthes. 
+2.4.4.3.1.3. 
+Traitement du raccordement du revêtement au siphon 
+ Découper le revêtement à l’endroit du siphon (certains fabricants comme Purus fournissent un couteau adaptés au siphon qui 
+permettent une découpe exacte et ainsi d’éviter des erreurs de mise en œuvre) en réalisant un cercle dans le revêtement pour 
+permettre son blocage par la bague du siphon.  
+ Chauffer le revêtement afin qu’il s’adapte à la platine du siphon. Placer la bague de serrage et s’assurer du bon positionnement 
+de cette dernière et du revêtement.  
+ A l’intérieur du siphon, la tranche du revêtement arasée et restée libre est garnie d’un joint polyuréthane de type Mastic PU. 
+L’intégrité du mastic devra être vérifiée annuellement afin de s’assurer du besoin de réparation ponctuelle. En aucun cas le 
+revêtement ne doit entrer en contact direct avec de l’eau stagnante dans le siphon. 
+ 
+Figure 6a 
+Types de siphons préconisés 
+Les siphons modèles DUSCHBRUNN, FREJA et BRAGE 50 de chez PURUS peuvent être utilisés. 
+Les siphons modèles SITAR de chez NICOLL et modèles TARAFON de chez KESSEL/NORHAM peuvent également être utilisés. 
+
+--- PAGE 16 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 16 sur 25                                                                  
+ 
+Figure 6b – Siphon DUSCHBRUNN réf. 6347 
+ 
+Figure 6c – Siphon FREJA réf. 6321 
+ 
+Figure 6d – Siphon BRAGE 50 réf. 6330 
+ 
+Figure 6e – Couteau Purus réf. 200 Forbo 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4.4.3.1.4. 
+Traitement des rives 
+Exécuter les angles rentrants : 
+- 
+en coupant en pointe l’excédent de revêtement à partir de 5 mm du sol ; 
+ 
+Figure 7 
+- 
+en appliquant parfaitement le revêtement sur une des deux cloisons en pressant bien dans l’angle à l’aide d’une 
+roulette ; 
+
+--- PAGE 17 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 17 sur 25                                                                  
+ 
+Figure 8 
+- 
+en coupant, sur le retour de cloison, l’excédent de revêtement à 45° (à l’aide d’un réglet à 45°), facilitant ainsi la 
+soudure ultérieure et garantissant une bonne étanchéité ; 
+ 
+Figure 9 
+ 
+- 
+en rabattant et coupant à 45° l’excédent restant à l’aide du réglet aligné sur la coupe précédente. 
+Exécuter les angles sortants : 
+- 
+en pliant le revêtement face à l’arête formant deux angles égaux de part et d’autre des pans du mur et en coupant dans 
+le prolongement de l’arête à 5 mm du sol, perpendiculaire au pli ; 
+ 
+Figure 10 
+- 
+en rabattant le revêtement en plinthes ; 
+- 
+en préparant une pièce de revêtement (d’une hauteur légèrement supérieure à celle de la remonté en plinthe) à l’aide 
+d’une équerre et en incisant l’envers de cette pièce à mi épaisseur à l’aide d’une gouge à rainurer à partir de la pointe.  
+ 
+Figure 11 
+- 
+en appliquant la pièce dans l’angle et l’utilisant comme guide pour la découpe des deux retours de plinthe. 
+ 
+Figure 12 
+Exécuter les soudures à chaud au moins 48 heures après l’encollage du revêtement : 
+- 
+en rainurant les joints (rainureuse et gouge à main) ; 
+- 
+en soudant avec le cordon d’apport 4 mm de FORBO ; 
+
+--- PAGE 18 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 18 sur 25                                                                  
+  
+Figure 13 
+ 
+ 
+Figure 14 
+- 
+en arasant à l’aide d’une gouge à araser ou Couteau à araser Mozart après refroidissement du cordon. 
+ 
+ 
+Figure 15 
+2.4.4.3.1.5. 
+Traitement des huisseries 
+Exécuter l’étanchéité des huisseries en disposant au sol un cordon de mastic polyuréthane lors de la pose du revêtement de 
+manière à assurer l’étanchéité par remontée du mastic lors de l’affichage du revêtement. L’intégrité du mastic devra être vérifiée 
+annuellement afin de s’assurer du besoin de réparation ponctuelle.  
+2.4.4.3.1.6. 
+Liaison entre la salle d’eau et le local connexe  
+-  Exécuter la liaison entre la salle d’eau et le local connexe avec l’une des 3 solutions proposées ci-dessous, par ordre de 
+priorité : 
+1. En utilisant un profilé seuil de porte en PVC adapté parmi les trois références ci-dessous, mis en œuvre par collage au 
+support à l’aide d’une colle contact PU et soudure à chaud aux revêtements de sol vinyliques pour les seuils. 
+ 
+Figure 16 – Profilé de seuil 
+ 
+
+--- PAGE 19 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 19 sur 25                                                                  
+Figure 17 –Seuil  visible 120 mm / 40 mm coloré réf. 31944 à 31949 
+ 
+Figure 18 – Seuil visible à soufflet coloré réf. 31084 à 31089 
+ 
+ 
+Figure 19 - Profilé de seuil  visible 125mm/70mm réf . 31144 à 31149 
+2. En exécutant une soudure à chaud si le revêtement contigu le permet (vinylique d’épaisseur voisine) ; 
+3. En réalisant un calfatage au droit du joint en mastic polyuréthane ; l’intégrité du mastic devra être vérifiée annuellement 
+afin de s’assurer du besoin de réparation ponctuelle.  
+Cette dernière solution s’applique lorsque les deux autres ne peuvent l’être. 
+2.4.4.3.2. 
+Version SARLIBAIN Confort (avec sous-couche) – Mise en œuvre du revêtement de sol  
+2.4.4.3.2.1. 
+Mise en œuvre de la sous-couche acoustique 
+Se référer à l’article 9.2 de la NF DTU 53.12 P1-1-1-3 complété comme suit : 
+Voir Tableau 4 de préconisations des colles (spatule dentée de type A2). 
+2.4.4.3.2.2. 
+Mise en place du profil d’angle 
+Avant la mise en œuvre du revêtement, et au minimum 24 heures après la mise en œuvre de la sous-couche, mettre en place le 
+profil de forme d’appui en plinthes collé sur la sous-couche acoustique comme décrit à l’article 2.4.4.3.1.11 (voir Tableaux 4 et 5 
+de préconisation des colles). 
+2.4.4.3.2.3. 
+Mise en place du revêtement de sol 
+Le collage se fait à l’aide d’une colle acrylique (voir Tableaux 4 et 5 de préconisations des colles) à l’aide d’une spatule dentée de 
+type A2 en respectant particulièrement le temps de gommage, en affichant le revêtement et en chassant l’air à l’aide d’une cale à 
+maroufler au fur et à mesure du déroulement du lé afin d’éviter les poches d’air. 
+Pour la mise en œuvre des points particuliers (remontée en plinthe, angles entrants et sortants, siphon, huisseries, profilé seuil de 
+porte, soudures à chaud) respecter les préconisations de l’article 2.5.1.4. 
+2.4.4.3.2.4. 
+Traitement du raccordement du revêtement au siphon 
+Le siphon sera installé à la hauteur requise en tenant compte des pentes par scellement à la chape ou à la dalle dans la réservation 
+prévue à cet effet. Cf. Figure 1 en fin de Dossier Technique. 
+2.4.4.3.3. 
+Mise en œuvre du revêtement mural 
+Les dispositions générales et particulières de la pose du revêtement sont reprises aux § 7.4.4 du CPT Systèmes Douches Plastiques 
+(e-cahier du CSTB n° 3781) complétées ci-après. 
+Dans le cas où une des bandes adhésives double-face préconisées est utilisée pour le collage des points singuliers du revêtement 
+mural ONYX + (angles sortants, recouvrement de la remontée en plinthe), l’attention du Maître d’ouvrage est attirée sur le risque 
+d’apparition à la surface du revêtement du spectre de la bande adhésive. 
+2.4.4.3.3.1. 
+Plenum 
+Se référer au §7.4.4.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781). 
+2.4.4.3.3.2. 
+Calepinage et préparation des lés 
+Se référer à l’article 9.1.1 de la NF DTU 53.12 P-1-1-3 complété ci-après. 
+Le revêtement mural étant destiné à recouvrir sur 2 à 3 cm la remontée en plinthe du revêtement de sol, pour compenser la 
+différence d’épaisseur entre le mur et le revêtement de sol, mettre en œuvre un enduit de remplissage ou un profilé de diminution 
+réf. 3801. 
+Les lés peuvent être posés verticalement ou horizontalement en déroulé par l’utilisation d’une largeur de 2 m et d’une bande de 
+0,50 m (selon hauteur sous plafond) identique au revêtement posé en partie supérieure, en prévoyant obligatoirement un 
+recouvrement de la bande inférieure de 2 à 3 cm accompagnée d’un traitement à froid. 
+Les repérages sur le support ou sur le revêtement devront être réalisés uniquement au crayon de mine, les marqueurs ou stylos à 
+bille provoquant des migrations à travers le revêtement. 
+
+--- PAGE 20 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 20 sur 25                                                                  
+ 
+Figure 20 - Raccord sol/mur – Cas de la sous-couche acoustique TEAC 
+ 
+ 
+ 
+Figure 21 – Profilé de diminution réf. 3801 
+L’encollage du support (voir Tableau 4 de préconisations des colles) doit être fait au moyen d’une spatule dentée fine de type A4 
+puis croisé au rouleau à poils mi-longs type laqueur. Prévoir l’encollage soigné à la spatule sur 2 à 3 cm de la remontée de plinthe 
+correspondant au recouvrement par le revêtement mural ou l’application d’une bande de colle sèche couvrant le profilé de 
+diminution plus les 2 à 3 cm de la remontée en plinthe à recouvrir. 
+Afficher le revêtement : les lés peuvent être posés verticalement ou horizontalement en déroulé par l’utilisation d’une largeur de 
+2 m et d’une bande de 0,50 m (selon la hauteur sous plafond) identique au revêtement posé en partie supérieure, en prévoyant 
+obligatoirement un recouvrement de la bande inférieure de 2 à 3 cm accompagnée d’un traitement à froid.  
+L’usage du souffleur thermique est interdit pour la pose en angles en raison des trop fortes contraintes qui peuvent être exercées 
+sur le revêtement. 
+Chasser l’air en marouflant toujours verticalement (de haut en bas) sans étirer le revêtement et sans le déporter vers les bords, 
+afin d’éviter des retraits ultérieurs. Ne pas utiliser d’outil risquant de marquer le revêtement. 
+2.4.4.3.3.3. 
+Réalisation des joints 
+Se référer au §7.4.5 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781).  
+2.4.4.3.3.4. 
+Passage des angles sortants 
+Se référer au §7.4.4.4 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit :  
+En simple encollage (voir Tableau 5 de préconisation des colles), maroufler le revêtement jusqu’à l’angle et tourner le revêtement 
+en marouflant l’angle verticalement avec un chiffon et la roulette d’angle sortant. Continuer le marouflage au-delà de l’angle. 
+En double encollage (voir Tableau 5 de préconisation des colles), utiliser une colle polyuréthane mono composant en respectant 
+les temps de polymérisation. 
+Avec bande sèche, il est recommandé de respecter la disposition des bandes dans les angles décrite en Figure 22 : le schéma 
+présente les angles sortants et rentrant en indiquant les préconisations de mise en œuvre différenciées entre les deux traitements 
+pour en faciliter l’exécution. 
+ 
+Figure 22 – Disposition des bandes sèches sur les angles de murs 
+
+--- PAGE 21 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 21 sur 25                                                                  
+ 
+2.4.4.3.3.5. 
+Passage des angles rentrants 
+Se référer au §7.4.4.4 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit :  
+Réalisés en simple encollage (voir Tableau 5 de préconisation des colles). 
+Ajuster le revêtement dans l’angle en utilisant la roulette d’angle. 
+Passer l’angle en marouflant verticalement le revêtement sur le retour. 
+Avec bande sèche, cf. le passage des angles sortants ci-dessus et la Figure 22. 
+2.4.4.3.3.6. 
+Passage des tuyauteries et points particuliers 
+Se référer au §7.4.4.7 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) complété comme suit :  
+Les tuyauteries d’arrivée ou d’évacuation doivent être sorties de 5 cm au maximum. L’espace entre la tuyauterie et le mur (entre 
+et derrière les tuyaux) doit être de 5 cm afin de permettre la mise en œuvre d'Onyx +.  
+Après application d’un cordon de mastic polyuréthane autour de la tuyauterie sur le support (voir Tableau 4 de préconisations des 
+colles), réaliser le passage du revêtement mural en pratiquant une incision aussi petite que possible au centre du tuyau et assouplir 
+le revêtement à l’aide d’un chalumeau à air chaud pour faciliter la mise en place de l’Onyx + sur le support. Le revêtement doit 
+bien envelopper la tuyauterie. 
+Aux huisseries de portes, châssis de fenêtre et joints sous plafond, réaliser un joint au mastic polyuréthane (voir Tableau 4 de 
+préconisations des colles et mastics). L’intégrité du mastic devra être vérifiée annuellement afin de s’assurer du besoin de 
+réparation ponctuelle.  
+2.4.4.3.3.7. 
+Découpes 
+Réaliser les découpes du mural au plafond, le long des huisseries de porte et des châssis de fenêtre. Utiliser un joint mastic 
+polyuréthane pour assurer l’étanchéité. L’intégrité du mastic devra être vérifiée annuellement afin de s’assurer du besoin de 
+réparation ponctuelle.  
+Réaliser les découpes du mural en plinthe au moyen d’une règle (après traçage à l’aide du traceur pour plinthe) avec précaution 
+pour ne pas endommager le revêtement de sol. Éliminer toutes les traces de colle sur les revêtements. 
+Appliquer un traitement à froid épais au bas du revêtement mural pour assurer son étanchéité sur toute la périphérie du local afin 
+d’éviter tout développement bactérien sous le revêtement. 
+2.4.4.3.3.8. 
+Soudures des joints 
+Au vu de la technicité de réalisation des soudures murales, la mise en œuvre de cette solution ne pourra être envisagée pour une 
+entreprise qu’après avoir suivi une formation spécifique de la Société FORBO SARLINO ou chez l’un des autres fabricants titulaires 
+d’un Avis Technique. 
+Eviter les ouvertures trop grandes et les serrages prononcés des joints. Le respect d’une ouverture de joint de 0,2 mm et acceptable 
+et permettra un biseautage des chants des lés lors du rainurage, facilitant ainsi la soudure. 
+Exécuter les soudures à chaud au moins 48 heures après l’encollage du revêtement mural : 
+ 
+en éliminant toutes les traces de colle au droit des joints ; 
+ 
+en rainurant le joint manuellement avec une gouge à main ou avec petite chanfreineuse sol & mur en ayant soin de ne 
+pas endommager le support lors de la découpe ; 
+ 
+en soudant le revêtement par cordon d’apport avec arasage en 2 passes après refroidissement du cordon. 
+Des essais préalables sur des chutes de revêtement permettront de régler la vitesse et la température de soudure en vérifiant 
+l’adhésion du cordon. 
+2.4.4.3.3.9. 
+Finitions – Calfatages – Calfatage des fixations d’équipements 
+ Appareils et équipements sanitaires (cf. Figures 23 et 24)  
+- 
+Fixation murale des appareils sanitaires en conformité à la norme NF D 12-208 « Appareils sanitaires – Bâti-supports » 
+(appareils déposés lors de la mise en œuvre des revêtements, évacuations et alimentations d’eau en attente).  
+- 
+Tout percement doit être limité et conçu avec une étanchéité adaptée (rondelle souple ou mastic PU) ; réaliser un 
+cordon d’étanchéité (mastic PU) autour de chaque embase servant de support et d’appui aux appareils tel que décrit en 
+Figure 24 et 25. L’intégrité du mastic devra être vérifiée annuellement afin de s’assurer du besoin de réparation 
+ponctuelle. Le serrage des fixations devrait être fait avec une clé dynamométrique permettant un serrage identique et 
+raisonnable entre les points de fixations ; 
+- 
+Respecter les prescriptions du fabricant : la rigidité du bâti-support, de la cloison ou du parement ainsi que des fixations 
+doit être suffisante pour éviter tout mouvement lors de l’utilisation de l’équipement. Dans le cas des cuvettes 
+suspendues installées sur support plaque de plâtre, il faudra veiller à utiliser des plaques d’une épaisseur suffisante, 
+voire doublées (respecter les spécifications des fabricants). 
+- 
+L’interposition d’une plaque intercalaire de protection et de répartition de contrainte adaptée (disposée par-dessus le 
+revêtement mural et d’épaisseur minimale 2 mm) en résine ou acier inoxydable entre le revêtement mural et l’embase 
+de la cuvette permet de répondre au risque de déformation du revêtement lié au porte-à-faux.  
+- 
+Cette plaque, qui doit dépasser du bord de l’embase de l’appareil sanitaire (dimension plus grande ou débord de 10 cm 
+sur le dessus et de 3 cm à gauche et à droite), est collée sur le revêtement mural à l’aide d’une colle contact PU 
+monocomposant de type 225 eurosol PU de Forbo appliquée en double encollage à 150 g/m² par couche (à l’aide d’une 
+spatule A1). 
+Le calfatage à l’aide d’un cordon d’étanchéité (mastic PU) est requis autour de la plaque 
+- 
+La conception des locaux doit prévoir une évacuation horizontale des appareils sanitaires ; 
+ 
+La fixation du WC au sol peut être envisagée, hors support en bois ou en panneaux dérivés du bois, au choix : 
+
+--- PAGE 22 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 22 sur 25                                                                  
+o Sur socle en béton adapté d’une hauteur de 5 cm minimum (avec remontée du revêtement en plinthe et recouvrement de 
+la partie supérieure par une résine sans retrait (SIKAFLOOR 264 en épaisseur de 1,5 mm minimum) et fixation par chevilles 
+chimiques. Ceci implique l’utilisation d’une cuvette surbaissée ; 
+o Ou directement sur le revêtement par l’utilisation de chevilles chimiques mais éloignées d’au moins 1,20 m du point de 
+fixation de la douche et du siphon. (Cf. figure 29) ; 
+En outre, un joint de calfatage sera exécuté à la jonction entre la cuvette et le revêtement PVC ou la résine, à l’aide d’un 
+mastic approprié (cf. Tableau 8). L’intégrité du mastic devra être vérifiée annuellement afin de s’assurer du besoin de 
+réparation ponctuelle.  
+ 
+Figure 23 - calfatage des fixations murales (main courante) 
+ 
+Figure 24 - Calfatage des fixations murales (cuvette WC) 
+ 
+ 
+
+--- PAGE 23 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 23 sur 25                                                                  
+ 
+2.5. Entretien et réparation 
+Pour l’entretien, se référer au §8.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781). 
+Tableau 8 - Préconisations d’entretien 
+Désignation 
+Mise en service 
+Entretien journalier 
+Entretien hebdomadaire 
+Revêtement de 
+sol 
+Décapage au balai 
+brosse 
+Balayage humide avec 
+détergent neutre 
+Nettoyage au balai brosse et détergent neutre. 
+Essuyage. 
+Revêtement 
+mural 
+Nettoyage avec 
+détergent neutre 
+- 
+Lessivage avec détergent neutre. 
+Siphon 
+Nettoyage de 
+l’intérieur du siphon 
+au détergent neutre 
+- 
+Nettoyage complet du siphon au détergent neutre. 
+Le fabricant tient à disposition de tout utilisateur des fiches d’entretien détaillées. 
+Pour la surveillance et la réparation, se référer au §9 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781). 
+ 
+2.6. Principes de fabrication et de contrôle de cette fabrication 
+2.6.1. Fabrication du revêtement de sol 
+Le revêtement de sol SURESTEP est fabriqué à l’usine de la Société FORBO NOVILON BV à Coevorden certifiée ISO 9001 et fabricant 
+des produits certifiés QB UPEC. 
+2.6.2. Fabrication du revêtement de mur 
+Le revêtement mural est fabriqué pour FORBO SARLINO dans une usine, sous cahier des charges ; cette usine est certifié ISO 
+9001.  
+2.6.3. Fabrication de la sous couche acoustique 
+La sous-couche SARLIBASE ACOUSTIQUE est fabriquée à l’usine FORBO SARLINO certifiée ISO 9001 à Reims. 
+2.6.4. Contrôles du revêtement de sol 
+L‘usine considérée procède aux contrôles de matières premières, aux contrôles du procédé de fabrication et des appareils de 
+mesures, aux contrôles du produit fini conformément aux dispositions prévues dans le règlement d’application de la marque QB 
+UPEC. 
+2.6.5. Contrôles du revêtement de mur 
+La fabrication est effectuée selon les spécifications techniques établies en accord avec la Société FORBO SARLINO à qui sont remis 
+les enregistrements des contrôles effectués sur les produits livrés. 
+2.6.6. Contrôles de la sous couche acoustique 
+L‘usine considérée procède aux contrôles de matières premières, aux contrôles du procédé de fabrication et des appareils de 
+mesures, aux contrôles du produit fini. 
+2.6.7. Suivi de la performance acoustique 
+La Société FORBO SARLINO est tenue d’assurer un suivi de production quant à la performance d’isolation acoustique au bruit de 
+choc des systèmes associant la sous-couche SARLIBASE ACOUSTIQUE au revête- ment de sol SURESTEP à une fréquence d’au 
+moins 1 essai par an. Les résultats des contrôles doivent faire l’objet d’un enregistrement. 
+La tolérance admise dans le cadre du suivi de la performance d’isolation au bruit de choc par rapport à la valeur nominale initiale 
+est de ± 2 dB. Le fabricant est tenu de faire procéder à une mise à jour du présent Avis Technique si l’écart constaté au cours d’un 
+suivi est en dehors de la tolérance. 
+2.7. Réception/mise en service  
+Se référer au § 8.1 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781). 
+2.8. Maintien en service des performances de l’ouvrage - Entretien 
+Se référer au § 8.2 du CPT Systèmes Douches Plastiques (e-cahier du CSTB n° 3781) et aux fiches d’entretien GERFLOR complétées 
+par le tableau 13 en fin de dossier technique. 
+2.8.1. Surveillance – Maintenance – Réparation 
+Se référer à l’article 9 du CPT « Systèmes Douches Plastiques » (e-cahier du CSTB n° 3781). 
+
+--- PAGE 24 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 24 sur 25                                                                  
+Le Maître d’ouvrage doit veiller à ce qu’une surveillance régulière de l’état de l’ouvrage et tout particulièrement des relevés en 
+plinthe, du raccordement au siphon et des soudures (sol et mur) soit réalisée et à ce que les dispositions soient prises en cas 
+d’altération pour procéder à une réparation sans délai 
+2.8.2. Glissance 
+Il est indispensable de maintenir la surface du sol dans un état permettant de limiter sa glissance. De nombreux paramètres 
+influencent la glissance, notamment la présence de polluants au sol, l'entretien et l'usage du local. 
+Il appartient donc au Maître d’Ouvrage d'assurer en particulier un bon niveau d'entretien du sol et des dispositifs d’évacuation, tels 
+que préconisés au Dossier Technique, de manière à assurer une évacuation efficace des eaux et maintenir la performance de 
+glissance du sol dans le temps. 
+2.9. Formation et assistance technique 
+2.9.1. Assistance Technique  
+Sur demande, la Société FORBO SARLINO met à disposition de l’entreprise un technicien susceptible d’intervenir sur un chantier 
+afin de préciser les dispositions spécifiques de mise en œuvre du procédé. 
+La Société FORBO SARLINO organise, dans ses centres de Reims et Rennes des formations à la mise en œuvre du système 
+SARLIBAIN pour le personnel des entreprises qui en font la demande. 
+2.9.2. Exigences relatives à l’entreprise 
+L’entreprise en charge de la mise en œuvre du système devra disposer d’une qualification appropriée de type QUALIBAT 6224 
+(revêtements de sols plastiques dans les locaux à sollicitation particulière). Son encadrement et ses intervenants devront avoir été 
+formés aux particularités de la mise en œuvre des ouvrages de systèmes douches plastiques. L’entreprise devra être en mesure 
+de présenter des attestations individuelles de formation. 
+Le maître d’œuvre devra s’assurer que l’entreprise est qualifiée et ses intervenants formés au travers de la vérification des 
+attestations individuelles de formation. 
+2.10. 
+Résultats expérimentaux 
+Réaction au feu 
+Cf. Article 1.2.1.1 de la partie AVIS du présent Avis Technique. 
+Glissance 
+Cf. Article 1.2.1.2 de la partie AVIS du présent Avis Technique. 
+Acoustique 
+Cf. Article 1.2.1.3 de la partie AVIS du présent Avis Technique. 
+Aptitude à l’emploi - bandes adhésives double-face 
+ Pelage à 24 heures à température ambiante  
+ Pelage à 7 jours à la chaleur et à l’humidité 
+(Résultats d’essais du laboratoire HB FULLER du 14/05/2012) 
+ Pelage à 90° à 10 min et 24 heures 
+ Comportement vis-à-vis des migrations de constituants après vieillissement accéléré et cyclage à la chaleur. 
+(Résultats d’essais du laboratoire du fabricant du 11/12/2013 (transmis par FORBO) 
+2.11. 
+Références 
+2.11.1. Données Environnementales 
+Le procédé ne dispose d’aucune Déclaration Environnementale (DE) et ne peut donc revendiquer aucune performance 
+environnementale particulière. 
+2.11.2. Autres références 
+Plus de 3 millions de m2 posés depuis 1990. 
+ 
+ 
+
+--- PAGE 25 ---
+ 
+ 
+Avis Technique 12/12-1612_V5 
+ 
+ 
+Page 25 sur 25                                                                  
+2.12. 
+Annexes du Dossier Technique 
+Figures du Dossier Technique 
+ 
+ 
+ 
+ 
+ 
+Figure 25 – Schéma de principe du traitement du siphon sur support maçonné avec forme de pente 
+ 
+ 
+Figure 26 – Fixation d’un WC directement sur le revêtement (à la charge du plombier) 
+ 
+ 
+ 
+Mastic PU 
